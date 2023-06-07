@@ -1,0 +1,25 @@
+.button-wrapper {
+  align-items: center;
+  background-color: #403f3f;
+  border-radius: 60px;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 105px;
+}
+
+.button-wrapper .view-more {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

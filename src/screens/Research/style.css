@@ -1,0 +1,262 @@
+.research {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.research .div-7 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 2096px;
+  position: relative;
+  width: 1280px;
+}
+
+.research .navigation-bar-7 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.research .overlap-22 {
+  height: 419px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1282px;
+}
+
+.research .rectangle-23 {
+  background-color: #e6d892;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1282px;
+}
+
+.research .mingke-dai-7 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.research .text-wrapper-124 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.research .resume-8 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 216px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.research .text-wrapper-125 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.research .programming-menu-5 {
+  height: 418px;
+  left: 364px;
+  position: absolute;
+  top: 1px;
+  width: 228px;
+}
+
+.research .group-31 {
+  height: 77px;
+  left: -2px;
+  position: relative;
+  top: -1px;
+  width: 232px;
+}
+
+.research .overlap-group-15 {
+  background-color: #e6d892;
+  height: 75px;
+  width: 230px;
+}
+
+.research .group-32 {
+  height: 29px;
+  left: 11px;
+  position: relative;
+  top: 23px;
+  width: 210px;
+}
+
+.research .programming-3 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.research .text-wrapper-126 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.research .polygon-6 {
+  height: 17px;
+  left: 191px;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}
+
+.research .design-menu-6 {
+  height: 418px;
+  left: 632px;
+  position: absolute;
+  top: 1px;
+  width: 149px;
+}
+
+.research .group-33 {
+  height: 77px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 152px;
+}
+
+.research .overlap-group-16 {
+  background-color: #e6d892;
+  height: 75px;
+  width: 150px;
+}
+
+.research .group-34 {
+  height: 29px;
+  left: 20px;
+  position: relative;
+  top: 23px;
+  width: 112px;
+}
+
+.research .design-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.research .text-wrapper-127 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.research .polygon-7 {
+  height: 17px;
+  left: 93px;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}
+
+.research .research-menu-6 {
+  height: 418px;
+  left: 821px;
+  position: absolute;
+  top: 1px;
+  width: 175px;
+}
+
+.research .group-35 {
+  height: 77px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 178px;
+}
+
+.research .overlap-group-17 {
+  background-color: #e6d892;
+  height: 75px;
+  position: relative;
+  width: 176px;
+}
+
+.research .span-wrapper-3 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.research .text-wrapper-128 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.research .polygon-8 {
+  height: 17px;
+  left: 147px;
+  position: absolute;
+  top: 30px;
+  width: 17px;
+}
+
+.research .contents-2 {
+  background-image: url(../../../static/img/burger-icon-lines-2.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 23px;
+  position: fixed;
+  top: 106px;
+  width: 34px;
+}

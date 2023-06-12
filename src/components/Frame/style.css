@@ -1,0 +1,46 @@
+.frame {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  position: relative;
+  top: 2754px;
+  width: 550px;
+}
+
+.frame .poster-design {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .tools-adobe {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 453px;
+}
+
+.frame .project-information {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 550px;
+}

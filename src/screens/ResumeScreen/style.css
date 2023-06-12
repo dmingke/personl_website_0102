@@ -1,0 +1,561 @@
+.resume-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.resume-screen .resume-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1895px;
+  position: relative;
+  width: 1280px;
+}
+
+.resume-screen .frame-15 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 1745px;
+  left: 47px;
+  overflow: hidden;
+  padding: 20px 5px 0px;
+  position: absolute;
+  top: 150px;
+  width: 1198px;
+}
+
+.resume-screen .element-qq-com {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -11px;
+  margin-right: -11px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 1210px;
+}
+
+.resume-screen .text-wrapper-90 {
+  font-weight: 800;
+}
+
+.resume-screen .text-wrapper-91 {
+  font-size: 32px;
+  text-decoration: underline;
+}
+
+.resume-screen .text-wrapper-92 {
+  font-size: 32px;
+}
+
+.resume-screen .text-wrapper-93 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -11px;
+  margin-right: -11px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 1210px;
+}
+
+.resume-screen .element-GPA {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 1165px;
+}
+
+.resume-screen .text-wrapper-94 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -11px;
+  margin-right: -11px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 1210px;
+}
+
+.resume-screen .flex-container-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 727px;
+  width: 1155px;
+}
+
+.resume-screen .text-38 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-95 {
+  font-weight: 600;
+}
+
+.resume-screen .text-39 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-96 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-40 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-97 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-41 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-98 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-42 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-99 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-43 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-100 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-44 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-101 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-45 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-102 {
+  font-weight: 600;
+}
+
+.resume-screen .text-46 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-103 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-47 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-104 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-48 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-105 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-49 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-106 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-50 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .span-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-wrapper-107 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .flex-container-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 210px;
+  width: 1155px;
+}
+
+.resume-screen .text-51 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-108 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-52 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-109 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-53 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-110 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-54 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-111 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-wrapper-112 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .flex-container-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 184px;
+  width: 1155px;
+}
+
+.resume-screen .text-55 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-113 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-56 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-114 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-57 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-115 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.resume-screen .text-58 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 1155px;
+}
+
+.resume-screen .text-wrapper-116 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0;
+}

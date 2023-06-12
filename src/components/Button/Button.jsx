@@ -4,10 +4,10 @@ import "./style.css";
 
 export const Button = ({ style }) => {
   return (
-    <Link className="button" style={style} to={"/resumezhong"}>
-      <div className="overlap-group-4">
+    <Link className="button" style={style} to="/resumezhong">
+      <div className="overlap-group">
         <div className="rectangle" />
-        <div className="frame">
+        <div className="frame-2">
           <div className="element">中文</div>
           <div className="english">English</div>
         </div>

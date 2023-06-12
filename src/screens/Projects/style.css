@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.projects .div-4 {
+.projects .div-9 {
   background-color: #ffffff;
   border: 1px none;
   height: 2602px;
@@ -14,7 +14,7 @@
   width: 1280px;
 }
 
-.projects .flex-container-7 {
+.projects .flex-container-15 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -26,7 +26,7 @@
   width: 1119px;
 }
 
-.projects .text-33 {
+.projects .text-70 {
   color: transparent;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -38,12 +38,12 @@
   width: 1119px;
 }
 
-.projects .text-wrapper-47 {
+.projects .text-wrapper-142 {
   color: #000000;
   font-weight: 600;
 }
 
-.projects .text-34 {
+.projects .text-71 {
   color: transparent;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -55,11 +55,11 @@
   width: 1119px;
 }
 
-.projects .text-wrapper-48 {
+.projects .text-wrapper-143 {
   color: #000000;
 }
 
-.projects .text-35 {
+.projects .text-72 {
   color: transparent;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -70,11 +70,11 @@
   width: 1119px;
 }
 
-.projects .text-wrapper-49 {
+.projects .text-wrapper-144 {
   color: #000000;
 }
 
-.projects .text-36 {
+.projects .text-73 {
   color: transparent;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -85,11 +85,11 @@
   width: 1119px;
 }
 
-.projects .text-wrapper-50 {
+.projects .text-wrapper-145 {
   color: #000000;
 }
 
-.projects .text-37 {
+.projects .text-74 {
   color: transparent;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -100,11 +100,11 @@
   width: 1119px;
 }
 
-.projects .text-wrapper-51 {
+.projects .text-wrapper-146 {
   color: #000000;
 }
 
-.projects .text-38 {
+.projects .text-75 {
   color: transparent;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -115,21 +115,21 @@
   width: 1119px;
 }
 
-.projects .text-wrapper-52 {
+.projects .text-wrapper-147 {
   color: #000000;
   font-weight: 600;
 }
 
-.projects .text-wrapper-53 {
+.projects .text-wrapper-148 {
   color: #2a64ac;
 }
 
-.projects .text-wrapper-54 {
+.projects .text-wrapper-149 {
   color: #0073c2;
   text-decoration: underline;
 }
 
-.projects .text-wrapper-55 {
+.projects .text-wrapper-150 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
@@ -143,7 +143,7 @@
   white-space: nowrap;
 }
 
-.projects .image {
+.projects .image-8 {
   height: 473px;
   left: 151px;
   object-fit: cover;
@@ -152,7 +152,7 @@
   width: 985px;
 }
 
-.projects .line {
+.projects .line-9 {
   height: 3px;
   left: 76px;
   position: absolute;
@@ -160,7 +160,7 @@
   width: 1112px;
 }
 
-.projects .line-2 {
+.projects .line-10 {
   height: 3px;
   left: 87px;
   position: absolute;
@@ -168,7 +168,7 @@
   width: 1112px;
 }
 
-.projects .overlap-8 {
+.projects .overlap-25 {
   height: 699px;
   left: 96px;
   position: absolute;
@@ -176,7 +176,7 @@
   width: 1099px;
 }
 
-.projects .line-3 {
+.projects .line-11 {
   height: 2px;
   left: 47px;
   position: absolute;
@@ -184,7 +184,7 @@
   width: 1000px;
 }
 
-.projects .group-12 {
+.projects .group-55 {
   height: 699px;
   left: 0;
   position: absolute;
@@ -192,13 +192,13 @@
   width: 1099px;
 }
 
-.projects .overlap-group-8 {
+.projects .overlap-group-9 {
   height: 699px;
   position: relative;
   width: 1095px;
 }
 
-.projects .screen-shot-at-3 {
+.projects .screen-shot-15 {
   height: 143px;
   left: 4px;
   position: absolute;
@@ -206,7 +206,7 @@
   width: 1086px;
 }
 
-.projects .search-engine-construction {
+.projects .search-engine-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -219,7 +219,7 @@
   top: 17px;
 }
 
-.projects .search-result-with-keyword-book {
+.projects .search-result-with-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -232,7 +232,7 @@
   top: 255px;
 }
 
-.projects .image-2 {
+.projects .image-9 {
   height: 378px;
   left: 38px;
   position: absolute;
@@ -240,7 +240,7 @@
   width: 1019px;
 }
 
-.projects .rectangle-13 {
+.projects .rectangle-15 {
   border: 2px solid;
   border-color: #0073c2;
   box-shadow: 0px 4px 4px #00000040;
@@ -251,7 +251,7 @@
   width: 1095px;
 }
 
-.projects .text-wrapper-56 {
+.projects .text-wrapper-151 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
@@ -265,7 +265,7 @@
   white-space: nowrap;
 }
 
-.projects .navigation-bar-3 {
+.projects .navigation-bar-2 {
   height: 75px;
   left: 0;
   position: absolute;
@@ -273,7 +273,7 @@
   width: 1280px;
 }
 
-.projects .overlap-9 {
+.projects .overlap-26 {
   height: 419px;
   left: -1px;
   position: relative;
@@ -281,7 +281,7 @@
   width: 1282px;
 }
 
-.projects .rectangle-14 {
+.projects .rectangle-16 {
   background-color: #e6d892;
   border-bottom-style: solid;
   border-bottom-width: 1px;
@@ -293,7 +293,7 @@
   width: 1282px;
 }
 
-.projects .mingke-dai-3 {
+.projects .mingke-dai-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -317,7 +317,7 @@
   top: 23px;
 }
 
-.projects .group-instance-wrapper {
+.projects .programming-menu {
   height: 418px;
   left: 364px;
   position: absolute;
@@ -325,7 +325,52 @@
   width: 228px;
 }
 
-.projects .design-menu-2 {
+.projects .group-56 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #000000;
+  height: 77px;
+  left: -2px;
+  position: relative;
+  top: -1px;
+  width: 232px;
+}
+
+.projects .overlap-group-10 {
+  background-color: #e6d892;
+  height: 75px;
+  width: 230px;
+}
+
+.projects .group-57 {
+  height: 29px;
+  left: 11px;
+  position: relative;
+  top: 23px;
+  width: 210px;
+}
+
+.projects .programming-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.projects .polygon {
+  height: 13px;
+  left: 192px;
+  position: absolute;
+  top: 10px;
+  width: 15px;
+}
+
+.projects .design-menu {
   height: 418px;
   left: 632px;
   position: absolute;
@@ -333,7 +378,52 @@
   width: 149px;
 }
 
-.projects .research-menu-2 {
+.projects .group-58 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #000000;
+  height: 77px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 152px;
+}
+
+.projects .overlap-group-11 {
+  background-color: #e6d892;
+  height: 75px;
+  width: 150px;
+}
+
+.projects .group-59 {
+  height: 29px;
+  left: 20px;
+  position: relative;
+  top: 23px;
+  width: 112px;
+}
+
+.projects .design-3 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.projects .polygon-2 {
+  height: 13px;
+  left: 94px;
+  position: absolute;
+  top: 10px;
+  width: 15px;
+}
+
+.projects .research-menu {
   height: 418px;
   left: 821px;
   position: absolute;
@@ -341,7 +431,45 @@
   width: 175px;
 }
 
-.projects .flex-container-8 {
+.projects .group-60 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #000000;
+  height: 77px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 178px;
+}
+
+.projects .overlap-group-12 {
+  background-color: #e6d892;
+  height: 75px;
+  position: relative;
+  width: 176px;
+}
+
+.projects .research-3 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.projects .polygon-3 {
+  height: 13px;
+  left: 148px;
+  position: absolute;
+  top: 34px;
+  width: 15px;
+}
+
+.projects .flex-container-16 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -353,7 +481,7 @@
   width: 1072px;
 }
 
-.projects .text-39 {
+.projects .text-76 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -365,11 +493,11 @@
   width: 1072px;
 }
 
-.projects .text-wrapper-57 {
+.projects .text-wrapper-152 {
   font-weight: 600;
 }
 
-.projects .text-40 {
+.projects .text-77 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -381,7 +509,7 @@
   width: 1072px;
 }
 
-.projects .text-wrapper-58 {
+.projects .text-wrapper-153 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -389,26 +517,7 @@
   letter-spacing: 0;
 }
 
-.projects .text-41 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 1072px;
-}
-
-.projects .text-wrapper-59 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-}
-
-.projects .text-42 {
+.projects .text-78 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -419,7 +528,7 @@
   width: 1072px;
 }
 
-.projects .text-wrapper-60 {
+.projects .text-wrapper-154 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -427,7 +536,7 @@
   letter-spacing: 0;
 }
 
-.projects .text-43 {
+.projects .text-79 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -438,7 +547,7 @@
   width: 1072px;
 }
 
-.projects .text-wrapper-61 {
+.projects .text-wrapper-155 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -446,7 +555,26 @@
   letter-spacing: 0;
 }
 
-.projects .git-respository-to-see-all-EECS-projects-https-github-com-dmingke-projects-git {
+.projects .text-80 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 1072px;
+}
+
+.projects .text-wrapper-156 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.projects .git-respository-to-2 {
   color: transparent;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -458,22 +586,22 @@
   top: 2439px;
 }
 
-.projects .text-wrapper-62 {
+.projects .text-wrapper-157 {
   color: #000000;
   font-weight: 600;
 }
 
-.projects .text-wrapper-63 {
+.projects .text-wrapper-158 {
   color: #0073c2;
   text-decoration: underline;
 }
 
-.projects .text-wrapper-64 {
+.projects .text-wrapper-159 {
   color: #0073c2;
   text-decoration: underline;
 }
 
-.projects .text-wrapper-65 {
+.projects .text-wrapper-160 {
   color: #0073c2;
   text-decoration: underline;
 }

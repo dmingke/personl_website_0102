@@ -2,11 +2,14 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { FrontPage } from "./screens/FrontPage";
 import { Resume } from "./screens/Resume";
-import { Projects } from "./screens/Projects";
-import { ResumeScreen } from "./screens/ResumeScreen";
-import { SkillsCourse } from "./screens/SkillsCourse";
-import { Design } from "./screens/Design";
+import { Freeze } from "./screens/Freeze";
 import { Research } from "./screens/Research";
+import { Design } from "./screens/Design";
+import { Communieat } from "./screens/Communieat";
+import { ResumeScreen } from "./screens/ResumeScreen";
+import { ProgrammingOriginal } from "./screens/ProgrammingOriginal";
+import { Projects } from "./screens/Projects";
+import { SkillsCourse } from "./screens/SkillsCourse";
 
 const router = createBrowserRouter([
   {
@@ -22,24 +25,36 @@ const router = createBrowserRouter([
     element: <Resume />,
   },
   {
-    path: "/projects",
-    element: <Projects />,
+    path: "/freeze",
+    element: <Freeze />,
   },
   {
-    path: "/resumezhong",
-    element: <ResumeScreen />,
-  },
-  {
-    path: "/skills-course",
-    element: <SkillsCourse />,
+    path: "/research",
+    element: <Research />,
   },
   {
     path: "/design",
     element: <Design />,
   },
   {
-    path: "/research",
-    element: <Research />,
+    path: "/communieat",
+    element: <Communieat />,
+  },
+  {
+    path: "/resumezhong",
+    element: <ResumeScreen />,
+  },
+  {
+    path: "/programming-original",
+    element: <ProgrammingOriginal />,
+  },
+  {
+    path: "/projects",
+    element: <Projects />,
+  },
+  {
+    path: "/skills-course",
+    element: <SkillsCourse />,
   },
 ]);
 

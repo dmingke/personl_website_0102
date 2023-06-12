@@ -6,19 +6,24 @@
   gap: 10px;
   height: 40px;
   justify-content: center;
+  left: 50%;
   padding: 10px;
   position: relative;
-  width: 105px;
+  top: -4630px;
+  width: 115px;
 }
 
 .button-wrapper .view-more {
   color: #ffffff;
   font-family: "Lato", Helvetica;
-  font-size: 17px;
+  font-size: 20px;
   font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
-  margin-top: -1px;
+  margin-bottom: -1px;
+  margin-left: -1.5px;
+  margin-right: -1.5px;
+  margin-top: -3px;
   position: relative;
   white-space: nowrap;
   width: fit-content;

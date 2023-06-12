@@ -9,340 +9,98 @@
 .design .div-6 {
   background-color: #ffffff;
   border: 1px none;
-  height: 4491px;
-  overflow-x: hidden;
+  height: 6068px;
   position: relative;
   width: 1280px;
 }
 
+.design .lab {
+  height: 290px;
+  left: 62px;
+  position: absolute;
+  top: 5692px;
+  width: 1159px;
+}
+
+.design .line {
+  height: 1px;
+  left: 86px;
+  position: absolute;
+  top: 5472px;
+  width: 1112px;
+}
+
+.design .group-22 {
+  height: 656px;
+  left: 74px;
+  position: absolute;
+  top: 4761px;
+  width: 1133px;
+}
+
 .design .page {
   height: 633px;
-  left: 695px;
+  left: 605px;
   position: absolute;
-  top: 1035px;
+  top: 23px;
   width: 528px;
 }
 
-.design .screen-shot-at-4 {
-  height: 561px;
-  left: 40px;
+.design .screen-shot-3 {
+  height: 274px;
+  left: 50px;
   object-fit: cover;
   position: absolute;
-  top: 372px;
-  width: 1199px;
+  top: 340px;
+  width: 497px;
 }
 
-.design .frame-7 {
-  height: 175px;
-  left: 322px;
+.design .line-2 {
+  height: 1px;
+  left: 84px;
   position: absolute;
-  top: 136px;
-  width: 636px;
+  top: 4731px;
+  width: 1112px;
 }
 
-.design .poster-design {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 32px;
-  font-weight: 700;
-  left: 219px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: -1px;
-  white-space: nowrap;
-}
-
-.design .text-wrapper-98 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 32px;
-  font-weight: 700;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .tools-adobe-photoshop-adobe-color {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 92px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 62px;
-  width: 453px;
-}
-
-.design .text-wrapper-99 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .application-used-for-UMICH-spring-summer-courses-and-UMICH-biological-station-website-construction {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 116px;
-  width: 635px;
-}
-
-.design .text-wrapper-100 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .frame-8 {
-  height: 233px;
-  left: 34px;
-  position: absolute;
-  top: 1013px;
-  width: 636px;
-}
-
-.design .poster-design-2 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 32px;
-  font-weight: 700;
-  left: 230px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: -1px;
-  white-space: nowrap;
-}
-
-.design .text-wrapper-101 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 32px;
-  font-weight: 700;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .tools-adobe-photoshop-adobe-color-2 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 196px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 62px;
-}
-
-.design .text-wrapper-102 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .application-used-for-UMICH-spring-summer-courses-and-UMICH-biological-station-website-construction-2 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 116px;
-  width: 635px;
-}
-
-.design .text-wrapper-103 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .frame-9 {
-  height: 175px;
-  left: 323px;
-  position: absolute;
-  top: 1752px;
-  width: 636px;
-}
-
-.design .poster-design-3 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 32px;
-  font-weight: 700;
-  left: 176px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: -1px;
-  white-space: nowrap;
-}
-
-.design .text-wrapper-104 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 32px;
-  font-weight: 700;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .tools-adobe-photoshop-adobe-color-3 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 196px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 62px;
-}
-
-.design .text-wrapper-105 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .application-used-for-UMICH-spring-summer-courses-and-UMICH-biological-station-website-construction-3 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 116px;
-  width: 635px;
-}
-
-.design .text-wrapper-106 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .overlap-19 {
-  height: 975px;
+.design .overlap-9 {
+  height: 1032px;
   left: 78px;
   position: absolute;
-  top: 2314px;
+  top: 3645px;
   width: 1124px;
 }
 
-.design .frame-10 {
-  height: 233px;
-  left: 245px;
-  position: absolute;
-  top: 0;
-  width: 636px;
-}
-
-.design .poster-design-4 {
+.design .link-to-view-entire {
   color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 32px;
-  font-weight: 700;
-  left: 150px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: -1px;
-  white-space: nowrap;
-}
-
-.design .text-wrapper-107 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 32px;
-  font-weight: 700;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .tools-adobe-photoshop-adobe-color-4 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 92px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 62px;
-  width: 453px;
-}
-
-.design .text-wrapper-108 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .application-used-for-UMICH-spring-summer-courses-and-UMICH-biological-station-website-construction-4 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Inter", Helvetica;
   font-size: 24px;
   font-weight: 400;
-  left: 0;
+  left: 77px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  text-align: center;
-  top: 116px;
-  width: 635px;
+  top: 974px;
+  width: 971px;
 }
 
-.design .text-wrapper-109 {
+.design .text-wrapper-74 {
+  font-weight: 700;
+}
+
+.design .text-wrapper-75 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Inter", Helvetica;
   font-size: 24px;
   font-weight: 400;
   letter-spacing: 0;
-  line-height: normal;
 }
 
-.design .image-3 {
+.design .text-wrapper-76 {
+  text-decoration: underline;
+}
+
+.design .image-5 {
   height: 747px;
   left: 0;
   position: absolute;
@@ -350,480 +108,251 @@
   width: 1124px;
 }
 
-.design .screen-shot-at-5 {
-  height: 274px;
-  left: 84px;
+.design .line-3 {
+  height: 1px;
+  left: 87px;
+  position: absolute;
+  top: 3609px;
+  width: 1112px;
+}
+
+.design .screen-shot-4 {
+  height: 512px;
+  left: 93px;
   object-fit: cover;
   position: absolute;
-  top: 1353px;
-  width: 497px;
+  top: 3039px;
+  width: 1094px;
 }
 
-.design .link-to-view-entire-project-with-description-https-acrobat-adobe-com-link-review-uri-urn-aaid-scds-US {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 110px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 3319px;
-  width: 1082px;
-}
-
-.design .text-wrapper-110 {
-  font-family: "Inter", Helvetica;
-  font-weight: 700;
-}
-
-.design .text-wrapper-111 {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .text-wrapper-112 {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .line-5 {
+.design .line-4 {
   height: 1px;
   left: 84px;
   position: absolute;
-  top: 991px;
+  top: 2720px;
   width: 1112px;
 }
 
-.design .line-6 {
-  height: 1px;
-  left: 85px;
+.design .group-23 {
+  height: 737px;
+  left: 147px;
   position: absolute;
-  top: 2276px;
-  width: 1112px;
+  top: 1941px;
+  width: 974px;
 }
 
-.design .line-7 {
-  height: 1px;
-  left: 85px;
+.design .click-to-view-the-wrapper {
+  background-color: #403f3f;
+  border-radius: 60px;
+  height: 45px;
+  left: 12px;
   position: absolute;
-  top: 1724px;
-  width: 1112px;
+  top: 692px;
+  width: 293px;
 }
 
-.design .lab {
-  height: 290px;
-  left: 61px;
-  position: absolute;
-  top: 1944px;
-  width: 1159px;
-}
-
-.design .frame-11 {
-  height: 233px;
-  left: 309px;
-  position: absolute;
-  top: 3421px;
-  width: 636px;
-}
-
-.design .poster-design-5 {
-  color: #000000;
+.design .click-to-view-the {
+  color: #ffffff;
   font-family: "Lato", Helvetica;
-  font-size: 32px;
+  font-size: 20px;
   font-weight: 700;
-  left: 150px;
+  left: 21px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: -1px;
+  text-decoration: underline;
+  top: 10px;
   white-space: nowrap;
 }
 
-.design .text-wrapper-113 {
-  color: #000000;
+.design .screen-shot-5 {
+  height: 648px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 317px;
+}
+
+.design .group-24 {
+  height: 735px;
+  left: 141px;
+  position: absolute;
+  top: 1166px;
+  width: 1003px;
+}
+
+.design .screen-shot-6 {
+  height: 648px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.design .button-2 {
+  background-color: #403f3f;
+  border-radius: 60px;
+  height: 45px;
+  left: 18px;
+  position: absolute;
+  top: 690px;
+  width: 293px;
+}
+
+.design .click-to-view-the-2 {
+  color: #ffffff;
   font-family: "Lato", Helvetica;
-  font-size: 32px;
+  font-size: 20px;
   font-weight: 700;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .tools-adobe-photoshop-adobe-color-5 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 92px;
+  left: 21px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  text-align: center;
-  top: 62px;
-  width: 453px;
+  text-decoration: underline;
+  top: 9px;
+  white-space: nowrap;
 }
 
-.design .text-wrapper-114 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .application-used-for-UMICH-spring-summer-courses-and-UMICH-biological-station-website-construction-5 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
+.design .screen-shot-7 {
+  height: 481px;
+  left: 76px;
+  object-fit: cover;
   position: absolute;
-  text-align: center;
-  top: 116px;
-  width: 635px;
+  top: 581px;
+  width: 563px;
 }
 
-.design .text-wrapper-115 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .overlap-20 {
-  height: 81px;
-  left: 173px;
+.design .screen-shot-8 {
+  height: 481px;
+  left: 640px;
+  object-fit: cover;
   position: absolute;
-  top: 3976px;
-  width: 926px;
+  top: 581px;
+  width: 562px;
 }
 
-.design .https-www-figma-com-files-team {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
+.design .frame-9 {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  left: 380px;
   position: absolute;
-  top: 52px;
+  top: 106px;
+  width: fit-content;
 }
 
-.design .text-wrapper-116 {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .https-www-figma-com-file-FREEZE-type-design-node-id-t {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 8px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 0;
-  width: 918px;
-}
-
-.design .text-wrapper-117 {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .https-www-figma-com-file-hi-fi-wireframe-type-design-node-id-t {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 181px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 3910px;
-  width: 926px;
-}
-
-.design .text-wrapper-118 {
-  color: #000000;
-  font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .frame-12 {
-  height: 541px;
-  left: 0;
-  position: fixed;
-  top: 0;
-  width: 1300px;
-}
-
-.design .navigation-bar-6 {
-  height: 75px;
-  width: 1280px;
-}
-
-.design .overlap-21 {
-  height: 419px;
-  left: -1px;
+.design .group-25 {
+  height: 40px;
+  min-width: 202px;
   position: relative;
-  top: -1px;
-  width: 1282px;
 }
 
-.design .rectangle-22 {
-  background-color: #ecdd93;
-  height: 77px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 1282px;
+.design .UX-design-wrapper {
+  background-color: #f0d6ac99;
+  border-radius: 2px;
+  height: 40px;
+  position: relative;
+  width: 200px;
 }
 
-.design .mingke-dai-6 {
+.design .UX-design {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 600;
-  left: 22px;
+  left: 44px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 23px;
-}
-
-.design .text-wrapper-119 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .resume-7 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 216px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 23px;
-}
-
-.design .text-wrapper-120 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .programming-menu-4 {
-  height: 418px;
-  left: 364px;
-  position: absolute;
-  top: 1px;
-  width: 228px;
+  top: 6px;
 }
 
 .design .group-26 {
-  height: 77px;
-  left: -2px;
+  height: 40px;
+  min-width: 202px;
   position: relative;
-  top: -1px;
-  width: 232px;
 }
 
-.design .overlap-group-12 {
-  background-color: #e6d892;
-  height: 75px;
-  width: 230px;
+.design .overlap-10 {
+  background-color: #f0d6ac99;
+  border-radius: 2px;
+  height: 40px;
+  position: relative;
+  width: 200px;
+}
+
+.design .text-wrapper-77 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
 }
 
 .design .group-27 {
-  height: 29px;
-  left: 11px;
+  height: 40px;
+  margin-right: -2px;
+  min-width: 202px;
   position: relative;
-  top: 23px;
-  width: 210px;
 }
 
-.design .programming-2 {
+.design .overlap-11 {
+  background-color: #f0d6ac99;
+  border-radius: 2px;
+  height: 40px;
+  position: relative;
+  width: 200px;
+}
+
+.design .text-wrapper-78 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 600;
-  left: 0;
+  left: 34px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: -1px;
-}
-
-.design .text-wrapper-121 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .polygon-3 {
-  height: 17px;
-  left: 191px;
   position: absolute;
   top: 6px;
-  width: 17px;
-}
-
-.design .design-menu-5 {
-  height: 418px;
-  left: 632px;
-  position: absolute;
-  top: 1px;
-  width: 149px;
 }
 
 .design .group-28 {
-  height: 77px;
-  left: -1px;
+  height: 69px;
+  left: 58px;
+  position: absolute;
+  top: 91px;
+  width: 120px;
+}
+
+.design .overlap-12 {
+  height: 69px;
   position: relative;
-  top: -1px;
-  width: 152px;
+  width: 118px;
 }
 
-.design .overlap-group-13 {
-  background-color: #e6d892;
-  height: 75px;
-  width: 150px;
-}
-
-.design .group-29 {
-  height: 29px;
-  left: 20px;
-  position: relative;
-  top: 23px;
-  width: 112px;
-}
-
-.design .span-wrapper-2 {
+.design .table-of-contents-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 500;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 100px;
+}
+
+.design .contents-2 {
+  height: 54px;
   left: 0;
-  letter-spacing: 0;
-  line-height: normal;
   position: absolute;
-  top: -1px;
-}
-
-.design .text-wrapper-122 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .polygon-4 {
-  height: 17px;
-  left: 93px;
-  position: absolute;
-  top: 6px;
-  width: 17px;
-}
-
-.design .research-menu-5 {
-  height: 418px;
-  left: 821px;
-  position: absolute;
-  top: 1px;
-  width: 175px;
-}
-
-.design .group-30 {
-  height: 77px;
-  left: -1px;
-  position: relative;
-  top: -1px;
-  width: 178px;
-}
-
-.design .overlap-group-14 {
-  background-color: #e6d892;
-  height: 75px;
-  position: relative;
-  width: 176px;
-}
-
-.design .research-3 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 20px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 23px;
-}
-
-.design .text-wrapper-123 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.design .polygon-5 {
-  height: 17px;
-  left: 147px;
-  position: absolute;
-  top: 30px;
-  width: 17px;
-}
-
-.design .contents {
-  background-image: url(../../../static/img/burger-icon-lines-2.png);
-  background-size: 100% 100%;
-  height: 40px;
-  left: 40px;
-  position: fixed;
-  top: 116px;
+  top: 0;
   width: 34px;
 }

@@ -9,98 +9,17 @@
 .resume .div-2 {
   background-color: #ffffff;
   border: 1px none;
-  height: 1119px;
+  height: 2069px;
   position: relative;
   width: 1280px;
 }
 
-.resume .navigation-bar-wrapper {
-  background-color: #ece1a7;
-  height: 75px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 1280px;
-}
-
-.resume .navigation-bar {
-  height: 75px;
-}
-
-.resume .overlap-2 {
-  height: 419px;
-  left: -1px;
-  position: relative;
-  top: -1px;
-  width: 1282px;
-}
-
-.resume .rectangle-4 {
-  background-color: #e6d892;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: #000000;
-  height: 77px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 1282px;
-}
-
-.resume .mingke-dai {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 22px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 23px;
-}
-
-.resume .text-wrapper-2 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 800;
-  left: 216px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 23px;
-}
-
-.resume .programming-menu {
-  height: 418px;
-  left: 364px;
-  position: absolute;
-  top: 1px;
-  width: 228px;
-}
-
-.resume .design-menu {
-  height: 418px;
-  left: 632px;
-  position: absolute;
-  top: 1px;
-  width: 149px;
-}
-
-.resume .research-menu {
-  height: 418px;
-  left: 821px;
-  position: absolute;
-  top: 1px;
-  width: 175px;
-}
-
-.resume .frame-3 {
+.resume .frame-4 {
   align-items: flex-end;
   display: flex;
   flex-direction: column;
   gap: 50px;
-  height: 1819px;
+  height: 1841px;
   justify-content: center;
   left: 58px;
   padding: 20px;
@@ -147,16 +66,16 @@
   width: 1102px;
 }
 
-.resume .text-wrapper-3 {
+.resume .text-wrapper-2 {
   font-size: 24px;
   text-decoration: underline;
 }
 
-.resume .text-wrapper-4 {
+.resume .text-wrapper-3 {
   font-size: 24px;
 }
 
-.resume .group-3 {
+.resume .group-2 {
   height: 215px;
   margin-right: -4px;
   min-width: 1107.53px;
@@ -200,7 +119,7 @@
   width: 1094px;
 }
 
-.resume .text-wrapper-5 {
+.resume .text-wrapper-4 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -219,7 +138,7 @@
   width: 1094px;
 }
 
-.resume .text-wrapper-6 {
+.resume .text-wrapper-5 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -239,7 +158,7 @@
   width: 1094px;
 }
 
-.resume .text-wrapper-7 {
+.resume .text-wrapper-6 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -259,7 +178,7 @@
   width: 1094px;
 }
 
-.resume .text-wrapper-8 {
+.resume .text-wrapper-7 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -267,14 +186,14 @@
   letter-spacing: 0;
 }
 
-.resume .group-4 {
+.resume .group-3 {
   height: 1031px;
   margin-right: -2px;
   min-width: 1109px;
   position: relative;
 }
 
-.resume .group-5 {
+.resume .group-4 {
   height: 592px;
   left: 0;
   position: absolute;
@@ -282,7 +201,7 @@
   width: 1106px;
 }
 
-.resume .text-wrapper-9 {
+.resume .text-wrapper-8 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 32px;
@@ -319,11 +238,11 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-10 {
+.resume .text-wrapper-9 {
   font-weight: 600;
 }
 
-.resume .text-wrapper-11 {
+.resume .text-wrapper-10 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -331,7 +250,7 @@
   letter-spacing: 0;
 }
 
-.resume .text-wrapper-12 {
+.resume .text-wrapper-11 {
   font-weight: 600;
 }
 
@@ -346,16 +265,16 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-13 {
+.resume .text-wrapper-12 {
   font-weight: 500;
   text-decoration: underline;
 }
 
-.resume .text-wrapper-14 {
+.resume .text-wrapper-13 {
   font-weight: 500;
 }
 
-.resume .text-wrapper-15 {
+.resume .text-wrapper-14 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -374,7 +293,7 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-16 {
+.resume .text-wrapper-15 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -393,7 +312,7 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-17 {
+.resume .text-wrapper-16 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -413,7 +332,7 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-18 {
+.resume .text-wrapper-17 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -432,7 +351,7 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-19 {
+.resume .text-wrapper-18 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -451,7 +370,7 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-20 {
+.resume .text-wrapper-19 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -470,7 +389,7 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-21 {
+.resume .text-wrapper-20 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -489,7 +408,7 @@
   width: 1093.23px;
 }
 
-.resume .text-wrapper-22 {
+.resume .text-wrapper-21 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -520,11 +439,11 @@
   width: 1102px;
 }
 
-.resume .text-wrapper-23 {
+.resume .text-wrapper-22 {
   font-weight: 600;
 }
 
-.resume .text-wrapper-24 {
+.resume .text-wrapper-23 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -532,11 +451,11 @@
   letter-spacing: 0;
 }
 
-.resume .text-wrapper-25 {
+.resume .text-wrapper-24 {
   font-weight: 600;
 }
 
-.resume .text-wrapper-26 {
+.resume .text-wrapper-25 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -555,11 +474,11 @@
   width: 1102px;
 }
 
-.resume .text-wrapper-27 {
+.resume .text-wrapper-26 {
   font-weight: 500;
 }
 
-.resume .text-wrapper-28 {
+.resume .text-wrapper-27 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -578,7 +497,7 @@
   width: 1102px;
 }
 
-.resume .text-wrapper-29 {
+.resume .text-wrapper-28 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -597,7 +516,7 @@
   width: 1102px;
 }
 
-.resume .text-wrapper-30 {
+.resume .text-wrapper-29 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -616,7 +535,7 @@
   width: 1102px;
 }
 
-.resume .text-wrapper-31 {
+.resume .text-wrapper-30 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -635,7 +554,7 @@
   width: 1102px;
 }
 
-.resume .text-wrapper-32 {
+.resume .text-wrapper-31 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -654,7 +573,7 @@
   width: 1102px;
 }
 
-.resume .text-wrapper-33 {
+.resume .text-wrapper-32 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -683,7 +602,7 @@
   width: 1097px;
 }
 
-.resume .text-wrapper-34 {
+.resume .text-wrapper-33 {
   font-weight: 700;
 }
 
@@ -699,7 +618,7 @@
   width: 1097px;
 }
 
-.resume .text-wrapper-35 {
+.resume .text-wrapper-34 {
   font-size: 24px;
 }
 
@@ -715,7 +634,7 @@
   width: 1097px;
 }
 
-.resume .text-wrapper-36 {
+.resume .text-wrapper-35 {
   font-size: 24px;
 }
 
@@ -731,7 +650,7 @@
   width: 1097px;
 }
 
-.resume .text-wrapper-37 {
+.resume .text-wrapper-36 {
   font-size: 24px;
 }
 
@@ -746,7 +665,7 @@
   width: 1097px;
 }
 
-.resume .text-wrapper-38 {
+.resume .text-wrapper-37 {
   font-size: 24px;
 }
 
@@ -762,6 +681,6 @@
   width: 1097px;
 }
 
-.resume .text-wrapper-39 {
+.resume .text-wrapper-38 {
   font-size: 24px;
 }

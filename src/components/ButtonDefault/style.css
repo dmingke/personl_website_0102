@@ -4,10 +4,13 @@
   border-color: #000000;
   border-radius: 60px;
   height: 40px;
+  left: 1075px;
+  position: relative;
+  top: 110px;
   width: 158px;
 }
 
-.button-default .overlap-group-5 {
+.button-default .overlap-group-2 {
   height: 40px;
   position: relative;
   width: 165px;
@@ -23,7 +26,7 @@
   width: 86px;
 }
 
-.button-default .frame-2 {
+.button-default .frame-3 {
   align-items: center;
   display: flex;
   gap: 35px;

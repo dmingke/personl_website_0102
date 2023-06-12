@@ -1,15 +1,40 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./style.css";
 
-export const Group = ({ style, polygonStyle, onMouseEnter }) => {
+
+export const Group = ({ style }) => {
+  const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    const toggleVisibility = () => {
+      if (window.pageYOffset > 300) {
+        setIsVisible(true);
+      } else {
+        setIsVisible(false);
+      }
+    };
+
+    window.addEventListener("scroll", toggleVisibility);
+
+    return () => window.removeEventListener("scroll", toggleVisibility);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
+
+  if (!isVisible) {
+    return null;
+  }
+
   return (
-    <div className="group" style={style} onMouseEnter={onMouseEnter}>
-      <div className="overlap-group">
-        <div className="div">
-          <div className="programming">PROGRAMMING</div>
-          <img className="polygon" style={polygonStyle} alt={"Polygon"} src={"/img/polygon-1.svg"} />
-        </div>
-      </div>
+    <div className="group" style={style} onClick={scrollToTop}>
+      <img className="vector" alt="Vector" src="/img/vector-1.png" />
+      <div className="top">Top</div>
     </div>
   );
 };
+

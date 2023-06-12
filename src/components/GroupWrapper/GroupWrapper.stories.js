@@ -8,7 +8,10 @@ export default {
 export const Default = {
   args: {
     style: {},
+    cStyle: {},
+    text: "C++",
+    groupStyle: {},
     overlapGroupStyle: {},
-    polygonStyle: {},
+    rectangleStyle: {},
   },
 };

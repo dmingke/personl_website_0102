@@ -1,41 +1,52 @@
 .group-wrapper {
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: #000000;
-  height: 77px;
-  width: 152px;
-}
-
-.group-wrapper .overlap-group-2 {
-  background-color: #ece1a7;
-  height: 75px;
-  width: 150px;
-}
-
-.group-wrapper .group-2 {
-  height: 29px;
-  left: 20px;
+  border-radius: 10px;
+  height: 50px;
+  left: 4296px;
   position: relative;
-  top: 23px;
+  top: -3016px;
+  width: 498px;
+}
+
+.group-wrapper .overlap {
+  height: 50px;
+  position: relative;
+}
+
+.group-wrapper .overlap-group-wrapper {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 114px;
+}
+
+.group-wrapper .c-wrapper {
+  background-color: #c9dcf0;
+  height: 50px;
+  position: relative;
   width: 112px;
 }
 
-.group-wrapper .text-wrapper {
+.group-wrapper .c {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
-  font-weight: 600;
-  left: 0;
+  font-weight: 500;
+  height: 29px;
+  left: 34px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 0;
+  text-align: center;
+  top: 12px;
 }
 
-.group-wrapper .img {
-  height: 13px;
-  left: 94px;
+.group-wrapper .rectangle-3 {
+  background-color: #0073c2;
+  border-radius: 7px;
+  height: 50px;
+  left: 112px;
   position: absolute;
-  top: 10px;
-  width: 15px;
+  top: 0;
+  width: 386px;
 }

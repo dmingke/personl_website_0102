@@ -1,15 +1,24 @@
+import PropTypes from "prop-types";
 import React from "react";
 import "./style.css";
 
-export const GroupWrapper = ({ style, overlapGroupStyle, polygonStyle }) => {
+export const GroupWrapper = ({ style, cStyle, text = "C++", groupStyle, overlapGroupStyle, rectangleStyle }) => {
   return (
     <div className="group-wrapper" style={style}>
-      <div className="overlap-group-2" style={overlapGroupStyle}>
-        <div className="group-2">
-          <div className="text-wrapper">DESIGN</div>
-          <img className="img" style={polygonStyle} alt={"Polygon"} src={"/img/polygon-1.svg"} />
+      <div className="overlap">
+        <div className="overlap-group-wrapper" style={groupStyle}>
+          <div className="c-wrapper" style={overlapGroupStyle}>
+            <div className="c" style={cStyle}>
+              {text}
+            </div>
+          </div>
         </div>
+        <div className="rectangle-3" style={rectangleStyle} />
       </div>
     </div>
   );
+};
+
+GroupWrapper.propTypes = {
+  text: PropTypes.string,
 };

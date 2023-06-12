@@ -1,1 +1,0 @@
-export { Communieat } from "./Communieat";

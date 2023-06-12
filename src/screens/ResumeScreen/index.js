@@ -1,1 +1,0 @@
-export { ResumeScreen } from "./ResumeScreen";

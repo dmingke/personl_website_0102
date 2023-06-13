@@ -31,23 +31,6 @@
   width: 100%;
 }
 
-.front-page .rectangle-5 {
-  background-color: #d9e6f4;
-  height: 812px;
-  left: 0;
-  position: absolute;
-  top: 2320px;
-  width: 100%;
-}
-
-.front-page .rectangle-6 {
-  background-color: #f4e2c5;
-  height: 759px;
-  left: 0;
-  position: absolute;
-  top: 1561px;
-  width: 100%;
-}
 
 .front-page .div-wrapper {
   height: 835px;
@@ -87,14 +70,6 @@
   width: 336px;
 }
 
-.front-page .rectangle-8 {
-  background-color: #d9e6f4;
-  height: 792px;
-  left: 0;
-  position: absolute;
-  top: 771px;
-  width: 100%;
-}
 
 .front-page .overlap-wrapper {
   height: 666px;
@@ -295,7 +270,7 @@
 }
 
 .front-page .overlap-5 {
-  background-color: #f4e2c5;
+  background-color: #ffffff;
   height: 761px;
   left: 0;
   position: absolute;

@@ -8,9 +8,6 @@ export const FrontPage = () => {
     <div className="front-page">
       <div className="div-3">
         <div className="overlap-2">
-          <div className="rectangle-4" />
-          <div className="rectangle-5" />
-          <div className="rectangle-6" />
           <div className="div-wrapper">
             <div className="overlap-group-3">
               <img className="img" alt="Rectangle" src="/img/rectangle-6.png" />
@@ -18,7 +15,6 @@ export const FrontPage = () => {
               <img className="group-5" alt="Group" src="/img/group-6.png" />
             </div>
           </div>
-          <div className="rectangle-8" />
           <div className="overlap-wrapper">
             <div className="overlap-3">
               <img className="screen-shot" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-1.png" />
@@ -33,7 +29,8 @@ export const FrontPage = () => {
                 <div className="overlap-group-4">
                   <p className="about-lines">
                     about 10000 lines coding experience, CSS3, HTML5, JavaScript, <br />
-                    React, SQL, Python, Shell Scripting, Distributed systems like MapReduce, C++, Flask, Git, AWS
+                    React, SQL, Python, Shell Scripting, C++... <br />
+                    <strong>Main work</strong>: Search Engine
                   </p>
                   <div className="text-wrapper-39">Programming</div>
                   <ButtonWrapper

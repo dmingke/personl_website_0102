@@ -8,6 +8,7 @@ export const FrontPage = () => {
     <div className="front-page">
       <div className="div-3">
         <div className="overlap-2">
+          <div className="rectangle-4" />
           <div className="div-wrapper">
             <div className="overlap-group-3">
               <img className="img" alt="Rectangle" src="/img/rectangle-6.png" />

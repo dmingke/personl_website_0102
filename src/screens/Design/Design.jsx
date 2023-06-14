@@ -26,6 +26,7 @@ export const Design = () => {
         <img className="line" alt="Line" src="/img/line-6.png" />
         <div className="group-22">
           <img className="page" alt="Page" src="/img/hw5-part2-page-6-1.png" />
+          <section id="3">
           <Frame
             style={{
               left: "0",
@@ -40,6 +41,7 @@ export const Design = () => {
               width: "fit-content",
             }}
           />
+          </section>
           <img className="screen-shot-3" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-31-1.png" />
         </div>
         <img className="line-2" alt="Line" src="/img/line-6.png" />
@@ -58,6 +60,7 @@ export const Design = () => {
             </a>
           </p>
           <img className="image-5" alt="Image" src="/img/image-3.png" />
+          
           <Frame
             style={{
               left: "287px",
@@ -68,15 +71,17 @@ export const Design = () => {
             text1="Tools: Adobe illustrator, Adobe Photoshop"
             text2="Project information: SI 320 Graphic Design course project; Coming with a detailed description of the design idea. then reused the poster as an Alphabet Poster for an Asian international institution."
           />
+          
         </div>
         <img className="line-3" alt="Line" src="/img/line-6.png" />
         <img className="screen-shot-4" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-3.png" />
+        <section id="2"></section>
         <Frame
           style={{
             left: "365px",
             position: "absolute",
           }}
-          text="Poster Design"
+          text="Courses Poster Design"
           text1="Tools: Adobe Photoshop, Adobe Color"
           text2={
             <>
@@ -85,6 +90,7 @@ export const Design = () => {
             </>
           }
         />
+
         <img className="line-4" alt="Line" src="/img/line-6.png" />
         <div className="group-23">
           <div className="click-to-view-the-wrapper">
@@ -106,28 +112,23 @@ export const Design = () => {
               position: "absolute",
               top: "164px",
             }}
-            text="UX DESIGN: 1Cademy Website Prototype"
+            text="UI/UX DESIGN: Communieat"
             text1="Tools: Figma"
-            text2={
-              <>
-                Project information: <br />
-                (the link to the actual projects cannot be shared with my supervisor’s permission)
-              </>
-            }
+            text2="
+                Project information: Communieat is an instant food ordering service mobile application that connects the cook and the user. 
+                Chefs can post their individualized recipes, while users can order healthier homemade food reasonably priced. "
           />
           <img className="screen-shot-5" alt="Screen shot" src="/img/screen-shot-2023-06-08-at-2-43-2.png" />
           <ButtonWrapper
             style={{
-              left: "636px",
+              left: "610px",
               position: "absolute",
-              top: "440px",
-              width: "177px",
+              top: "450px",
+              width: "190px",
             }}
             text="View More Details"
             to="/communieat"
             viewMoreStyle={{
-              marginLeft: "-4.00px",
-              marginRight: "-4.00px",
             }}
           />
         </div>
@@ -139,17 +140,18 @@ export const Design = () => {
               top: "173px",
               width: "601px",
             }}
-            text="UX DESIGN: 1Cademy Website Prototype"
+            text="UI/UX DESIGN: FREEZE"
             text1="Tools: Figma"
-            text2="FREEZ is an app that enables people to not waste any food they brought and not impulsively buy extra groceries that they won’t eat or have no idea about how to cook."
+            text2="FREEZE is an app that enables people to not waste any food they brought and not impulsively buy extra groceries 
+            that they won’t eat or have no idea about how to cook."
           />
           <img className="screen-shot-6" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-9-16-1.png" />
           <ButtonWrapper
             style={{
-              left: "640px",
+              left: "610px",
               position: "absolute",
-              top: "478px",
-              width: "177px",
+              top: "440px",
+              width: "190px",
             }}
             text="View More Details"
             to="/freeze"
@@ -170,6 +172,7 @@ export const Design = () => {
         </div>
         <img className="screen-shot-7" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-8-57.png" />
         <img className="screen-shot-8" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-8-56.png" />
+        <section id="1"></section>
         <Frame
           posterDesignStyle={{
             marginLeft: "-6.50px",
@@ -181,7 +184,7 @@ export const Design = () => {
             top: "218px",
             width: "584px",
           }}
-          text="UX DESIGN: 1Cademy Website Prototype"
+          text="UI/UX DESIGN: 1Cademy Website Prototype"
           text1="Tools: Figma"
           text2={
             <>
@@ -195,17 +198,17 @@ export const Design = () => {
         <div className="frame-9">
           <div className="group-25">
             <div className="UX-design-wrapper">
-              <div className="UX-design">Ux Design</div>
+              <a href="#1" className="UX-design">UI/UX Design</a>
             </div>
           </div>
           <div className="group-26">
             <div className="overlap-10">
-              <div className="text-wrapper-77">Poster Design</div>
+              <a href="#2" className="text-wrapper-77">Poster Design</a>
             </div>
           </div>
           <div className="group-27">
             <div className="overlap-11">
-              <div className="text-wrapper-78">Logo Design</div>
+              <a href="#3" className="text-wrapper-78">Logo Design</a>
             </div>
           </div>
         </div>

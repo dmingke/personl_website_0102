@@ -1,81 +1,29 @@
 .navigation-bar {
-  background-color: #f1df85;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: #000000;
+  background-color: #ffffff;
+  border-bottom: 1px solid #000000;
   height: 75px;
-  left: 2644px;
-  position: relative;
-  top: -3274px;
   width: 100%;
+  position: relative;
 }
 
 .navigation-bar .div {
   align-items: flex-start;
   display: flex;
-  gap: 80px;
+  gap: 50px;
   left: 45px;
   position: relative;
   top: 23px;
   width: fit-content;
 }
 
-.navigation-bar .mingke-dai {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1px;
-  position: relative;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.navigation-bar .text-wrapper {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1px;
-  position: relative;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.navigation-bar .programming {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1px;
-  position: relative;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.navigation-bar .design-2 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1px;
-  position: relative;
-  text-decoration: underline;
-  width: fit-content;
-}
-
+.navigation-bar .mingke-dai,
+.navigation-bar .text-wrapper,
+.navigation-bar .programming,
+.navigation-bar .design-2,
 .navigation-bar .research-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 0;
   line-height: normal;
@@ -83,4 +31,47 @@
   position: relative;
   text-decoration: underline;
   width: fit-content;
+}
+
+.navigation-bar .dropdown-wrapper {
+  position: relative;
+}
+
+.navigation-bar .work-button {
+  background-color: transparent;
+  border: none;
+  color: #000000;
+  cursor: pointer;
+  text-decoration: underline;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.navigation-bar .dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  z-index: 10;
+}
+
+.navigation-bar .dropdown-menu a {
+  display: block;
+  color: #333333;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 10px 20px;
+  white-space: nowrap; 
+}
+
+.navigation-bar .dropdown-menu a:hover {
+  background-color: #f0f0f0;
 }

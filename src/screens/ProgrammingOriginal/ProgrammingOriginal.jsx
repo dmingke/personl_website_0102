@@ -200,7 +200,7 @@ export const ProgrammingOriginal = () => {
           </div>
         </div>
         <div className="skills">SKILLS</div>
-        <img className="line-5" alt="Line" src="/img/line-6.png" />
+        <img alt="Line" src="/img/line-6.png" />
         <p className="git-respository-to">
           <span className="text-wrapper-123">Git Respository to see all EECS 281 Projects</span>
           <span className="text-wrapper-124">: </span>
@@ -244,14 +244,13 @@ export const ProgrammingOriginal = () => {
             </span>
           </div>
         </div>
-        <img className="line-6" alt="Line" src="/img/line-6.png" />
         <ButtonWrapper
           href="https://1cademy.com/"
           style={{
             height: "45px",
             left: "489px",
             position: "absolute",
-            top: "2052px",
+            top: "2040px",
             width: "293px",
           }}
           text="Click To View The Web-page"
@@ -263,9 +262,8 @@ export const ProgrammingOriginal = () => {
             textDecoration: "underline",
           }}
         />
+        <div class="projects-3">1Cademy Website Front-End Programming</div>
         <img className="image-6" alt="Image" src="/img/image-2.png" />
-        <img className="line-7" alt="Line" src="/img/line-6.png" />
-        <img className="line-8" alt="Line" src="/img/line-6.png" />
         <div className="group-48">
           <img className="screen-shot-14" alt="Screen shot" src="/img/screen-shot-2023-05-31-at-4-30-1-2.png" />
           <div className="search-engine">Search Engine Construction</div>
@@ -273,7 +271,7 @@ export const ProgrammingOriginal = () => {
           <img className="image-7" alt="Image" src="/img/image.png" />
         </div>
         <div className="text-wrapper-132">
-          Git respository: https://github.com/dmingke/instagram_simpler_project.git
+          <strong class="text-wrapper-138">Git respository of instagram-like web project</strong>: https://github.com/dmingke/instagram_simpler_project.git
         </div>
         <div className="flex-container-14">
           <div className="text-64">
@@ -317,44 +315,6 @@ export const ProgrammingOriginal = () => {
           </div>
         </div>
         <div className="projects-2">PROJECTS</div>
-        <div className="component-2">
-          <img className="contents-3" alt="Contents" src="/img/contents-2.png" />
-          <div className="frame-18">
-            <div className="group-49">
-              <div className="project-search-wrapper">
-                <div className="project-search">Project: Search Engine</div>
-              </div>
-            </div>
-            <div className="group-50">
-              <div className="project-wrapper">
-                <div className="project">Project: 1cademy Website</div>
-              </div>
-            </div>
-            <div className="group-51">
-              <div className="overlap-24">
-                <div className="text-wrapper-141">Project: C++ Based</div>
-              </div>
-            </div>
-          </div>
-          <div className="frame-19">
-            <div className="group-52">
-              <div className="project-instagram-wrapper">
-                <div className="project-instagram">Project: Instagram-like Web</div>
-              </div>
-            </div>
-            <div className="group-53">
-              <div className="relevant-skills-wrapper">
-                <div className="relevant-skills">Relevant Skills</div>
-              </div>
-            </div>
-            <div className="group-54">
-              <div className="relevant-selected-wrapper">
-                <div className="relevant-selected-2">Relevant Selected Courses</div>
-              </div>
-            </div>
-          </div>
-          <div className="table-of-contents-3">Table Of Contents</div>
-        </div>
       </div>
       <NavigationBar
         style={{

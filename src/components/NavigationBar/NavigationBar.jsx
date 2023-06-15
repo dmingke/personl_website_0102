@@ -28,7 +28,7 @@ export const NavigationBar = ({ style, to, to1, to2, to3, to4 }) => {
           onMouseEnter={handleDropdownOpen}
           onMouseLeave={handleDropdownClose}
         >
-          <button className="work-button">Work</button>
+          <button className="work-button">WORK</button>
           {isDropdownOpen && (
             <div className="dropdown-menu">
               <Link to="/web-dev">Web Development</Link>

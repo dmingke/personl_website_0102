@@ -138,7 +138,7 @@ export const ProgrammingOriginal = () => {
                 position: "absolute",
                 top: "0",
               }}
-              text="Shell"
+              text="SwiftUI"
             />
             <GroupWrapper
               cStyle={{
@@ -174,7 +174,7 @@ export const ProgrammingOriginal = () => {
                 position: "absolute",
                 top: "315px",
               }}
-              text="Deploy"
+              text="Swift"
             />
             <div className="overlap-22">
               <GroupWrapper

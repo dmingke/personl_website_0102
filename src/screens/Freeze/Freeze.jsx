@@ -1,4 +1,5 @@
 import React from "react";
+import { NavigationBar } from "../../components/NavigationBar";
 import "./style.css";
 
 export const Freeze = () => {
@@ -77,6 +78,18 @@ export const Freeze = () => {
         <div className="scenarios-use-cases">Scenarios, Use Cases, Personas</div>
         <h1 className="still-working-on">Still Working On Finalizing The Description, Sorry...</h1>
       </div>
+      <NavigationBar
+        style={{
+          left: "0",
+          position: "absolute",
+          top: "0",
+        }}
+        to="/front-page"
+        to1="/resumezhong"
+        to2="/programming-original"
+        to3="/design"
+        to4="/research"
+      />
     </div>
   );
 };

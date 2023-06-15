@@ -63,6 +63,14 @@
   width: 1112px;
 }
 
+.design .overlap-8 {
+  height: 1032px;
+  left: 78px;
+  position: absolute;
+  top: 3645px;
+  width: 1124px;
+}
+
 .design .overlap-9 {
   height: 1032px;
   left: 78px;
@@ -121,7 +129,7 @@
   left: 93px;
   object-fit: cover;
   position: absolute;
-  top: 3039px;
+  top: 3000px;
   width: 1094px;
 }
 
@@ -137,7 +145,7 @@
   height: 737px;
   left: 147px;
   position: absolute;
-  top: 1941px;
+  top: 1900px;
   width: 974px;
 }
 
@@ -177,7 +185,7 @@
   height: 735px;
   left: 141px;
   position: absolute;
-  top: 1166px;
+  top: 1076px;
   width: 1003px;
 }
 
@@ -219,7 +227,7 @@
   left: 76px;
   object-fit: cover;
   position: absolute;
-  top: 581px;
+  top: 480px;
   width: 563px;
 }
 
@@ -228,7 +236,7 @@
   left: 640px;
   object-fit: cover;
   position: absolute;
-  top: 581px;
+  top: 480px;
   width: 562px;
 }
 

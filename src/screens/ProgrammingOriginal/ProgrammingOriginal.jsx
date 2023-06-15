@@ -3,13 +3,20 @@ import { ButtonWrapper } from "../../components/ButtonWrapper";
 import { Group } from "../../components/Group";
 import { GroupWrapper } from "../../components/GroupWrapper";
 import { NavigationBar } from "../../components/NavigationBar";
+import { Timeline } from "../../components/Timeline";
 import "./style.css";
+
+const data = [
+  { id: "section1", name: "Projects" },
+  { id: "section2", name: "Skills" },
+  { id: "section3", name: "Relevant Courses" },
+];
 
 export const ProgrammingOriginal = () => {
   return (
     <div className="programming-original">
       <div className="div-8">
-        <div className="group-35">
+        <div id="section3" className="group-35">
           <img className="group-36" alt="Group" src="/img/group-25-2x.png" />
           <img className="group-37" alt="Group" src="/img/group-26.png" />
           <img className="group-38" alt="Group" src="/img/group-27.png" />
@@ -49,7 +56,7 @@ export const ProgrammingOriginal = () => {
           </div>
         </div>
         <h1 className="relevant-selected">RELEVANT SELECTED COURSES</h1>
-        <div className="group-47">
+        <div id="section2" className="group-47">
           <div className="frame-16">
             <GroupWrapper
               cStyle={{
@@ -273,7 +280,7 @@ export const ProgrammingOriginal = () => {
         <div className="text-wrapper-132">
           <strong class="text-wrapper-138">Git respository of instagram-like web project</strong>: https://github.com/dmingke/instagram_simpler_project.git
         </div>
-        <div className="flex-container-14">
+        <div id="section1" className="flex-container-14">
           <div className="text-64">
             <span className="text-wrapper-133">
               UMICH EECS 485 WEB SYSTEMS PROJECTS
@@ -316,6 +323,7 @@ export const ProgrammingOriginal = () => {
         </div>
         <div className="projects-2">PROJECTS</div>
       </div>
+      <Timeline data={data} />
       <NavigationBar
         style={{
           left: "0",

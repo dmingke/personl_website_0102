@@ -273,7 +273,6 @@ export const ProgrammingOriginal = () => {
         <img className="image-6" alt="Image" src="/img/image-2.png" />
         <div className="group-48">
           <img className="screen-shot-14" alt="Screen shot" src="/img/screen-shot-2023-05-31-at-4-30-1-2.png" />
-          <div className="search-engine">Search Engine Construction</div>
           <p className="search-result-with">Search Result With Keyword “book”</p>
           <img className="image-7" alt="Image" src="/img/image.png" />
         </div>
@@ -314,6 +313,7 @@ export const ProgrammingOriginal = () => {
             </span>
           </div>
           <div className="text-69">
+            <hr />
             <span className="text-wrapper-138">Git repository of search engine project:</span>
             <span className="text-wrapper-139">&nbsp;</span>
             <a href="https://github.com/dmingke/portfolio_web_system05" rel="noopener noreferrer" target="_blank">

@@ -1,41 +1,33 @@
 .design {
   background-color: #ffffff;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   width: 100%;
+  min-height: 100vh;
 }
 
 .design .div-6 {
   background-color: #ffffff;
   border: 1px none;
-  height: 6068px;
   position: relative;
-  width: 1280px;
+  max-width: 1280px;
+  width: 100%;
 }
 
 .design .lab {
-  height: 290px;
-  left: 62px;
-  position: absolute;
+  position: relative;
+  left: 10%;
   top: 5692px;
-  width: 1159px;
+  width: 100%;
 }
 
-.design .line {
-  height: 1px;
-  left: 86px;
-  position: absolute;
-  top: 5472px;
-  width: 1112px;
-}
 
 .design .group-22 {
-  height: 656px;
-  left: 74px;
+  left: 10%;
   position: absolute;
   top: 4761px;
-  width: 1133px;
+  width: 100%;
 }
 
 .design .page {

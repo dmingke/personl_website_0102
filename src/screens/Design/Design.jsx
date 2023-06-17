@@ -36,7 +36,7 @@ export const Design = () => {
           <Frame
             style={{
               left: "0",
-              position: "absolute",
+              position: "relative",
               top: "0",
               width: "579px",
             }}

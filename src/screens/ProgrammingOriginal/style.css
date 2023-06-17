@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 100%;
+  width: 100%; 
 }
 
 .programming-original .div-8 {
@@ -73,7 +73,7 @@
   position: absolute;
   text-align: center;
   top: 16px;
-  white-space: nowrap;
+
 }
 
 .programming-original .group-40 {
@@ -133,7 +133,7 @@
   position: absolute;
   text-align: center;
   top: 16px;
-  white-space: nowrap;
+
 }
 
 .programming-original .group-42 {
@@ -246,7 +246,7 @@
   line-height: normal;
   position: absolute;
   top: 3618px;
-  white-space: nowrap;
+
 }
 
 .programming-original .group-47 {
@@ -372,8 +372,8 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 2798px;
-  white-space: nowrap;
+  top: 2750px;
+
 }
 
 .programming-original .line-5 {
@@ -387,207 +387,60 @@
 .programming-original .git-respository-to {
   color: transparent;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 400;
   left: 76px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   top: 2530px;
-  white-space: nowrap;
-}
 
-.programming-original .text-wrapper-123 {
-  color: #000000;
-  font-weight: 600;
-}
-
-.programming-original .text-wrapper-124 {
-  color: #0073c2;
-  text-decoration: underline;
-}
-
-.programming-original .text-wrapper-125 {
-  color: #0073c2;
-  text-decoration: underline;
-}
-
-.programming-original .text-wrapper-126 {
-  color: #0073c2;
-  text-decoration: underline;
 }
 
 .programming-original .flex-container-13 {
-  align-items: flex-start;
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  height: 320px;
-  left: 99px;
-  position: absolute;
-  top: 2185px;
-  width: 1072px;
-}
-
-.programming-original .text-59 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
+  align-content: center;
+  gap: 1.5vw; 
+  left: 5vw; /* changed to a relative unit */
   position: relative;
-  white-space: nowrap;
-  width: 1072px;
+  top: 116vh; /* changed to a relative unit */
+  max-width: 90%; 
 }
 
-.programming-original .text-wrapper-127 {
-  font-weight: 600;
-}
 
-.programming-original .text-60 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  white-space: nowrap;
-  width: 1072px;
-}
-
-.programming-original .text-wrapper-128 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-}
-
-.programming-original .text-61 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 1072px;
-}
-
-.programming-original .text-wrapper-129 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-}
-
-.programming-original .text-62 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 1072px;
-}
-
-.programming-original .text-wrapper-130 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-}
-
-.programming-original .text-63 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 1072px;
-}
-
-.programming-original .text-wrapper-131 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-}
-
-.programming-original .line-6 {
-  height: 1px;
-  left: 68px;
-  position: absolute;
-  top: 2199px;
-  width: 1112px;
-}
 
 .programming-original .image-6 {
   height: 473px;
-  left: 142px;
+  left: 50%;
+  transform: translateX(-50%);
   object-fit: cover;
   position: absolute;
-  top: 1510px;
+  top: 1810px;
   width: 985px;
 }
 
-.programming-original .line-7 {
-  height: 1px;
-  left: 84px;
-  position: absolute;
-  top: 3529px;
-  width: 1112px;
-}
-
-.programming-original .line-8 {
-  height: 1px;
-  left: 79px;
-  position: absolute;
-  top: 1450px;
-  width: 1112px;
-}
 
 .programming-original .group-48 {
   height: 645px;
   left: 92px;
   position: absolute;
-  top: 620px;
+  top: 530px;
   width: 1090px;
 }
 
 .programming-original .screen-shot-14 {
-  height: 143px;
   left: 0;
   position: absolute;
   top: 52px;
-  width: 1086px;
+  width: 100%;
 }
 
-.programming-original .search-engine {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  left: 381px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-decoration: underline;
-  top: 0;
-}
 
 .programming-original .search-result-with {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 500;
   left: 337px;
   letter-spacing: 0;
@@ -608,130 +461,60 @@
 .programming-original .text-wrapper-132 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   left: 76px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
   top: 575px;;
-  white-space: nowrap;
 }
 
 .programming-original .flex-container-14 {
-  align-items: flex-start;
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  height: 301px;
-  left: 76px;
-  position: absolute;
-  top: 230px;
-  width: 1119px;
-}
-
-.programming-original .text-64 {
-  color: transparent;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
+  align-content: center;
+  gap: 1.5vw; 
+  left: 5vw; /* changed to a relative unit */
   position: relative;
-  white-space: nowrap;
-  width: 1119px;
+  top: 25vh; /* changed to a relative unit */
+  max-width: 90%; /* changed to a percentage */
 }
 
-.programming-original .text-wrapper-133 {
+.programming-original .text-wrapper-134,
+.programming-original .text-wrapper-139 {
   color: #000000;
-  font-weight: 600;
-}
-
-.programming-original .text-65 {
-  color: transparent;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px; 
   font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  white-space: nowrap;
-  width: 1119px;
-}
-
-.programming-original .text-wrapper-134 {
-  color: #000000;
-}
-
-.programming-original .text-66 {
-  color: transparent;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 1119px;
-}
-
-.programming-original .text-wrapper-135 {
-  color: #000000;
-}
-
-.programming-original .text-67 {
-  color: transparent;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 1119px;
-}
-
-.programming-original .text-wrapper-136 {
-  color: #000000;
-}
-
-.programming-original .text-68 {
-  color: transparent;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 1119px;
-}
-
-.programming-original .text-wrapper-137 {
-  color: #000000;
-}
-
-.programming-original .text-69 {
-  color: transparent;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 1119px;
-}
-
-.programming-original .text-wrapper-138 {
-  color: #000000;
-  font-weight: 600;
 }
 
 .programming-original .text-wrapper-139 {
-  color: #2a64ac;
-}
-
-.programming-original .text-wrapper-140 {
   color: #0073c2;
   text-decoration: underline;
 }
+
+.programming-original .text-wrapper-133 {
+  font-family: "Lato", Helvetica;
+  font-size: 20px; 
+  color: #000000;
+  font-weight: 600;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+  .programming-original .flex-container-14 {
+    gap: 1.5vw; 
+  }
+  
+  .programming-original .text-wrapper-134,
+  .programming-original .text-wrapper-133, 
+  .programming-original .text-wrapper-139{
+    font-size: 0.8em; 
+  }
+}
+
+
 
 .programming-original .projects-2 {
   color: #000000;
@@ -744,7 +527,6 @@
   position: absolute;
   text-align: center;
   top: 140px;
-  white-space: nowrap;
 }
 
 .programming-original .projects-3 {
@@ -758,8 +540,7 @@
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 1410px;
-  white-space: nowrap;
+  top: 1700px;
 }
 
 .programming-original .component-2 {
@@ -805,7 +586,7 @@
 .programming-original .project-search {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   left: 36px;
   letter-spacing: 0;
@@ -831,7 +612,7 @@
 .programming-original .project {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   left: 16px;
   letter-spacing: 0;
@@ -858,7 +639,7 @@
 .programming-original .text-wrapper-141 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   left: 54px;
   letter-spacing: 0;
@@ -894,7 +675,7 @@
 .programming-original .project-instagram {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   left: 5px;
   letter-spacing: 0;
@@ -920,7 +701,7 @@
 .programming-original .relevant-skills {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   left: 79px;
   letter-spacing: 0;
@@ -947,7 +728,7 @@
 .programming-original .relevant-selected-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   left: 14px;
   letter-spacing: 0;

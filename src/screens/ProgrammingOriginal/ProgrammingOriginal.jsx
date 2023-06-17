@@ -131,7 +131,7 @@ export const ProgrammingOriginal = () => {
           <div className="frame-17">
             <GroupWrapper
               cStyle={{
-                left: "31px",
+                left: "17px",
               }}
               style={{
                 left: "0",
@@ -167,7 +167,7 @@ export const ProgrammingOriginal = () => {
             </div>
             <GroupWrapper
               cStyle={{
-                left: "18px",
+                left: "30px",
               }}
               style={{
                 left: "0",
@@ -208,56 +208,13 @@ export const ProgrammingOriginal = () => {
         </div>
         <div className="skills">SKILLS</div>
         <img alt="Line" src="/img/line-6.png" />
-        <p className="git-respository-to">
-          <span className="text-wrapper-123">Git Respository to see all EECS 281 Projects</span>
-          <span className="text-wrapper-124">: </span>
-          <a href="https://github.com/dmingke/instagram_simpler_project.git" rel="noopener noreferrer" target="_blank">
-            <span className="text-wrapper-125">https://github.com/dmingke/EECS281AllC++projects.git</span>
-          </a>
-          <span className="text-wrapper-126">&nbsp;</span>
-        </p>
-        <div className="flex-container-13">
-          <div className="text-59">
-            <span className="text-wrapper-127">
-              PROJECTS &amp; LABS FOR EECS 281 DATA STRUCTURES AND ALGORITHMS
-              <br />
-            </span>
-          </div>
-          <div className="text-60">
-            <span className="text-wrapper-128">
-              MAY 2022 - DECEMBER 2022
-              <br />
-            </span>
-          </div>
-          <div className="text-61">
-            <span className="text-wrapper-129">
-              Utilized inheritance and basic dynamic polymorphism to implement sorted priority queue, binary heap
-              priority queue and pairing heap priority queue developed from templated generic code.
-              <br />
-            </span>
-          </div>
-          <div className="text-62">
-            <span className="text-wrapper-130">
-              Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the
-              lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal
-              solution.
-              <br />
-            </span>
-          </div>
-          <div className="text-63">
-            <span className="text-wrapper-131">
-              Implemented a C++ version of the game 2048 which responded to player&#39;s keystrokes, and enabled
-              customized tile values such as Unicode Emojis by reading from files provided by the player.
-            </span>
-          </div>
-        </div>
         <ButtonWrapper
           href="https://1cademy.com/"
           style={{
             height: "45px",
-            left: "489px",
+            left: "38.2%",
             position: "absolute",
-            top: "2040px",
+            top: "2340px",
             width: "293px",
           }}
           text="Click To View The Web-page"
@@ -276,50 +233,60 @@ export const ProgrammingOriginal = () => {
           <p className="search-result-with">Search Result With Keyword “book”</p>
           <img className="image-7" alt="Image" src="/img/image.png" />
         </div>
-        <div className="text-wrapper-132">
-          <strong class="text-wrapper-138">Git respository of instagram-like web project</strong>: https://github.com/dmingke/instagram_simpler_project.git
-        </div>
         <div id="section1" className="flex-container-14">
-          <div className="text-64">
-            <span className="text-wrapper-133">
-              UMICH EECS 485 WEB SYSTEMS PROJECTS
-              <br />
-            </span>
-          </div>
-          <div className="text-65">
-            <span className="text-wrapper-134">
-              JANUARY 2023 - APRIL 2023
-              <br />
-            </span>
-          </div>
-          <div className="text-66">
-            <span className="text-wrapper-135">
-              Developed an Instagram-like web application using React for front-end, Flask for back-end, and SQLite for
+          <div className="text-wrapper-133">UMICH EECS 485 WEB SYSTEMS PROJECTS</div>
+          <span className="text-wrapper-134">JANUARY 2023 - APRIL 2023</span>
+          <span className="text-wrapper-134">
+          &bull;&nbsp; Developed an Instagram-like web application using React for front-end, Flask for back-end, and SQLite for
               database, supporting features like user sign-in, posts and comments.
               <br />
-            </span>
-          </div>
-          <div className="text-67">
-            <span className="text-wrapper-136">
-              Built a multi-worker and fault-tolerant MapReduce server in Python which can process user-submitted tasks.
+          </span>
+          <span className="text-wrapper-134">
+          &bull; &nbsp; Built a multi-worker and fault-tolerant MapReduce server in Python which can process user-submitted tasks.
               <br />
-            </span>
-          </div>
-          <div className="text-68">
-            <span className="text-wrapper-137">
-              Implemented a search engine from scratch, based on text segmentation, Hadoop MapReduce indexing, and
+          </span>
+          <span className="text-wrapper-134">
+          &bull;&nbsp; Implemented a search engine from scratch, based on text segmentation, Hadoop MapReduce indexing, and
               tf-idf scores.
               <br />
-            </span>
-          </div>
-          <div className="text-69">
-            <hr />
-            <span className="text-wrapper-138">Git repository of search engine project:</span>
-            <span className="text-wrapper-139">&nbsp;</span>
-            <a href="https://github.com/dmingke/portfolio_web_system05" rel="noopener noreferrer" target="_blank">
-              <span className="text-wrapper-140">https://github.com/dmingke/portfolio_web_system05</span>
-            </a>
-          </div>
+          </span>
+          <hr />
+            <p className="text-wrapper-133">Git repository of search engine project:
+            <a className="text-wrapper-139" href="https://github.com/dmingke/portfolio_web_system05">  https://github.com/dmingke/portfolio_web_system05
+          </a></p>
+          <p class="text-wrapper-133">Git respository of instagram-like web project:
+          <a className="text-wrapper-139" href="https://github.com/dmingke/portfolio_web_system05"> https://github.com/dmingke/instagram_simpler_project.git 
+          </a></p>
+        </div>
+        <div className="flex-container-13">
+          <span className="text-wrapper-133">
+            PROJECTS &amp; LABS FOR EECS 281 DATA STRUCTURES AND ALGORITHMS
+            <br />
+          </span>
+          <span className="text-wrapper-134">
+            MAY 2022 - DECEMBER 2022
+            <br />
+          </span>
+          <span className="text-wrapper-134">
+          &bull;&nbsp; Utilized inheritance and basic dynamic polymorphism to implement sorted priority queue, binary heap
+            priority queue and pairing heap priority queue developed from templated generic code.
+            <br />
+          </span>
+          <span className="text-wrapper-134">
+          &bull;&nbsp; Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the
+            lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal
+            solution.
+            <br />
+          </span>
+          <span className="text-wrapper-134">
+          &bull;&nbsp; Implemented a C++ version of the game 2048 which responded to player&#39;s keystrokes, and enabled
+            customized tile values such as Unicode Emojis by reading from files provided by the player.
+          </span>
+
+        <p className="text-wrapper-133">Git Respository to see all EECS 281 Projects:
+          <a href="https://github.com/dmingke/instagram_simpler_project.git" className="text-wrapper-139">https://github.com/dmingke/EECS281AllC++projects.git
+          </a> 
+        </p>
         </div>
         <div className="projects-2">PROJECTS</div>
       </div>

@@ -27,7 +27,9 @@ export const ProgrammingOriginal = () => {
           </div>
           <div className="group-40">
             <div className="overlap-16">
-              <p className="text-wrapper-118">EECS 376: Foundations of Computer Science</p>
+              <p className="text-wrapper-118">
+                EECS 376: Foundations of Computer Science
+              </p>
             </div>
           </div>
           <div className="group-41">
@@ -37,20 +39,26 @@ export const ProgrammingOriginal = () => {
           </div>
           <div className="group-42">
             <div className="overlap-18">
-              <p className="text-wrapper-120">EECS 370: Intro to Computer Organization</p>
+              <p className="text-wrapper-120">
+                EECS 370: Intro to Computer Organization
+              </p>
             </div>
           </div>
           <div className="group-43">
             <div className="group-44">
               <div className="overlap-group-7">
-                <p className="text-wrapper-121">EECS 201: Computer Science Pragmatics</p>
+                <p className="text-wrapper-121">
+                  EECS 201: Computer Science Pragmatics
+                </p>
               </div>
             </div>
           </div>
           <div className="group-45">
             <div className="group-46">
               <div className="overlap-group-8">
-                <p className="text-wrapper-122">EECS 492: Introduction to Artificial Intelligence</p>
+                <p className="text-wrapper-122">
+                  EECS 492: Introduction to Artificial Intelligence
+                </p>
               </div>
             </div>
           </div>
@@ -229,34 +237,58 @@ export const ProgrammingOriginal = () => {
         <div class="projects-3">1Cademy Website Front-End Programming</div>
         <img className="image-6" alt="Image" src="/img/image-2.png" />
         <div className="group-48">
-          <img className="screen-shot-14" alt="Screen shot" src="/img/screen-shot-2023-05-31-at-4-30-1-2.png" />
-          <p className="search-result-with">Search Result With Keyword “book”</p>
+          <img
+            className="screen-shot-14"
+            alt="Screen shot"
+            src="/img/screen-shot-2023-05-31-at-4-30-1-2.png"
+          />
+          <p className="search-result-with">
+            Search Result With Keyword “book”
+          </p>
           <img className="image-7" alt="Image" src="/img/image.png" />
         </div>
         <div id="section1" className="flex-container-14">
-          <div className="text-wrapper-133">UMICH EECS 485 WEB SYSTEMS PROJECTS</div>
+          <div className="text-wrapper-133">
+            UMICH EECS 485 WEB SYSTEMS PROJECTS
+          </div>
           <span className="text-wrapper-134">JANUARY 2023 - APRIL 2023</span>
           <span className="text-wrapper-134">
-          &bull;&nbsp; Developed an Instagram-like web application using React for front-end, Flask for back-end, and SQLite for
-              database, supporting features like user sign-in, posts and comments.
-              <br />
+            &bull;&nbsp; Developed an Instagram-like web application using React
+            for front-end, Flask for back-end, and SQLite for database,
+            supporting features like user sign-in, posts and comments.
+            <br />
           </span>
           <span className="text-wrapper-134">
-          &bull; &nbsp; Built a multi-worker and fault-tolerant MapReduce server in Python which can process user-submitted tasks.
-              <br />
+            &bull; &nbsp; Built a multi-worker and fault-tolerant MapReduce
+            server in Python which can process user-submitted tasks.
+            <br />
           </span>
           <span className="text-wrapper-134">
-          &bull;&nbsp; Implemented a search engine from scratch, based on text segmentation, Hadoop MapReduce indexing, and
-              tf-idf scores.
-              <br />
+            &bull;&nbsp; Implemented a search engine from scratch, based on text
+            segmentation, Hadoop MapReduce indexing, and tf-idf scores.
+            <br />
           </span>
           <hr />
-            <p className="text-wrapper-133">Git repository of search engine project:
-            <a className="text-wrapper-139" href="https://github.com/dmingke/portfolio_web_system05">  https://github.com/dmingke/portfolio_web_system05
-          </a></p>
-          <p class="text-wrapper-133">Git respository of instagram-like web project:
-          <a className="text-wrapper-139" href="https://github.com/dmingke/portfolio_web_system05"> https://github.com/dmingke/instagram_simpler_project.git 
-          </a></p>
+          <p className="text-wrapper-133">
+            Git repository of search engine project:
+            <a
+              className="text-wrapper-139"
+              href="https://github.com/dmingke/portfolio_web_system05"
+            >
+              {" "}
+              https://github.com/dmingke/portfolio_web_system05
+            </a>
+          </p>
+          <p class="text-wrapper-133">
+            Git respository of instagram-like web project:
+            <a
+              className="text-wrapper-139"
+              href="https://github.com/dmingke/portfolio_web_system05"
+            >
+              {" "}
+              https://github.com/dmingke/instagram_simpler_project.git
+            </a>
+          </p>
         </div>
         <div className="flex-container-13">
           <span className="text-wrapper-133">
@@ -268,25 +300,34 @@ export const ProgrammingOriginal = () => {
             <br />
           </span>
           <span className="text-wrapper-134">
-          &bull;&nbsp; Utilized inheritance and basic dynamic polymorphism to implement sorted priority queue, binary heap
-            priority queue and pairing heap priority queue developed from templated generic code.
+            &bull;&nbsp; Utilized inheritance and basic dynamic polymorphism to
+            implement sorted priority queue, binary heap priority queue and
+            pairing heap priority queue developed from templated generic code.
             <br />
           </span>
           <span className="text-wrapper-134">
-          &bull;&nbsp; Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the
-            lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal
-            solution.
+            &bull;&nbsp; Applied branch and bound algorithm to solve TSP problem
+            for complete weighted graph, used MST to get the lower bound for
+            remaining cost, and explored various heuristic approaches to achieve
+            a nearly-optimal solution.
             <br />
           </span>
           <span className="text-wrapper-134">
-          &bull;&nbsp; Implemented a C++ version of the game 2048 which responded to player&#39;s keystrokes, and enabled
-            customized tile values such as Unicode Emojis by reading from files provided by the player.
+            &bull;&nbsp; Implemented a C++ version of the game 2048 which
+            responded to player&#39;s keystrokes, and enabled customized tile
+            values such as Unicode Emojis by reading from files provided by the
+            player.
           </span>
 
-        <p className="text-wrapper-133">Git Respository to see all EECS 281 Projects:
-          <a href="https://github.com/dmingke/instagram_simpler_project.git" className="text-wrapper-139">https://github.com/dmingke/EECS281AllC++projects.git
-          </a> 
-        </p>
+          <p className="text-wrapper-133">
+            Git Respository to see all EECS 281 Projects:
+            <a
+              href="https://github.com/dmingke/instagram_simpler_project.git"
+              className="text-wrapper-139"
+            >
+              https://github.com/dmingke/EECS281AllC++projects.git
+            </a>
+          </p>
         </div>
         <div className="projects-2">PROJECTS</div>
       </div>

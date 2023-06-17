@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 100%; 
+  width: 100%;
 }
 
 .programming-original .div-8 {
@@ -73,7 +73,6 @@
   position: absolute;
   text-align: center;
   top: 16px;
-
 }
 
 .programming-original .group-40 {
@@ -133,7 +132,6 @@
   position: absolute;
   text-align: center;
   top: 16px;
-
 }
 
 .programming-original .group-42 {
@@ -246,7 +244,6 @@
   line-height: normal;
   position: absolute;
   top: 3618px;
-
 }
 
 .programming-original .group-47 {
@@ -373,7 +370,6 @@
   line-height: normal;
   position: absolute;
   top: 2750px;
-
 }
 
 .programming-original .line-5 {
@@ -394,21 +390,18 @@
   line-height: normal;
   position: absolute;
   top: 2530px;
-
 }
 
 .programming-original .flex-container-13 {
   display: flex;
   flex-direction: column;
   align-content: center;
-  gap: 1.5vw; 
+  gap: 1.5vw;
   left: 5vw; /* changed to a relative unit */
   position: relative;
   top: 116vh; /* changed to a relative unit */
-  max-width: 90%; 
+  max-width: 90%;
 }
-
-
 
 .programming-original .image-6 {
   height: 473px;
@@ -419,7 +412,6 @@
   top: 1810px;
   width: 985px;
 }
-
 
 .programming-original .group-48 {
   height: 645px;
@@ -435,7 +427,6 @@
   top: 52px;
   width: 100%;
 }
-
 
 .programming-original .search-result-with {
   color: #000000;
@@ -458,23 +449,12 @@
   width: 1019px;
 }
 
-.programming-original .text-wrapper-132 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  left: 76px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 575px;;
-}
 
 .programming-original .flex-container-14 {
   display: flex;
   flex-direction: column;
   align-content: center;
-  gap: 1.5vw; 
+  gap: 1.5vw;
   left: 5vw; /* changed to a relative unit */
   position: relative;
   top: 25vh; /* changed to a relative unit */
@@ -485,7 +465,7 @@
 .programming-original .text-wrapper-139 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 20px; 
+  font-size: 20px;
   font-weight: 400;
 }
 
@@ -496,7 +476,7 @@
 
 .programming-original .text-wrapper-133 {
   font-family: "Lato", Helvetica;
-  font-size: 20px; 
+  font-size: 20px;
   color: #000000;
   font-weight: 600;
 }
@@ -504,17 +484,15 @@
 /* Media query for smaller screens */
 @media (max-width: 600px) {
   .programming-original .flex-container-14 {
-    gap: 1.5vw; 
+    gap: 1.5vw;
   }
-  
+
   .programming-original .text-wrapper-134,
-  .programming-original .text-wrapper-133, 
-  .programming-original .text-wrapper-139{
-    font-size: 0.8em; 
+  .programming-original .text-wrapper-133,
+  .programming-original .text-wrapper-139 {
+    font-size: 0.8em;
   }
 }
-
-
 
 .programming-original .projects-2 {
   color: #000000;

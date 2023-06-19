@@ -7,11 +7,11 @@
 }
 
 .expedia-students .div-3 {
-  background-color: #ffffff;
+  background-color: transparent;
   border: 1px none;
-  height: 7500px;
+  height: 7782px;
   position: relative;
-  width: 1280px;
+  width: 90%;
 }
 
 .expedia-students .overlap-2 {
@@ -29,7 +29,7 @@
   height: 243px;
   left: 183px;
   position: absolute;
-  top: 0;
+
   width: 576px;
 }
 
@@ -45,7 +45,7 @@
 .expedia-students .rectangle-5 {
   background-color: #ffffff;
   height: 25px;
-  left: 0;
+
   position: absolute;
   top: 37px;
   width: 106px;
@@ -53,7 +53,6 @@
 
 .expedia-students .element-stars-page {
   height: 309px;
-  left: 0;
   position: absolute;
   top: 243px;
   width: 490px;
@@ -69,28 +68,23 @@
 
 .expedia-students .overlap-3 {
   height: 844px;
-  left: 0;
   position: absolute;
   top: 75px;
-  width: 1280px;
+  width: 100%;
 }
 
 .expedia-students .image {
   height: 843px;
-  left: 1px;
   object-fit: cover;
   position: absolute;
-  top: 1px;
-  width: 1277px;
+  width: 100%;
 }
 
 .expedia-students .rectangle-6 {
   background-color: #ffffffe6;
   height: 696px;
-  left: 0;
   position: absolute;
-  top: 0;
-  width: 1280px;
+  width: 100%;
 }
 
 .expedia-students .frame-4 {
@@ -739,7 +733,7 @@
   line-height: 26px;
   position: absolute;
   text-align: center;
-  top: 0;
+
   white-space: nowrap;
 }
 
@@ -777,7 +771,7 @@
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 500;
-  left: 0;
+
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
@@ -818,7 +812,7 @@
   height: 35px;
   left: 436px;
   position: absolute;
-  top: 0;
+
   width: 343px;
 }
 
@@ -1011,9 +1005,9 @@
   background-color: #0073c2;
   border-radius: 12.5px;
   height: 25px;
-  left: 0;
+
   position: absolute;
-  top: 0;
+
   width: 25px;
 }
 
@@ -1058,9 +1052,9 @@
   background-color: #0073c2;
   border-radius: 12.5px;
   height: 25px;
-  left: 0;
+
   position: absolute;
-  top: 0;
+
   width: 25px;
 }
 
@@ -1085,9 +1079,9 @@
   background-color: #0073c2;
   border-radius: 12.5px;
   height: 25px;
-  left: 0;
+
   position: absolute;
-  top: 0;
+
   width: 25px;
 }
 

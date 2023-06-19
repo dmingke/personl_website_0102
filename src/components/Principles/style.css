@@ -1,0 +1,66 @@
+.principles {
+  align-items: flex-start;
+  background-color: #fdf7ff;
+  display: flex;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.principles .principle {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.principles .element-visibility-of {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 316px;
+}
+
+.principles .description {
+  color: #7c7c7c;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 316px;
+}
+
+.principles .description-of-the {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.principles .recommendation-2 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}

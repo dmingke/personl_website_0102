@@ -9,9 +9,17 @@
 .freeze .div-4 {
   background-color: #ffffff;
   border: 1px none;
-  height: 2393px;
-  overflow: hidden;
+  height: 3332px;
   position: relative;
+  width: 1280px;
+}
+
+.freeze .flex-container-wrapper {
+  background-color: #e5eef8;
+  height: 645px;
+  left: 0;
+  position: absolute;
+  top: 1388px;
   width: 1280px;
 }
 
@@ -22,8 +30,8 @@
   gap: 10px;
   height: 532px;
   left: 99px;
-  position: absolute;
-  top: 925px;
+  position: relative;
+  top: 27px;
   width: 1082px;
 }
 
@@ -39,7 +47,7 @@
   width: 1082px;
 }
 
-.freeze .text-wrapper-56 {
+.freeze .text-wrapper-57 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -58,7 +66,7 @@
   width: 1082px;
 }
 
-.freeze .text-wrapper-57 {
+.freeze .text-wrapper-58 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -66,16 +74,49 @@
   letter-spacing: 0;
 }
 
+.freeze .overlap-5 {
+  background-color: #d9e6f4;
+  height: 700px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 1280px;
+}
+
+.freeze .group-14 {
+  height: 630px;
+  left: 249px;
+  position: relative;
+  top: 34px;
+  width: 782px;
+}
+
+.freeze .screen-shot-3 {
+  height: 630px;
+  left: 516px;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.freeze .screen-shot-4 {
+  height: 572px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 264px;
+}
+
 .freeze .more-rationale-i {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 600;
-  left: 103px;
+  left: 104px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 1573px;
+  top: 2063px;
   width: 1072px;
 }
 
@@ -88,7 +129,7 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 2150px;
+  top: 2640px;
   width: 1124px;
 }
 
@@ -97,11 +138,11 @@
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 600;
-  left: 84px;
+  left: 128px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 2434px;
+  top: 2427px;
   width: 1113px;
 }
 
@@ -110,25 +151,38 @@
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 600;
-  left: 106px;
+  left: 165px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 643px;
+  top: 1145px;
   width: 902px;
 }
 
-.freeze .text-wrapper-58 {
+.freeze .text-wrapper-59 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 600;
-  left: 118px;
+  left: 163px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 388px;
+  top: 904px;
   width: 902px;
+}
+
+.freeze .text-wrapper-60 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 129px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 820px;
+  white-space: nowrap;
 }
 
 .freeze .scenarios-use-cases {
@@ -136,23 +190,10 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 700;
-  left: 119px;
+  left: 99px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 2024px;
-  white-space: nowrap;
-}
-
-.freeze .still-working-on {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 36px;
-  font-weight: 600;
-  left: 47px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 222px;
+  top: 1099px;
   white-space: nowrap;
 }

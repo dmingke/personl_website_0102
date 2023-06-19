@@ -1,0 +1,656 @@
+.element-overview {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-overview .element-cademy-overview {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 6006px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-overview .element-7 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #bdbdbd;
+  display: flex;
+  flex-direction: column;
+  left: 68px;
+  position: absolute;
+  top: 936px;
+  width: fit-content;
+}
+
+.element-overview .element-8 {
+  align-items: flex-start;
+  background-color: #fdf7ff;
+  display: flex;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .principle-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .text-wrapper-186 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .description-2 {
+  color: #7c7c7c;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .dipisci-velit-sed {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .architecto-beatae {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .element-9 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .principle-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .text-wrapper-187 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .description-3 {
+  color: #7c7c7c;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .sed-ut-perspiciatis {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .dipisci-velit-sed-2 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .overlap-22 {
+  height: 713px;
+  left: 21px;
+  position: absolute;
+  top: 88px;
+  width: 1238px;
+}
+
+.element-overview .severity-rating {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 509px;
+  width: 316px;
+}
+
+.element-overview .severity-3 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 312px;
+}
+
+.element-overview .text-wrapper-188 {
+  font-weight: 700;
+}
+
+.element-overview .text-wrapper-189 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28.8px;
+}
+
+.element-overview .text-wrapper-190 {
+  font-weight: 700;
+}
+
+.element-overview .text-wrapper-191 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28.8px;
+}
+
+.element-overview .text-wrapper-192 {
+  font-weight: 700;
+}
+
+.element-overview .text-wrapper-193 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28.8px;
+}
+
+.element-overview .text-wrapper-194 {
+  font-weight: 700;
+}
+
+.element-overview .text-wrapper-195 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28.8px;
+}
+
+.element-overview .text-wrapper-196 {
+  font-weight: 700;
+}
+
+.element-overview .text-wrapper-197 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28.8px;
+}
+
+.element-overview .info-2 {
+  height: 204px;
+  left: 51px;
+  position: absolute;
+  top: 278px;
+  width: 600px;
+}
+
+.element-overview .overlap-23 {
+  height: 206px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 602px;
+}
+
+.element-overview .title-2 {
+  height: 42px;
+  left: 43px;
+  position: absolute;
+  top: 208px;
+  width: 325px;
+}
+
+.element-overview .overlap-24 {
+  height: 42px;
+  position: relative;
+  width: 323px;
+}
+
+.element-overview .rectangle-15 {
+  background-color: #edadff;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 323px;
+}
+
+.element-overview .text-wrapper-198 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element-overview .group-51 {
+  height: 713px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1238px;
+}
+
+.element-overview .overlap-25 {
+  height: 713px;
+  position: relative;
+}
+
+.element-overview .image-12 {
+  height: 666px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 786px;
+}
+
+.element-overview .image-13 {
+  height: 659px;
+  left: 479px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 759px;
+}
+
+.element-overview .element-10 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #bdbdbd;
+  display: flex;
+  flex-direction: column;
+  left: 68px;
+  position: absolute;
+  top: 2064px;
+  width: fit-content;
+}
+
+.element-overview .element-11 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .principle-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .text-wrapper-199 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .description-4 {
+  color: #7c7c7c;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .element-amet-minim-mollit {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .amet-minim-mollit {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .element-12 {
+  align-items: flex-start;
+  background-color: #fdf7ff;
+  display: flex;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .principle-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .text-wrapper-200 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .description-5 {
+  color: #7c7c7c;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .sed-ut-perspiciatis-2 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .quis-nostrum {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .element-13 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .principle-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-overview .text-wrapper-201 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .description-6 {
+  color: #7c7c7c;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .element-dipisci-velit-sed {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .architecto-beatae-2 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: 316px;
+}
+
+.element-overview .group-52 {
+  height: 538px;
+  left: 82px;
+  position: absolute;
+  top: 3375px;
+  width: 1119px;
+}
+
+.element-overview .paul-wrapper {
+  background-image: url(../../../static/img/image-13.png);
+  background-size: 100% 100%;
+  height: 538px;
+  position: relative;
+  width: 1117px;
+}
+
+.element-overview .paul {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 67px;
+}
+
+.element-overview .image-14 {
+  height: 492px;
+  left: 77px;
+  position: absolute;
+  top: 3998px;
+  width: 1126px;
+}
+.element-overview .title {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  width: 994px;
+}
+
+.element-overview .https-www-figma-com {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5381px;
+  width: 994px;
+}
+
+.element-overview .screen-shot-17 {
+  height: 653px;
+  left: 231px;
+  object-fit: cover;
+  position: absolute;
+  top: 4609px;
+  width: 312px;
+}
+
+.element-overview .mini-profile {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 618px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4608px;
+}
+
+.element-overview .text-wrapper-202 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.element-overview .text-wrapper-203 {
+  font-weight: 700;
+}
+
+.element-overview .image-15 {
+  height: 491px;
+  left: 159px;
+  object-fit: cover;
+  position: absolute;
+  top: 5515px;
+  width: 918px;
+}

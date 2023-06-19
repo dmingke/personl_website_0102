@@ -1,0 +1,14 @@
+.i-o-research {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.i-o-research .div-10 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 832px;
+  width: 1280px;
+}

@@ -34,8 +34,8 @@ export const NavigationBar = ({ style, to, to1, to2, to3, to4 }) => {
               <Link to="/web-dev">Web Development</Link>
               <Link to="/communieat">UI/UX Design: Communieat</Link>
               <Link to="/freeze">UI/UX Design: FREEZE</Link>
-              <Link to="/ux-research">UX Research: Expedia</Link>
-              <Link to="/1cademy">1Cademy</Link>
+              <Link to="/expedia-students-travel">UX Research: Student travel</Link>
+              <Link to="/1cademy-overview">1Cademy</Link>
             </div>
           )}
         </div>

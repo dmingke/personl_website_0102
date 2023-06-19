@@ -1,0 +1,28 @@
+.severity-1 {
+  height: 40px;
+  width: 76px;
+}
+
+.severity-1 .overlap-group-5 {
+  background-color: #65aff7;
+  border: 1px solid;
+  border-color: #0f3458;
+  border-radius: 8px;
+  height: 40px;
+  left: 18px;
+  position: relative;
+  width: 40px;
+}
+
+.severity-1 .element-6 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+}

@@ -1,13 +1,16 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { FrontPage } from "./screens/FrontPage";
+import { IOResearch } from "./screens/IOResearch";
+import { ExpediaStudents } from "./screens/ExpediaStudents";
+import { ElementOverview } from "./screens/ElementOverview";
 import { Resume } from "./screens/Resume";
+import { Design } from "./screens/Design";
+import { ProgrammingOriginal } from "./screens/ProgrammingOriginal";
 import { Freeze } from "./screens/Freeze";
 import { Research } from "./screens/Research";
-import { Design } from "./screens/Design";
 import { Communieat } from "./screens/Communieat";
 import { ResumeScreen } from "./screens/ResumeScreen";
-import { ProgrammingOriginal } from "./screens/ProgrammingOriginal";
 import { Projects } from "./screens/Projects";
 import { SkillsCourse } from "./screens/SkillsCourse";
 
@@ -21,8 +24,28 @@ const router = createBrowserRouter([
     element: <FrontPage />,
   },
   {
-    path: "/resume",
+    path: "/i-o-research",
+    element: <IOResearch />,
+  },
+  {
+    path: "/expedia-students-travel",
+    element: <ExpediaStudents />,
+  },
+  {
+    path: "/1cademy-overview",
+    element: <ElementOverview />,
+  },
+  {
+    path: "/resumezhong",
     element: <Resume />,
+  },
+  {
+    path: "/design",
+    element: <Design />,
+  },
+  {
+    path: "/programming-original",
+    element: <ProgrammingOriginal />,
   },
   {
     path: "/freeze",
@@ -33,20 +56,12 @@ const router = createBrowserRouter([
     element: <Research />,
   },
   {
-    path: "/design",
-    element: <Design />,
-  },
-  {
     path: "/communieat",
     element: <Communieat />,
   },
   {
-    path: "/resumezhong",
+    path: "/resume",
     element: <ResumeScreen />,
-  },
-  {
-    path: "/programming-original",
-    element: <ProgrammingOriginal />,
   },
   {
     path: "/projects",

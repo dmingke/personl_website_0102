@@ -401,18 +401,17 @@ export const ExpediaStudents = () => {
         </div>
         </div>
         <NavigationBar
-          style={{
-            left: "0",
-            position: "absolute",
-            top: "0",
-            width: "1378px",
-          }}
-          to="/front-page"
-          to1="/resumezhong"
-          to2="/programming-original"
-          to3="/design"
-          to4="/research"
-        />
+        style={{
+          left: "0",
+          position: "absolute",
+          top: "0",
+        }}
+        to="/front-page"
+        to1="/resumezhong"
+        to2="/programming-original"
+        to3="/design"
+        to4="/research"
+      />
         <Group
         style={{
           position: "fixed",

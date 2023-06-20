@@ -566,18 +566,17 @@ export const ElementOverview = () => {
         <img className="screen-shot-19" alt="Screen shot" src="/img/screen-shot-2023-06-17-at-6-57-1.png" />
         </div>
         <NavigationBar
-          style={{
-            left: "0",
-            position: "absolute",
-            top: "0",
-            width: "1378px",
-          }}
-          to="/front-page"
-          to1="/resumezhong"
-          to2="/programming-original"
-          to3="/design"
-          to4="/research"
-        />
+        style={{
+          left: "0",
+          position: "absolute",
+          top: "0",
+        }}
+        to="/front-page"
+        to1="/resumezhong"
+        to2="/programming-original"
+        to3="/design"
+        to4="/research"
+      />
         <Group
         style={{
           position: "fixed",

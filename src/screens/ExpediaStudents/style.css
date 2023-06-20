@@ -6,88 +6,42 @@
   width: 100%;
 }
 
-.expedia-students .div-3 {
-  background-color: transparent;
+.expedia-students .div-10 {
+  background-color: #ffffff;
   border: 1px none;
   height: 7782px;
+  overflow-x: hidden;
   position: relative;
-  width: 90%;
+  width: 1280px;
 }
 
-.expedia-students .overlap-2 {
-  height: 566px;
-  left: 169px;
-  position: absolute;
-  top: 4316px;
-  width: 1066px;
-}
-
-.expedia-students .group-2 {
-  background-image: url(../../../static/img/image-17.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 243px;
-  left: 183px;
-  position: absolute;
-
-  width: 576px;
-}
-
-.expedia-students .rectangle-4 {
-  background-color: #ffffff;
-  height: 33px;
-  left: 526px;
-  position: absolute;
-  top: 4px;
-  width: 50px;
-}
-
-.expedia-students .rectangle-5 {
-  background-color: #ffffff;
-  height: 25px;
-
-  position: absolute;
-  top: 37px;
-  width: 106px;
-}
-
-.expedia-students .element-stars-page {
-  height: 309px;
-  position: absolute;
-  top: 243px;
-  width: 490px;
-}
-
-.expedia-students .img {
-  height: 323px;
-  left: 518px;
-  position: absolute;
-  top: 243px;
-  width: 548px;
-}
-
-.expedia-students .overlap-3 {
+.expedia-students .overlap-17 {
   height: 844px;
+  left: 0;
   position: absolute;
   top: 75px;
-  width: 100%;
+  width: 1280px;
 }
 
-.expedia-students .image {
+.expedia-students .image-9 {
   height: 843px;
+  left: 1px;
   object-fit: cover;
   position: absolute;
-  width: 100%;
+  top: 1px;
+  width: 1277px;
 }
 
-.expedia-students .rectangle-6 {
+.expedia-students .rectangle-12 {
   background-color: #ffffffe6;
   height: 696px;
+  left: 0;
   position: absolute;
-  width: 100%;
+  top: 0;
+  width: 1280px;
 }
 
-.expedia-students .frame-4 {
+.expedia-students .frame-17 {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -98,7 +52,7 @@
   width: 550px;
 }
 
-.expedia-students .h-1 {
+.expedia-students .text-wrapper-146 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
@@ -111,7 +65,7 @@
   width: fit-content;
 }
 
-.expedia-students .problem-statement {
+.expedia-students .problem-statement-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -122,15 +76,15 @@
   width: 453px;
 }
 
-.expedia-students .span {
+.expedia-students .text-wrapper-147 {
   font-weight: 700;
 }
 
-.expedia-students .text-wrapper-2 {
+.expedia-students .text-wrapper-148 {
   font-weight: 600;
 }
 
-.expedia-students .text-wrapper-3 {
+.expedia-students .text-wrapper-149 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -139,53 +93,410 @@
   line-height: 26px;
 }
 
-.expedia-students .group-3 {
-  height: 420px;
+.expedia-students .group-43 {
+  height: 415px;
   left: 193px;
   position: absolute;
   top: 183px;
   width: 895px;
 }
 
-.expedia-students .text-wrapper-4 {
+.expedia-students .overlap-18 {
+  height: 6550px;
+  left: 123px;
+  position: absolute;
+  top: 978px;
+  width: 1197px;
+}
+
+.expedia-students .group-44 {
+  height: 6550px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.expedia-students .group-45 {
+  height: 424px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.expedia-students .ellipse-2 {
+  background-color: #0073c2;
+  border-radius: 17.5px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.expedia-students .line-5 {
+  height: 389px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.expedia-students .group-46 {
+  height: 488px;
+  left: 5px;
+  position: absolute;
+  top: 449px;
+  width: 25px;
+}
+
+.expedia-students .ellipse-3 {
+  background-color: #0073c2;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.expedia-students .line-6 {
+  height: 463px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.expedia-students .group-47 {
+  height: 248px;
+  left: 0;
+  position: absolute;
+  top: 962px;
+  width: 35px;
+}
+
+.expedia-students .ellipse-4 {
+  background-color: #0073c2;
+  border-radius: 17.5px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.expedia-students .line-7 {
+  height: 213px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.expedia-students .group-48 {
+  height: 886px;
+  left: 5px;
+  position: absolute;
+  top: 4102px;
+  width: 25px;
+}
+
+.expedia-students .overlap-group-12 {
+  height: 886px;
+  position: relative;
+}
+
+.expedia-students .ellipse-5 {
+  background-color: #0073c2;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.expedia-students .line-8 {
+  height: 865px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.expedia-students .group-49 {
+  height: 570px;
+  left: 5px;
+  position: absolute;
+  top: 5015px;
+  width: 25px;
+}
+
+.expedia-students .ellipse-6 {
+  background-color: #0073c2;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.expedia-students .line-9 {
+  height: 544px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.expedia-students .group-50 {
+  height: 634px;
+  left: 0;
+  position: absolute;
+  top: 5618px;
+  width: 35px;
+}
+
+.expedia-students .ellipse-7 {
+  background-color: #0073c2;
+  border-radius: 17.5px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.expedia-students .line-10 {
+  height: 599px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.expedia-students .group-51 {
+  height: 269px;
+  left: 0;
+  position: absolute;
+  top: 6281px;
+  width: 35px;
+}
+
+.expedia-students .ellipse-8 {
+  background-color: #0073c2;
+  border-radius: 17.5px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.expedia-students .line-11 {
+  height: 234px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.expedia-students .group-52 {
+  height: 349px;
+  left: 5px;
+  position: absolute;
+  top: 1232px;
+  width: 25px;
+}
+
+.expedia-students .overlap-19 {
+  height: 349px;
+  position: relative;
+}
+
+.expedia-students .ellipse-9 {
+  background-color: #0073c2;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.expedia-students .line-12 {
+  height: 326px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.expedia-students .group-53 {
+  height: 1083px;
+  left: 5px;
+  position: absolute;
+  top: 1602px;
+  width: 25px;
+}
+
+.expedia-students .group-54 {
+  background-color: #0073c2;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.expedia-students .line-13 {
+  height: 1057px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.expedia-students .group-55 {
+  height: 1352px;
+  left: 5px;
+  position: absolute;
+  top: 2719px;
+  width: 25px;
+}
+
+.expedia-students .ellipse-10 {
+  background-color: #0073c2;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.expedia-students .line-14 {
+  height: 1327px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.expedia-students .group-56 {
+  height: 6536px;
+  left: 24px;
+  position: absolute;
+  top: 4px;
+  width: 1173px;
+}
+
+.expedia-students .overlap-20 {
+  height: 566px;
+  left: 22px;
+  position: absolute;
+  top: 3334px;
+  width: 1066px;
+}
+
+.expedia-students .group-57 {
+  background-image: url(../../../static/img/image-17.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 243px;
+  left: 183px;
+  position: absolute;
+  top: 0;
+  width: 576px;
+}
+
+.expedia-students .rectangle-13 {
+  background-color: #ffffff;
+  height: 33px;
+  left: 526px;
+  position: absolute;
+  top: 4px;
+  width: 50px;
+}
+
+.expedia-students .rectangle-14 {
+  background-color: #ffffff;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 37px;
+  width: 106px;
+}
+
+.expedia-students .element-stars-page {
+  height: 309px;
+  left: 0;
+  position: absolute;
+  top: 243px;
+  width: 490px;
+}
+
+.expedia-students .element-stars-page-2 {
+  height: 323px;
+  left: 518px;
+  position: absolute;
+  top: 243px;
+  width: 548px;
+}
+
+.expedia-students .text-wrapper-150 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 700;
-  left: 205px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 980px;
+  top: 0;
   white-space: nowrap;
 }
 
-.expedia-students .empathize-research {
+.expedia-students .research-empathize {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 700;
-  left: 203px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 1945px;
+  top: 962px;
   white-space: nowrap;
 }
 
-.expedia-students .flex-container {
+.expedia-students .flex-container-15 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
   gap: 5px;
   height: 343px;
-  left: 224px;
+  left: 106px;
   position: absolute;
-  top: 1032px;
+  top: 46px;
   width: 830px;
 }
 
-.expedia-students .text {
+.expedia-students .text-69 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -196,7 +507,7 @@
   width: 830px;
 }
 
-.expedia-students .text-wrapper-5 {
+.expedia-students .text-wrapper-151 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -205,7 +516,7 @@
   line-height: 26px;
 }
 
-.expedia-students .span-wrapper {
+.expedia-students .text-70 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -216,7 +527,7 @@
   width: 830px;
 }
 
-.expedia-students .text-wrapper-6 {
+.expedia-students .text-wrapper-152 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -227,9 +538,9 @@
 
 .expedia-students .img-2 {
   height: 573px;
-  left: 206px;
+  left: 106px;
   position: absolute;
-  top: 5234px;
+  top: 4248px;
   width: 839px;
 }
 
@@ -238,11 +549,11 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 600;
-  left: 203px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 2208px;
+  top: 1227px;
   white-space: nowrap;
 }
 
@@ -251,27 +562,27 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 600;
-  left: 198px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 2579px;
+  top: 1598px;
   white-space: nowrap;
 }
 
-.expedia-students .flex-container-2 {
+.expedia-students .flex-container-16 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
   gap: 5px;
   height: 343px;
-  left: 230px;
+  left: 106px;
   position: absolute;
-  top: 2631px;
+  top: 1656px;
   width: 830px;
 }
 
-.expedia-students .text-2 {
+.expedia-students .text-71 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -282,7 +593,7 @@
   width: 830px;
 }
 
-.expedia-students .text-wrapper-7 {
+.expedia-students .text-wrapper-153 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -291,7 +602,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-3 {
+.expedia-students .text-72 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -303,7 +614,7 @@
   width: 830px;
 }
 
-.expedia-students .text-wrapper-8 {
+.expedia-students .text-wrapper-154 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -312,36 +623,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-4 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  width: 830px;
-}
-
-.expedia-students .text-wrapper-9 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.expedia-students .text-wrapper-10 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.expedia-students .text-5 {
+.expedia-students .text-73 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -352,7 +634,7 @@
   width: 830px;
 }
 
-.expedia-students .text-wrapper-11 {
+.expedia-students .text-wrapper-155 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -361,7 +643,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-wrapper-12 {
+.expedia-students .text-wrapper-156 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -370,36 +652,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-6 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  width: 830px;
-}
-
-.expedia-students .text-wrapper-13 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.expedia-students .text-wrapper-14 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.expedia-students .text-7 {
+.expedia-students .text-74 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -410,7 +663,7 @@
   width: 830px;
 }
 
-.expedia-students .text-wrapper-15 {
+.expedia-students .text-wrapper-157 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -419,7 +672,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-wrapper-16 {
+.expedia-students .text-wrapper-158 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -428,36 +681,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-8 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  width: 830px;
-}
-
-.expedia-students .text-wrapper-17 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.expedia-students .text-wrapper-18 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.expedia-students .text-9 {
+.expedia-students .text-75 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -468,7 +692,7 @@
   width: 830px;
 }
 
-.expedia-students .text-wrapper-19 {
+.expedia-students .text-wrapper-159 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -477,7 +701,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-wrapper-20 {
+.expedia-students .text-wrapper-160 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -486,7 +710,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-10 {
+.expedia-students .text-76 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -497,7 +721,7 @@
   width: 830px;
 }
 
-.expedia-students .text-wrapper-21 {
+.expedia-students .text-wrapper-161 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -506,7 +730,7 @@
   line-height: 26px;
 }
 
-.expedia-students .text-wrapper-22 {
+.expedia-students .text-wrapper-162 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -515,19 +739,106 @@
   line-height: 26px;
 }
 
-.expedia-students .flex-container-3 {
+.expedia-students .text-77 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 830px;
+}
+
+.expedia-students .text-wrapper-163 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.expedia-students .text-wrapper-164 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.expedia-students .text-78 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 830px;
+}
+
+.expedia-students .text-wrapper-165 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.expedia-students .text-wrapper-166 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.expedia-students .text-79 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 830px;
+}
+
+.expedia-students .text-wrapper-167 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.expedia-students .text-wrapper-168 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.expedia-students .flex-container-17 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
   gap: 5px;
-  height: 140px;
-  left: 230px;
+  height: 161px;
+  left: 106px;
   position: absolute;
-  top: 2264px;
+  top: 1285px;
   width: 830px;
 }
 
-.expedia-students .text-11 {
+.expedia-students .text-80 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -535,11 +846,10 @@
   letter-spacing: 0;
   line-height: 26px;
   position: relative;
-  white-space: nowrap;
   width: 830px;
 }
 
-.expedia-students .text-wrapper-23 {
+.expedia-students .text-wrapper-169 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -548,19 +858,19 @@
   line-height: 26px;
 }
 
-.expedia-students .text-12 {
+.expedia-students .text-81 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 400;
   letter-spacing: 0;
   line-height: 26px;
-  margin-bottom: -16px;
+  margin-bottom: -21px;
   position: relative;
   width: 830px;
 }
 
-.expedia-students .text-wrapper-24 {
+.expedia-students .text-wrapper-170 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -569,13 +879,13 @@
   line-height: 26px;
 }
 
-.expedia-students .text-wrapper-25 {
+.expedia-students .text-wrapper-171 {
   font-style: italic;
   font-weight: 600;
   text-decoration: underline;
 }
 
-.expedia-students .text-wrapper-26 {
+.expedia-students .text-wrapper-172 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -584,11 +894,11 @@
   line-height: 26px;
 }
 
-.expedia-students .text-wrapper-27 {
+.expedia-students .text-wrapper-173 {
   font-weight: 700;
 }
 
-.expedia-students .text-wrapper-28 {
+.expedia-students .text-wrapper-174 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -597,32 +907,12 @@
   line-height: 26px;
 }
 
-.expedia-students .text-13 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  width: 830px;
-}
-
-.expedia-students .text-wrapper-29 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.expedia-students .image-2 {
+.expedia-students .image-10 {
   height: 460px;
-  left: 211px;
+  left: 64px;
   object-fit: cover;
   position: absolute;
-  top: 3034px;
+  top: 2052px;
   width: 844px;
 }
 
@@ -631,15 +921,15 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 400;
-  left: 235px;
+  left: 106px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 3761px;
+  top: 2761px;
   width: 830px;
 }
 
-.expedia-students .text-wrapper-30 {
+.expedia-students .text-wrapper-175 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -648,13 +938,13 @@
   line-height: 26px;
 }
 
-.expedia-students .text-wrapper-31 {
+.expedia-students .text-wrapper-176 {
   font-style: italic;
   font-weight: 600;
   text-decoration: underline;
 }
 
-.expedia-students .text-wrapper-32 {
+.expedia-students .text-wrapper-177 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -668,24 +958,24 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 600;
-  left: 211px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 3709px;
+  top: 2715px;
   white-space: nowrap;
 }
 
-.expedia-students .text-wrapper-33 {
+.expedia-students .text-wrapper-178 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 700;
-  left: 205px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 6480px;
+  top: 5619px;
   white-space: nowrap;
 }
 
@@ -694,11 +984,11 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 600;
-  left: 418px;
+  left: 273px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 1438px;
+  top: 449px;
   white-space: nowrap;
 }
 
@@ -706,20 +996,20 @@
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
-  font-weight: 600;
-  left: 503px;
+  font-weight: 700;
+  left: 380px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 4262px;
+  top: 3285px;
   white-space: nowrap;
 }
 
-.expedia-students .group-4 {
+.expedia-students .group-58 {
   height: 362px;
-  left: 246px;
+  left: 99px;
   position: absolute;
-  top: 1509px;
+  top: 527px;
   width: 785px;
 }
 
@@ -733,11 +1023,11 @@
   line-height: 26px;
   position: absolute;
   text-align: center;
-
+  top: 0;
   white-space: nowrap;
 }
 
-.expedia-students .group-5 {
+.expedia-students .group-59 {
   height: 35px;
   left: 436px;
   position: absolute;
@@ -766,12 +1056,12 @@
   white-space: nowrap;
 }
 
-.expedia-students .text-wrapper-34 {
+.expedia-students .text-wrapper-179 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 500;
-
+  left: 0;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
@@ -780,7 +1070,7 @@
   white-space: nowrap;
 }
 
-.expedia-students .text-wrapper-35 {
+.expedia-students .text-wrapper-180 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -794,7 +1084,7 @@
   white-space: nowrap;
 }
 
-.expedia-students .text-wrapper-36 {
+.expedia-students .text-wrapper-181 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -808,11 +1098,11 @@
   white-space: nowrap;
 }
 
-.expedia-students .overlap-wrapper {
+.expedia-students .group-60 {
   height: 35px;
   left: 436px;
   position: absolute;
-
+  top: 0;
   width: 343px;
 }
 
@@ -837,7 +1127,7 @@
   white-space: nowrap;
 }
 
-.expedia-students .group-6 {
+.expedia-students .group-61 {
   height: 35px;
   left: 436px;
   position: absolute;
@@ -866,7 +1156,7 @@
   white-space: nowrap;
 }
 
-.expedia-students .group-7 {
+.expedia-students .group-62 {
   height: 35px;
   left: 436px;
   position: absolute;
@@ -895,16 +1185,16 @@
   white-space: nowrap;
 }
 
-.expedia-students .p {
+.expedia-students .text-wrapper-182 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 400;
-  left: 235px;
+  left: 106px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 7204px;
+  top: 6328px;
   width: 830px;
 }
 
@@ -913,24 +1203,24 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 400;
-  left: 224px;
+  left: 106px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 6530px;
+  top: 5665px;
   width: 885px;
 }
 
-.expedia-students .text-wrapper-37 {
+.expedia-students .text-wrapper-183 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 700;
-  left: 205px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 7149px;
+  top: 6282px;
   white-space: nowrap;
 }
 
@@ -939,11 +1229,24 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 400;
-  left: 235px;
+  left: 106px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 5123px;
+  top: 4147px;
+  width: 830px;
+}
+
+.expedia-students .text-wrapper-184 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 5060px;
   width: 830px;
 }
 
@@ -952,11 +1255,11 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 600;
-  left: 211px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 5074px;
+  top: 4098px;
   white-space: nowrap;
 }
 
@@ -965,245 +1268,31 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 600;
-  left: 211px;
+  left: 79px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 5992px;
+  top: 5011px;
   white-space: nowrap;
 }
 
-.expedia-students .ellipse {
-  background-color: #0073c2;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 123px;
-  position: absolute;
-  top: 978px;
-  width: 35px;
-}
-
-.expedia-students .ellipse-2 {
-  background-color: #0073c2;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 123px;
-  position: absolute;
-  top: 1940px;
-  width: 35px;
-}
-
-.expedia-students .overlap-4 {
-  height: 349px;
-  left: 128px;
-  position: absolute;
-  top: 2210px;
-  width: 25px;
-}
-
-.expedia-students .ellipse-3 {
-  background-color: #0073c2;
-  border-radius: 12.5px;
-  height: 25px;
-
-  position: absolute;
-
-  width: 25px;
-}
-
-.expedia-students .line {
-  height: 326px;
-  left: 13px;
-  object-fit: cover;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.expedia-students .ellipse-4 {
-  background-color: #0073c2;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 128px;
-  position: absolute;
-  top: 2580px;
-  width: 25px;
-}
-
-.expedia-students .ellipse-5 {
-  background-color: #0073c2;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 128px;
-  position: absolute;
-  top: 1427px;
-  width: 25px;
-}
-
-.expedia-students .overlap-5 {
-  height: 1352px;
-  left: 128px;
-  position: absolute;
-  top: 3697px;
-  width: 25px;
-}
-
-.expedia-students .ellipse-6 {
-  background-color: #0073c2;
-  border-radius: 12.5px;
-  height: 25px;
-
-  position: absolute;
-
-  width: 25px;
-}
-
-.expedia-students .line-2 {
-  height: 1332px;
-  left: 13px;
-  object-fit: cover;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.expedia-students .overlap-6 {
-  height: 861px;
-  left: 128px;
-  position: absolute;
-  top: 5080px;
-  width: 25px;
-}
-
-.expedia-students .ellipse-7 {
-  background-color: #0073c2;
-  border-radius: 12.5px;
-  height: 25px;
-
-  position: absolute;
-
-  width: 25px;
-}
-
-.expedia-students .line-3 {
-  height: 840px;
-  left: 13px;
-  object-fit: cover;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.expedia-students .ellipse-8 {
-  background-color: #0073c2;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 128px;
-  position: absolute;
-  top: 5993px;
-  width: 25px;
-}
-
-.expedia-students .ellipse-9 {
-  background-color: #0073c2;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 123px;
-  position: absolute;
-  top: 6481px;
-  width: 35px;
-}
-
-.expedia-students .ellipse-10 {
-  background-color: #0073c2;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 123px;
-  position: absolute;
-  top: 7144px;
-  width: 35px;
-}
-
-.expedia-students .line-4 {
-  height: 377px;
-  left: 141px;
-  object-fit: cover;
-  position: absolute;
-  top: 1013px;
-  width: 1px;
-}
-
-.expedia-students .line-5 {
-  height: 454px;
-  left: 141px;
-  object-fit: cover;
-  position: absolute;
-  top: 1452px;
-  width: 1px;
-}
-
-.expedia-students .line-6 {
-  height: 213px;
-  left: 141px;
-  object-fit: cover;
-  position: absolute;
-  top: 1975px;
-  width: 1px;
-}
-
-.expedia-students .line-7 {
-  height: 433px;
-  left: 141px;
-  object-fit: cover;
-  position: absolute;
-  top: 6019px;
-  width: 1px;
-}
-
-.expedia-students .line-8 {
-  height: 610px;
-  left: 141px;
-  object-fit: cover;
-  position: absolute;
-  top: 6516px;
-  width: 1px;
-}
-
-.expedia-students .line-9 {
-  height: 234px;
-  left: 141px;
-  object-fit: cover;
-  position: absolute;
-  top: 7179px;
-  width: 1px;
-}
-
-.expedia-students .line-10 {
-  height: 1042px;
-  left: 141px;
-  object-fit: cover;
-  position: absolute;
-  top: 2606px;
-  width: 1px;
-}
-
-.expedia-students .text-wrapper-38 {
+.expedia-students .text-wrapper-185 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 400;
-  left: 235px;
+  left: 106px;
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 1997px;
+  top: 1021px;
   width: 830px;
 }
 
-.expedia-students .image-3 {
+.expedia-students .image-11 {
   height: 354px;
-  left: 147px;
+  left: 0;
   position: absolute;
-  top: 6034px;
+  top: 5161px;
   width: 1133px;
 }

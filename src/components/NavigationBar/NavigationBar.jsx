@@ -29,7 +29,7 @@ export const NavigationBar = ({ style, to, to1, to2, to3, to4 }) => {
           onMouseLeave={handleDropdownClose}
         >
          <button className={`work-button ${isDropdownOpen ? 'upside-down' : ''}`}>
-            Work
+            WORK
             <span className={`dropdown-arrow ${isDropdownOpen ? 'upside-down' : ''}`}></span>
           </button>
           {isDropdownOpen && (

@@ -94,20 +94,6 @@ export const ExpediaStudents = () => {
               </div>
             </div>
           </div>
-          <NavigationBar
-            style={{
-              height: "79px",
-              left: "0",
-              position: "absolute",
-              top: "0",
-              width: "1400px",
-            }}
-            to="/front-page"
-            to1="/resumezhong"
-            to2="/programming-original"
-            to3="/design"
-            to4="/research"
-          />
         </div>
         <div className="group-33">
           <div className="group-34">
@@ -512,6 +498,25 @@ export const ExpediaStudents = () => {
           </div>
         </div>
       </div>
+      <NavigationBar
+            style={{
+              height: "79px",
+              left: "0",
+              position: "absolute",
+              top: "0",
+              width: "1400px",
+            }}
+            to="/front-page"
+            to1="/resumezhong"
+            to2="/programming-original"
+            to3="/design"
+            to4="/research"
+          />
+      <Group
+        style={{
+          position: "fixed",
+        }}
+      />
     </div>
   );
 };

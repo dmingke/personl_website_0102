@@ -240,12 +240,12 @@ export const ProgrammingOriginal = () => {
           <img
             className="screen-shot-14"
             alt="Screen shot"
-            src="/img/screen-shot-2023-05-31-at-4-30-1-2.png"
+            src="/img/screen-shot-2023-05-31-at-4-30-1.png"
           />
           <p className="search-result-with">
             Search Result With Keyword “book”
           </p>
-          <img className="image-7" alt="Image" src="/img/image.png" />
+          <img className="image-7" alt="Image" src="/img/image-1.png" />
         </div>
         <div id="section1" className="flex-container-14">
           <div className="text-wrapper-133">

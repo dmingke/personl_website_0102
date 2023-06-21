@@ -191,7 +191,7 @@ export const ElementOverview = () => {
                   <div className="group-71">
                     <p className="text-wrapper-199">Coordinating design, research, and developing teams</p>
                     <p className="text-wrapper-200">
-                      After more than one year volunteering at 1Cademy, I took part in and worked on some projects from
+                      After more than one year contributing at 1Cademy, I took part in and worked on some projects from
                       all computer science, UX, cognitive psychology research, and UI design teams. Therefore, when it
                       comes to connecting three groups for requested modifications and new development tasks, I commonly
                       worked as a coordinator between three teams to explain how would the new design works to the
@@ -521,7 +521,7 @@ export const ElementOverview = () => {
           <div className="group-94">
             <div className="text-wrapper-226">Takeaways</div>
             <p className="i-volunteered-at">
-              I volunteered at 1Cademy for a very long period and spent most of my extracurricular time helping,
+              I worked at 1Cademy for a very long period and spent most of my extracurricular time helping,
               developing, and learning in this community. I have participated in more than three research projects and
               contributed many improving ideas. Through tasks assigned, I learned many things from team leaders and
               other members and gained tons of experience, including communication skills, knowledge in UX/UI design,

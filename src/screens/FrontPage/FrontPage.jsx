@@ -65,7 +65,7 @@ export const FrontPage = () => {
               minors in Computer Science and UX Design, I&#39;ve been able to merge these fascinating fields, creating a
               unique perspective that blends human understanding with technical prowess.
             </p>
-            <img className="ellipse" alt="Ellipse" src="/img/ellipse-1.png" />
+            <img className="ellipses" alt="Ellipse" src="/img/ellipse-1.png" />
           </div>
           <ButtonWrapper
             style={{

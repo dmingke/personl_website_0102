@@ -1,39 +1,37 @@
 .communieat {
   background-color: #ffffff;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
-  align-items: center;
-  width: 100%; 
-  margin: 0 auto;
-}
-
-.communieat .div-7 {
-  background-color: #ffffff;
-  border: 1px none;
-  height: 6116px;
-  position: relative;
   width: 100%;
 }
 
-.communieat .overlap-13 {
+.communieat .div-6 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 6491px;
+  position: relative;
+  width: 1280px;
+}
+
+.communieat .overlap-6 {
   height: 790px;
-  /* left: 0; */
+  left: 0;
   position: absolute;
-  top: 5413px;
+  top: 5701px;
   width: 100%;
 }
 
 .communieat .frame-10 {
   background-color: #e5eef8;
   height: 790px;
-  /* left: 0; */
+  left: 0;
   position: absolute;
   top: 0;
   width: 100%;
 }
 
-.communieat .text-wrapper-79 {
+.communieat .text-wrapper-109 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
@@ -50,27 +48,26 @@
   align-items: flex-start;
   display: flex;
   gap: 80px;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 79px;
   position: absolute;
   top: 107px;
   width: fit-content;
 }
 
-.communieat .screen-shot-9 {
+.communieat .screen-shot-11 {
   height: 648px;
   min-width: 329px;
   object-fit: cover;
   position: relative;
 }
 
-.communieat .screen-shot-10 {
+.communieat .screen-shot-12 {
   height: 649px;
   min-width: 316px;
   position: relative;
 }
 
-.communieat .screen-shot-11 {
+.communieat .screen-shot-13 {
   height: 649px;
   min-width: 318px;
   object-fit: cover;
@@ -86,19 +83,17 @@
   width: 100%;
 }
 
-.communieat .overlap-group-5 {
+.communieat .overlap-group-8 {
   height: 975px;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 22px;
   position: relative;
   top: 36px;
   width: 1237px;
 }
 
-.communieat .group-29 {
+.communieat .group-23 {
   height: 975px;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 0;
   position: absolute;
   top: 0;
   width: 1237px;
@@ -106,6 +101,7 @@
 
 .communieat .annotated-team {
   height: 461px;
+  left: 0;
   object-fit: cover;
   position: absolute;
   top: 215px;
@@ -150,7 +146,7 @@
   width: 100%;
 }
 
-.communieat .text-wrapper-80 {
+.communieat .text-wrapper-110 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 36px;
@@ -163,13 +159,12 @@
   white-space: nowrap;
 }
 
-.communieat .text-wrapper-81 {
+.communieat .text-wrapper-111 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 400;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 108px;
   letter-spacing: 0;
   line-height: 40px;
   position: absolute;
@@ -178,25 +173,23 @@
 }
 
 .communieat .frame-14 {
-  background-color: #c9dcf0;
+  background-color: #c0d6ed;
   height: 910px;
-
+  left: 0;
   position: absolute;
   top: 0;
   width: 100%;
 }
 
-.communieat .group-30 {
-  top: 130px;
+.communieat .group-24 {
   height: 649px;
-  position: relative;
+  left: 236px;
+  position: absolute;
+  top: 130px;
   width: 808px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
-
-.communieat .screen-shot-12 {
+.communieat .screen-shot-14 {
   height: 657px;
   left: -4px;
   object-fit: cover;
@@ -205,7 +198,7 @@
   width: 329px;
 }
 
-.communieat .screen-shot-13 {
+.communieat .screen-shot-15 {
   height: 657px;
   left: 483px;
   object-fit: cover;
@@ -214,16 +207,15 @@
   width: 329px;
 }
 
-.communieat .group-31 {
+.communieat .group-25 {
   height: 548px;
+  left: 92px;
   position: absolute;
   top: 979px;
   width: 1108px;
-  left: 50%;
-  transform: translateX(-50%);
 }
 
-.communieat .text-wrapper-82 {
+.communieat .text-wrapper-112 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -236,7 +228,7 @@
   width: 496px;
 }
 
-.communieat .text-wrapper-83 {
+.communieat .text-wrapper-113 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 40px;
@@ -250,7 +242,7 @@
   width: 677px;
 }
 
-.communieat .text-wrapper-84 {
+.communieat .text-wrapper-114 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -262,7 +254,7 @@
   top: 178px;
 }
 
-.communieat .text-wrapper-85 {
+.communieat .text-wrapper-115 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -274,7 +266,7 @@
   top: 178px;
 }
 
-.communieat .text-wrapper-86 {
+.communieat .text-wrapper-116 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -287,7 +279,7 @@
   width: 392px;
 }
 
-.communieat .text-wrapper-87 {
+.communieat .text-wrapper-117 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -299,7 +291,7 @@
   top: 497px;
 }
 
-.communieat .group-32 {
+.communieat .group-26 {
   height: 547px;
   left: 92px;
   position: absolute;
@@ -307,7 +299,7 @@
   width: 1102px;
 }
 
-.communieat .text-wrapper-88 {
+.communieat .text-wrapper-118 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 36px;
@@ -325,7 +317,7 @@
   font-family: "Lato", Helvetica;
   font-size: 32px;
   font-weight: 700;
-  left: 5px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -338,8 +330,7 @@
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 400;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 17px;
   letter-spacing: 0;
   line-height: 30px;
   position: absolute;
@@ -347,21 +338,11 @@
   width: 1079px;
 }
 
-.communieat .overlap-14 {
-  height: 1467px;
-  left: 50%;
-  transform: translateX(-50%);
+.communieat .group-27 {
+  height: 486px;
+  left: 68px;
   position: absolute;
   top: 3919px;
-  width: 1199px;
-}
-
-.communieat .group-33 {
-  height: 486px;
-  left: 50%;
-  transform: translateX(-50%);
-  position: absolute;
-  top: 0;
   width: 1146px;
 }
 
@@ -373,7 +354,7 @@
   width: 854px;
 }
 
-.communieat .text-wrapper-89 {
+.communieat .text-wrapper-119 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
@@ -386,47 +367,57 @@
   white-space: nowrap;
 }
 
-.communieat .group-34 {
-  height: 1091px;
-  left: 0;
+.communieat .overlap-7 {
+  height: 1164px;
+  left: 41px;
   position: absolute;
-  top: 376px;
-  width: 1199px;
+  top: 4405px;
+  width: 1212px;
 }
 
-.communieat .overlap-15 {
-  height: 1091px;
+.communieat .group-28 {
+  height: 1080px;
+  left: 73px;
   position: absolute;
   top: 0;
-  width: 1197px;
+  width: 1139px;
 }
 
 .communieat .annotated-sketches {
   height: 536px;
-  left: 553px;
+  left: 493px;
   object-fit: cover;
   position: absolute;
-  top: 555px;
+  top: 544px;
   width: 644px;
 }
 
-.communieat .annotated-sketches-2 {
-  height: 569px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 731px;
-}
-
-.communieat .sketch-storyboard {
+.communieat .sketch-storyboards {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
   font-weight: 700;
-  left: 39px;
+  left: 745px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 642px;
+  top: 325px;
   white-space: nowrap;
+}
+
+.communieat .annotated-sketches-2 {
+  height: 523px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 671px;
+}
+
+.communieat .image-7 {
+  height: 582px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 582px;
+  width: 486px;
 }

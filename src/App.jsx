@@ -36,7 +36,7 @@ const router = createBrowserRouter([
     element: <ElementOverview />,
   },
   {
-    path: "/resumezhong",
+    path: "/resume",
     element: <Resume />,
   },
   {
@@ -60,7 +60,7 @@ const router = createBrowserRouter([
     element: <Communieat />,
   },
   {
-    path: "/resume",
+    path: "/resumezhong",
     element: <ResumeScreen />,
   },
   {

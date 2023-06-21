@@ -28,14 +28,17 @@ export const NavigationBar = ({ style, to, to1, to2, to3, to4 }) => {
           onMouseEnter={handleDropdownOpen}
           onMouseLeave={handleDropdownClose}
         >
-          <button className="work-button">WORK</button>
+         <button className={`work-button ${isDropdownOpen ? 'upside-down' : ''}`}>
+            Work
+            <span className={`dropdown-arrow ${isDropdownOpen ? 'upside-down' : ''}`}></span>
+          </button>
           {isDropdownOpen && (
             <div className="dropdown-menu">
               <Link to="/1cademy-overview">1Cademy</Link>
-              <Link to="/web-dev">Web Development</Link>
-              <Link to="/communieat">UI/UX Design: Communieat</Link>
-              <Link to="/freeze">UI/UX Design: FREEZE</Link>
               <Link to="/expedia-students-travel">UX Research: Student travel</Link>
+              <Link to="/communieat">UI/UX Design: Communieat</Link>
+              <Link to="/web-dev">Web Development</Link>
+              <Link to="/freeze">UI/UX Design: FREEZE</Link>
             </div>
           )}
         </div>

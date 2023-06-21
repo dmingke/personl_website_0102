@@ -1,24 +1,25 @@
 import React from "react";
+import { Group } from "../../components/Group";
 import { NavigationBar } from "../../components/NavigationBar";
 import "./style.css";
 
 export const Communieat = () => {
   return (
     <div className="communieat">
-      <div className="div-7">
-        <div className="overlap-13">
+      <div className="div-6">
+        <div className="overlap-6">
           <div className="frame-10">
-            <div className="text-wrapper-79">Wireframe</div>
+            <div className="text-wrapper-109">Wireframe</div>
           </div>
           <div className="frame-11">
-            <img className="screen-shot-9" alt="Screen shot" src="/img/screen-shot-2023-06-09-at-11-29-1.png" />
-            <img className="screen-shot-10" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-19-1.png" />
-            <img className="screen-shot-11" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-20-1.png" />
+            <img className="screen-shot-11" alt="Screen shot" src="/img/screen-shot-2023-06-09-at-11-29-1.png" />
+            <img className="screen-shot-12" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-19-1.png" />
+            <img className="screen-shot-13" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-20-1.png" />
           </div>
         </div>
         <div className="frame-12">
-          <div className="overlap-group-5">
-            <div className="group-29">
+          <div className="overlap-group-8">
+            <div className="group-23">
               <img
                 className="annotated-team"
                 alt="Annotated team"
@@ -39,8 +40,8 @@ export const Communieat = () => {
           </div>
         </div>
         <div className="frame-13">
-          <div className="text-wrapper-80">Background</div>
-          <p className="text-wrapper-81">
+          <div className="text-wrapper-110">Background</div>
+          <p className="text-wrapper-111">
             Some services exist such as HelloFresh where a box of product and a recipe is delivered to your doorstep for
             you to cook. However, this subscription may start off cheap but can get expensive over time. Additionally,
             cooking these meals still takes a lot of time to prepare and the food can go bad if you save it for a later
@@ -55,41 +56,28 @@ export const Communieat = () => {
           </p>
         </div>
         <div className="frame-14">
-          <div className="group-30">
-            <img className="screen-shot-12" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-13-1.png" />
-            <img className="screen-shot-13" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-07-1.png" />
+          <div className="group-24">
+            <img className="screen-shot-14" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-13-1.png" />
+            <img className="screen-shot-15" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-07-1.png" />
           </div>
-          <NavigationBar
-            style={{
-              backgroundColor: "#e5eef8",
-              left: "0",
-              position: "absolute",
-              top: "0",
-            }}
-            to="/front-page"
-            to1="/resumezhong"
-            to2="/programming-original"
-            to3="/design"
-            to4="/research"
-          />
         </div>
-        <div className="group-31">
-          <p className="text-wrapper-82">
+        <div className="group-25">
+          <p className="text-wrapper-112">
             Current food delivery systems make it difficult for users to eat healthy while eliminating food waste. The
             goal of this app is to provide a platform for those who love cooking, but do not have the time or means to
             create a restaurant. Additionally, we want to give those who are in need of healthy, sustainable food access
             to these meals at any time, any place.
           </p>
-          <h1 className="text-wrapper-83">CHI 2023 Student Design Challenge: Communieat App Design</h1>
-          <div className="text-wrapper-84">Overview</div>
-          <div className="text-wrapper-85">Role</div>
-          <p className="text-wrapper-86">
+          <h1 className="text-wrapper-113">CHI 2023 Student Design Challenge: Communieat App Design</h1>
+          <div className="text-wrapper-114">Overview</div>
+          <div className="text-wrapper-115">Role</div>
+          <p className="text-wrapper-116">
             Team leader, User research (interview, usability testing), interaction, visual design, prototyping
           </p>
-          <div className="text-wrapper-87">2022.1.6 - 2022.4.20</div>
+          <div className="text-wrapper-117">2022.1.6 - 2022.4.20</div>
         </div>
-        <div className="group-32">
-          <div className="text-wrapper-88">Understanding the problem</div>
+        <div className="group-26">
+          <div className="text-wrapper-118">Understanding the problem</div>
           <p className="scenario-sample">Scenario Sample - “tight Spender” Jacob</p>
           <p className="jacob-is-a-years">
             Jacob Is A 23 Years Old Post-graduate Student Living In New York City. He Works An Entry Level 9am-5pm Job
@@ -109,20 +97,37 @@ export const Communieat = () => {
             Experience Is Contingent On Price And Timing.
           </p>
         </div>
-        <div className="overlap-14">
-          <div className="group-33">
-            <img className="user-flow-page" alt="User flow page" src="/img/user-flow-page-2-1.png" />
-            <div className="text-wrapper-89">User Flow</div>
+        <div className="group-27">
+          <img className="user-flow-page" alt="User flow page" src="/img/user-flow-page-2-1.png" />
+          <div className="text-wrapper-119">User Flow</div>
+        </div>
+        <div className="overlap-7">
+          <div className="group-28">
+            <img className="annotated-sketches" alt="Annotated sketches" src="/img/annotated-sketches-page-1-1.png" />
+            <div className="sketch-storyboards">Sketch &amp; Storyboards</div>
+            <img className="annotated-sketches-2" alt="Annotated sketches" src="/img/annotated-sketches-page-2.png" />
           </div>
-          <div className="group-34">
-            <div className="overlap-15">
-              <img className="annotated-sketches" alt="Annotated sketches" src="/img/annotated-sketches-page-1-1.png" />
-              <img className="annotated-sketches-2" alt="Annotated sketches" src="/img/annotated-sketches-page-2.png" />
-            </div>
-            <div className="sketch-storyboard">Sketch &amp; Storyboard</div>
-          </div>
+          <img className="image-7" alt="Image" src="/img/image-19.png" />
         </div>
       </div>
+      <NavigationBar
+            style={{
+              backgroundColor: "#e5eef8",
+              left: "0",
+              position: "absolute",
+              top: "0",
+            }}
+            to="/front-page"
+            to1="/resumezhong"
+            to2="/programming-original"
+            to3="/design"
+            to4="/research"
+          />
+          <Group
+        style={{
+          position: "fixed",
+        }}
+      />
     </div>
   );
 };

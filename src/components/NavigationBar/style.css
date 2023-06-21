@@ -16,6 +16,22 @@
   width: fit-content;
 }
 
+.dropdown-arrow {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  vertical-align: middle;
+  content: "";
+  border-top: 5px solid #000000; 
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  margin-left: 5px; 
+}
+
+.dropdown-arrow.upside-down {
+  transform: rotate(180deg);
+}
+
 .navigation-bar .mingke-dai,
 .navigation-bar .text-wrapper,
 .navigation-bar .programming,
@@ -70,6 +86,7 @@
   text-decoration: none;
   padding: 10px 20px;
   white-space: nowrap; 
+  font-weight: 550;
 }
 
 .navigation-bar .dropdown-menu a:hover {

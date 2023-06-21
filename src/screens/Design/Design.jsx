@@ -9,7 +9,7 @@ import "./style.css";
 const data = [
   { id: "1", name: "UI/UX Design" },
   { id: "2", name: "Poster Design" },
-  { id: "3", name: "Logo Design" },
+  { id: "3", name: "Logo Design" }
 ];
 
 export const Design = () => {

@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef, useLayoutEffect } from "react";
 import "./style.css";
 
-export const Timeline = ({ data }) => {
+export const Timeline = ({ data, isResearchPage = false }) => {
   const [activeId, setActiveId] = useState();
 
   const observer = useRef(
@@ -15,7 +15,7 @@ export const Timeline = ({ data }) => {
       { threshold: 0.6 }
     )
   );
-  
+
   const [elements, setElements] = useState([]);
 
   useLayoutEffect(() => {
@@ -50,7 +50,7 @@ export const Timeline = ({ data }) => {
   };
 
   return (
-    <div className="App">
+    <div className={`App ${isResearchPage ? 'research-page' : ''}`}>
       <div className="sidebar">
         {data.map((item) => (
           <button

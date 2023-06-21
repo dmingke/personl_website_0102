@@ -34,3 +34,8 @@
 .sidebar button.active {
     color: #007bff;
 }
+
+.research-page .sidebar {
+    left: 0;
+    background-color: transparent;
+}

@@ -204,7 +204,7 @@
   width: fit-content;
 }
 
-.element-overview .frame-wrapper {
+.element-overview .frame-wrap {
   align-items: flex-start;
   display: flex;
   flex-direction: column;

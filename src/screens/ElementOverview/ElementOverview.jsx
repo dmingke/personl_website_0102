@@ -131,10 +131,10 @@ export const ElementOverview = () => {
             <img className="line-17" alt="Line" src="/img/line-20.png" />
             <div id="1" className="frame-42">
               <div className="text-wrapper-192">Overview</div>
-              <div className="frame-wrapper">
+              <div className="frame-wrap">
                 <div className="frame-43">
                   <div className="group-69">
-                    <p className="UI-UX-design-UX">Ui/ux Design &amp; Ux Research</p>
+                    <p className="UI-UX-design-UX">UI/UX Design &amp; UX Research</p>
                     <p className="as-a-member-of">
                       As a member of 1Cademy,&nbsp;&nbsp;at first, I focused on UX research and UI design. I
                       collaborated with the UX research team and UI design team to develop 1Cademy multiple websites
@@ -549,7 +549,7 @@ export const ElementOverview = () => {
           top: "0",
         }}
         to="/front-page"
-        to1="/resumezhong"
+        to1="/resume"
         to2="/programming-original"
         to3="/design"
         to4="/research"

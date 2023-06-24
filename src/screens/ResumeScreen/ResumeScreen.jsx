@@ -172,7 +172,7 @@ export const ResumeScreen = () => {
           top: "0",
         }}
         to="/front-page"
-        to1="/resumezhong"
+        to1="/resume"
         to2="/programming-original"
         to3="/design"
         to4="/research"

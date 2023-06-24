@@ -32,7 +32,18 @@
   transform: rotate(180deg);
 }
 
-.navigation-bar .mingke-dai,
+.navigation-bar .mingke-dai {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
 .navigation-bar .text-wrapper,
 .navigation-bar .programming,
 .navigation-bar .design-2,

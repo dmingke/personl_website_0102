@@ -221,7 +221,7 @@ export const Resume = () => {
               </span>
             </div>
             <div className="text-27">
-              <span className="text-wrapper-38">Around 10000 lines coding experience</span>
+              <span className="text-wrapper-38">Around 10000 lines of coding experience</span>
             </div>
           </div>
         </div>
@@ -233,7 +233,7 @@ export const Resume = () => {
             top: "0",
           }}
           to="/front-page"
-          to1="/resumezhong"
+          to1="/resume"
           to2="/programming-original"
           to3="/design"
           to4="/research"

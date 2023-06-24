@@ -1,0 +1,42 @@
+.div-wrapper {
+  align-items: center;
+  bottom: 0;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  position: absolute;
+  right: 0;
+  width: fit-content;
+}
+
+.div-wrapper .next-project-UX {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.div-wrapper .span {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.div-wrapper .text-wrapper-2 {
+  font-size: 16px;
+}
+
+.div-wrapper .img {
+  height: 24.25px;
+  min-width: 18px;
+  position: relative;
+}

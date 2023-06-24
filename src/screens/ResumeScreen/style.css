@@ -9,7 +9,7 @@
 .resume-screen .resume-2 {
   background-color: #ffffff;
   border: 1px none;
-  height: 1895px;
+  height: 1910px;
   position: relative;
   width: 1280px;
 }
@@ -19,7 +19,7 @@
   display: flex;
   flex-direction: column;
   gap: 30px;
-  height: 1745px;
+  height: 1845px;
   left: 47px;
   overflow: hidden;
   padding: 20px 5px 0px;

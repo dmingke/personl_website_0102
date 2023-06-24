@@ -2,6 +2,7 @@ import React from "react";
 import { Component } from "../../components/Component";
 import { Ellipse } from "../../components/Ellipse";
 import { NavigationBar } from "../../components/NavigationBar";
+import { Group } from "../../components/Group";
 import "./style.css";
 
 export const ExpediaStudents = () => {

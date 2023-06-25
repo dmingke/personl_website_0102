@@ -10,8 +10,8 @@
     top: 50%;
     transform: translateY(-50%);
     right: 0; 
-    width: 100px;
-    height: 25%;
+    width: 95px;
+    height: 40%;
     padding: 1em;
     background-color: #f8f9fa;
     overflow: auto;
@@ -21,11 +21,11 @@
     font-family: "Lato", Helvetica;
     background-color: transparent;
     border: none;
-    height: 30%;
+    height: 35%;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 550;
     font-size: 1em;  
-    text-align: left;
+    text-align: center;
     color: #333;
     transition: color 0.3s ease;
     cursor: pointer;

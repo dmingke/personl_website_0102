@@ -5,16 +5,16 @@ import { Timeline } from "../../components/Timeline";
 import "./style.css";
 
 const data = [
-  { id: "section1", name: "UX: Student travel" },
+  { id: "section1", name: "UX: Student Travel" },
   { id: "section2", name: "UX: 1Cademy" },
-  { id: "section3", name: "Other Research Projects" },
+  { id: "section3", name: "Other Projects" },
 ];
 
 export const Research = () => {
   return (
     <div className="research">
       <div className="div-5">
-        <div className="group-15" id="section1">
+        <div id="section1" className="group-15" >
           <div className="overlap-group-8">
             <img className="image" alt="Image" src="/img/image-9.png" />
             <div className="frame-6">

@@ -12,7 +12,7 @@ export const Timeline = ({ data, isResearchPage = false }) => {
           setActiveId(first.target.id);
         }
       },
-      { threshold: 0.6 }
+      { threshold: 0.1 }
     )
   );
 

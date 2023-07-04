@@ -1,0 +1,34 @@
+.component-wrapper {
+  height: 95px;
+  left: 253px;
+  position: relative;
+  top: 258px;
+  width: 399px;
+}
+
+.component-wrapper .project-type {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.component-wrapper .usability-needs-and {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 41px;
+  width: 399px;
+}

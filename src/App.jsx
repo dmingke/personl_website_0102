@@ -1,18 +1,17 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { FrontPage } from "./screens/FrontPage";
-import { IOResearch } from "./screens/IOResearch";
-import { ExpediaStudents } from "./screens/ExpediaStudents";
-import { ElementOverview } from "./screens/ElementOverview";
 import { Resume } from "./screens/Resume";
 import { Design } from "./screens/Design";
-import { ProgrammingOriginal } from "./screens/ProgrammingOriginal";
-import { Freeze } from "./screens/Freeze";
-import { Research } from "./screens/Research";
 import { Communieat } from "./screens/Communieat";
+import { IOResearch } from "./screens/IOResearch";
+import { Research } from "./screens/Research";
+import { ProgrammingOriginal } from "./screens/ProgrammingOriginal";
 import { ResumeScreen } from "./screens/ResumeScreen";
-import { Projects } from "./screens/Projects";
-import { SkillsCourse } from "./screens/SkillsCourse";
+import { ExpediaStudents } from "./screens/ExpediaStudents";
+import { WebDevelopment } from "./screens/WebDevelopment";
+import { Freeze } from "./screens/Freeze";
+import { ElementOverview } from "./screens/ElementOverview";
 
 const router = createBrowserRouter([
   {
@@ -24,18 +23,6 @@ const router = createBrowserRouter([
     element: <FrontPage />,
   },
   {
-    path: "/i-o-research",
-    element: <IOResearch />,
-  },
-  {
-    path: "/expedia-students-travel",
-    element: <ExpediaStudents />,
-  },
-  {
-    path: "/1cademy-overview",
-    element: <ElementOverview />,
-  },
-  {
     path: "/resume",
     element: <Resume />,
   },
@@ -44,32 +31,40 @@ const router = createBrowserRouter([
     element: <Design />,
   },
   {
-    path: "/programming-original",
-    element: <ProgrammingOriginal />,
+    path: "/communieat",
+    element: <Communieat />,
   },
   {
-    path: "/freeze",
-    element: <Freeze />,
+    path: "/i-o-research",
+    element: <IOResearch />,
   },
   {
     path: "/research",
     element: <Research />,
   },
   {
-    path: "/communieat",
-    element: <Communieat />,
+    path: "/programming-original",
+    element: <ProgrammingOriginal />,
   },
   {
     path: "/resumezhong",
     element: <ResumeScreen />,
   },
   {
-    path: "/projects",
-    element: <Projects />,
+    path: "/expedia-students-travel",
+    element: <ExpediaStudents />,
   },
   {
-    path: "/skills-course",
-    element: <SkillsCourse />,
+    path: "/web-development",
+    element: <WebDevelopment />,
+  },
+  {
+    path: "/freeze",
+    element: <Freeze />,
+  },
+  {
+    path: "/1cademy-overview",
+    element: <ElementOverview />,
   },
 ]);
 

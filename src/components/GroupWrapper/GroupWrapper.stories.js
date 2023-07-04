@@ -7,11 +7,12 @@ export default {
 
 export const Default = {
   args: {
-    style: {},
-    cStyle: {},
+    className: {},
+    overlapClassName: {},
+    cClassName: {},
     text: "C++",
-    groupStyle: {},
-    overlapGroupStyle: {},
-    rectangleStyle: {},
+    groupClassName: {},
+    overlapGroupClassName: {},
+    rectangleClassName: {},
   },
 };

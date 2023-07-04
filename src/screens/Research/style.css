@@ -9,7 +9,7 @@
 .research .div-5 {
   background-color: #ffffff;
   border: 1px none;
-  height: 5154px;
+  height: 5254px;
   position: relative;
   width: 1280px;
 }
@@ -353,5 +353,60 @@
   height: 925px;
   min-width: 1156px;
   object-fit: cover;
+  position: relative;
+}
+
+.research .component-13 {
+  height: 54px;
+  left: 102px;
+  position: absolute;
+  top: 5052px;
+  width: 1185px;
+}
+
+.research .frame-48 {
+  align-items: center !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 13px !important;
+}
+
+.research .frame-49 {
+  height: 28px !important;
+  min-width: 24px !important;
+}
+
+.research .frame-50 {
+  text-align: unset !important;
+}
+
+.research .frame-51 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  left: 954px;
+  position: absolute;
+  top: 13px;
+  width: fit-content;
+}
+
+.research .next-project-UX-4 {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.research .polygon-6 {
+  background-color: var(--darker-blue);
+  height: 28px;
+  min-width: 24px;
   position: relative;
 }

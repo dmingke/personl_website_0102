@@ -9,19 +9,17 @@ import { Link } from "react-router-dom";
 import "./style.css";
 
 export const FrameWrapper = ({
-  style,
-  polygonStyle,
+  className,
+  polygonClassName,
   polygon = "/img/polygon-1-5.png",
-  mainPageStyle,
+  mainPageClassName,
   text = "Main Page",
   to,
 }) => {
   return (
-    <Link className="frame-wrapper" style={style} to={to}>
-      <img className="polygon" style={polygonStyle} alt="Polygon" src={polygon} />
-      <div className="main-page" style={mainPageStyle}>
-        {text}
-      </div>
+    <Link className={`frame-wrapper ${className}`} to={to}>
+      <img className={`polygon ${polygonClassName}`} alt="Polygon" src={polygon} />
+      <div className={`main-page ${mainPageClassName}`}>{text}</div>
     </Link>
   );
 };

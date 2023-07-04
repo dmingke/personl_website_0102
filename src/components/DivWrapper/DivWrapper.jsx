@@ -9,14 +9,14 @@ import { Link } from "react-router-dom";
 import "./style.css";
 
 export const DivWrapper = ({
-  style,
-  polygonStyle,
-  polygon = "/img/polygon-1-3.png",
+  className,
   text = "UX Research - Student Travel",
+  polygonClassName,
+  polygon = "/img/polygon-1-3.png",
   to,
 }) => {
   return (
-    <Link className="div-wrapper" style={style} to={to}>
+    <Link className={`div-wrapper ${className}`} to={to}>
       <p className="next-project-UX">
         <span className="span">
           Next Project:
@@ -24,13 +24,13 @@ export const DivWrapper = ({
         </span>
         <span className="text-wrapper-2">{text}</span>
       </p>
-      <img className="img" style={polygonStyle} alt="Polygon" src={polygon} />
+      <img className={`img ${polygonClassName}`} alt="Polygon" src={polygon} />
     </Link>
   );
 };
 
 DivWrapper.propTypes = {
-  polygon: PropTypes.string,
   text: PropTypes.string,
+  polygon: PropTypes.string,
   to: PropTypes.string,
 };

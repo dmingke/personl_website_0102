@@ -7,9 +7,9 @@ export default {
 
 export const Default = {
   args: {
-    style: {},
-    polygonStyle: {},
-    polygon: "/img/polygon-1-3.png",
+    className: {},
     text: "UX Research - Student Travel",
+    polygonClassName: {},
+    polygon: "/img/polygon-1-3.png",
   },
 };

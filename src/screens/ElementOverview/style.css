@@ -9,42 +9,48 @@
 .element-overview .element-cademy-overview {
   background-color: #ffffff;
   border: 1px none;
-  height: 13765px;
+  height: 12700px;
   position: relative;
-  width: 1378px;
+  width: 1400px;
 }
 
-.element-overview .overlap-17 {
-  background-image: url(../../../static/img/screen-shot-2023-06-19-at-6-17-1.png);
-  background-size: 100% 100%;
-  height: 894px;
+.element-overview .overlap-10 {
+  height: 13193px;
   left: 0;
   position: absolute;
   top: 75px;
-  width: 1378px;
+  width: 1400px;
 }
 
-.element-overview .rectangle-14 {
+.element-overview .screen-shot-19 {
+  height: 908px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1400px;
+}
+
+.element-overview .rectangle-22 {
   background-color: #ffffffcc;
   height: 730px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 1378px;
+  width: 1400px;
 }
 
-.element-overview .frame-40 {
+.element-overview .frame-96 {
   align-items: center;
   display: flex;
   flex-direction: column;
   gap: 25px;
-  left: 414px;
+  left: 425px;
   position: absolute;
   top: 32px;
   width: 550px;
 }
 
-.element-overview .text-wrapper-189 {
+.element-overview .text-wrapper-123 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
@@ -69,43 +75,96 @@
   width: 453px;
 }
 
-.element-overview .text-wrapper-190 {
+.element-overview .text-wrapper-124 {
   color: #000000;
 }
 
-.element-overview .text-wrapper-191 {
-  color: #0073c2;
+.element-overview .text-wrapper-125 {
+  color: #2a64ac;
   text-decoration: underline;
 }
 
-.element-overview .group-67 {
+.element-overview .group-141 {
   height: 438px;
-  left: 219px;
+  left: 222px;
   position: absolute;
   top: 219px;
-  width: 953px;
+  width: 961px;
 }
 
-.element-overview .frame-41 {
+.element-overview .design-component-instance-node-5 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.element-overview .component-23 {
+  font-size: 20px !important;
+  line-height: 24px !important;
+}
+
+.element-overview .component-24 {
+  left: 562px !important;
+  position: absolute !important;
+  top: 198px !important;
+}
+
+.element-overview .component-25 {
+  white-space: nowrap !important;
+  width: unset !important;
+}
+
+.element-overview .component-26 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 228px !important;
+  width: 470px !important;
+}
+
+.element-overview .component-27 {
+  line-height: 24px !important;
+  width: 470px !important;
+}
+
+.element-overview .component-28 {
+  left: 562px !important;
+  position: absolute !important;
+  top: 343px !important;
+}
+
+.element-overview .component-29 {
+  left: 562px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 355px !important;
+}
+
+.element-overview .component-30 {
+  font-size: 20px !important;
+  line-height: 24px !important;
+  width: 355px !important;
+}
+
+.element-overview .frame-97 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  gap: 300px;
-  left: 144px;
-  padding: 200px 0px;
+  gap: 250px;
+  left: 93px;
+  padding: 200px 0px 100px;
   position: absolute;
-  top: 969px;
+  top: 894px;
   width: fit-content;
 }
 
-.element-overview .group-68 {
+.element-overview .group-142 {
   height: 1189px;
   min-width: 1023px;
   position: relative;
 }
 
-.element-overview .ellipse-7 {
-  background-color: #0073c2;
+.element-overview .ellipse-6 {
+  background-color: #2a64ac;
   border-radius: 17.5px;
   height: 35px;
   left: 0;
@@ -114,8 +173,8 @@
   width: 35px;
 }
 
-.element-overview .ellipse-8 {
-  background-color: #0073c2;
+.element-overview .ellipse-7 {
+  background-color: #2a64ac;
   border-radius: 12.5px;
   height: 25px;
   left: 5px;
@@ -124,8 +183,8 @@
   width: 25px;
 }
 
-.element-overview .ellipse-9 {
-  background-color: #0073c2;
+.element-overview .ellipse-8 {
+  background-color: #2a64ac;
   border-radius: 12.5px;
   height: 25px;
   left: 5px;
@@ -134,8 +193,8 @@
   width: 25px;
 }
 
-.element-overview .ellipse-10 {
-  background-color: #0073c2;
+.element-overview .ellipse-9 {
+  background-color: #2a64ac;
   border-radius: 12.5px;
   height: 25px;
   left: 5px;
@@ -144,7 +203,7 @@
   width: 25px;
 }
 
-.element-overview .line-14 {
+.element-overview .line-17 {
   height: 427px;
   left: 18px;
   object-fit: cover;
@@ -153,7 +212,7 @@
   width: 1px;
 }
 
-.element-overview .line-15 {
+.element-overview .line-18 {
   height: 443px;
   left: 18px;
   object-fit: cover;
@@ -162,7 +221,7 @@
   width: 1px;
 }
 
-.element-overview .line-16 {
+.element-overview .line-19 {
   height: 175px;
   left: 18px;
   object-fit: cover;
@@ -171,7 +230,7 @@
   width: 1px;
 }
 
-.element-overview .line-17 {
+.element-overview .line-20 {
   height: 33px;
   left: 18px;
   object-fit: cover;
@@ -180,7 +239,7 @@
   width: 1px;
 }
 
-.element-overview .frame-42 {
+.element-overview .frame-98 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -191,7 +250,7 @@
   width: fit-content;
 }
 
-.element-overview .text-wrapper-192 {
+.element-overview .text-wrapper-126 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -204,7 +263,7 @@
   width: fit-content;
 }
 
-.element-overview .frame-wrap {
+.element-overview .frame-99 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -213,23 +272,14 @@
   width: fit-content;
 }
 
-.element-overview .frame-43 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 150px;
-  position: relative;
-  width: fit-content;
-}
-
-.element-overview .group-69 {
+.element-overview .group-143 {
   height: 306px;
   margin-right: -4px;
   min-width: 922px;
   position: relative;
 }
 
-.element-overview .UI-UX-design-UX {
+.element-overview .text-wrapper-127 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -255,14 +305,14 @@
   width: 900px;
 }
 
-.element-overview .group-70 {
+.element-overview .group-144 {
   height: 312px;
   margin-right: -4px;
   min-width: 922px;
   position: relative;
 }
 
-.element-overview .flex-container-18 {
+.element-overview .flex-container-39 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -274,7 +324,7 @@
   width: 900px;
 }
 
-.element-overview .text-82 {
+.element-overview .text-41 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -285,7 +335,7 @@
   width: 900px;
 }
 
-.element-overview .text-wrapper-193 {
+.element-overview .text-wrapper-128 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -294,28 +344,7 @@
   line-height: 26px;
 }
 
-.element-overview .text-83 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  white-space: nowrap;
-  width: 900px;
-}
-
-.element-overview .text-wrapper-194 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-84 {
+.element-overview .text-42 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -327,98 +356,14 @@
   width: 900px;
 }
 
-.element-overview .text-wrapper-195 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-85 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  white-space: nowrap;
-  width: 900px;
-}
-
-.element-overview .text-wrapper-196 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-86 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  white-space: nowrap;
-  width: 900px;
-}
-
-.element-overview .text-wrapper-197 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-87 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  width: 900px;
-}
-
-.element-overview .text-wrapper-198 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .research-assistant {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 700;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-}
-
-.element-overview .group-71 {
+.element-overview .group-145 {
   height: 200px;
   margin-right: -4px;
   min-width: 922px;
   position: relative;
 }
 
-.element-overview .text-wrapper-199 {
+.element-overview .text-wrapper-129 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -431,7 +376,7 @@
   white-space: nowrap;
 }
 
-.element-overview .text-wrapper-200 {
+.element-overview .text-wrapper-130 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -444,14 +389,14 @@
   width: 900px;
 }
 
-.element-overview .group-72 {
+.element-overview .group-146 {
   height: 535px;
   margin-right: -4px;
   min-width: 1218px;
   position: relative;
 }
 
-.element-overview .text-wrapper-201 {
+.element-overview .text-wrapper-131 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -464,7 +409,23 @@
   white-space: nowrap;
 }
 
-.element-overview .text-wrapper-202 {
+.element-overview .button-42 {
+  left: 437px !important;
+  position: absolute !important;
+  top: 495px !important;
+  width: 340px !important;
+}
+
+.element-overview .button-43 {
+  margin-left: -3px !important;
+  text-decoration: underline !important;
+}
+
+.element-overview .button-44 {
+  margin-right: -3px !important;
+}
+
+.element-overview .text-wrapper-132 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -477,7 +438,7 @@
   width: 900px;
 }
 
-.element-overview .group-73 {
+.element-overview .group-147 {
   height: 328px;
   left: 9px;
   position: absolute;
@@ -485,12 +446,12 @@
   width: 35px;
 }
 
-.element-overview .overlap-group-15 {
+.element-overview .overlap-group-17 {
   height: 328px;
   position: relative;
 }
 
-.element-overview .ellipse-11 {
+.element-overview .ellipse-10 {
   background-color: #e6a585;
   border-radius: 17.5px;
   height: 35px;
@@ -500,7 +461,7 @@
   width: 35px;
 }
 
-.element-overview .line-18 {
+.element-overview .line-21 {
   height: 294px;
   left: 18px;
   object-fit: cover;
@@ -509,7 +470,7 @@
   width: 1px;
 }
 
-.element-overview .image-12 {
+.element-overview .image-25 {
   height: 72px;
   left: 0;
   object-fit: cover;
@@ -518,13 +479,13 @@
   width: 1214px;
 }
 
-.element-overview .group-74 {
-  height: 375px;
+.element-overview .group-148 {
+  height: 381px;
   min-width: 1052px;
   position: relative;
 }
 
-.element-overview .UI-UX-design {
+.element-overview .text-wrapper-133 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -537,7 +498,18 @@
   white-space: nowrap;
 }
 
-.element-overview .before-making-the {
+.element-overview .button-45 {
+  left: 434px !important;
+  position: absolute !important;
+  top: 341px !important;
+  width: 346px !important;
+}
+
+.element-overview .button-46 {
+  text-decoration: underline !important;
+}
+
+.element-overview .p-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -550,29 +522,11 @@
   width: 900px;
 }
 
-.element-overview .text-wrapper-203 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-wrapper-204 {
+.element-overview .text-wrapper-134 {
   font-weight: 700;
 }
 
-.element-overview .text-wrapper-205 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .group-75 {
+.element-overview .group-149 {
   height: 328px;
   left: 0;
   position: absolute;
@@ -580,37 +534,13 @@
   width: 35px;
 }
 
-.element-overview .overlap-group-16 {
-  height: 328px;
-  position: relative;
-}
-
-.element-overview .ellipse-12 {
-  background-color: #e6a585;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .line-19 {
-  height: 294px;
-  left: 18px;
-  object-fit: cover;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.element-overview .group-76 {
+.element-overview .group-150 {
   height: 1004px;
   min-width: 1065px;
   position: relative;
 }
 
-.element-overview .text-wrapper-206 {
+.element-overview .text-wrapper-135 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -623,7 +553,7 @@
   white-space: nowrap;
 }
 
-.element-overview .flex-container-19 {
+.element-overview .flex-container-40 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -635,7 +565,7 @@
   width: 913px;
 }
 
-.element-overview .text-88 {
+.element-overview .text-43 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -647,121 +577,7 @@
   width: 913px;
 }
 
-.element-overview .text-wrapper-207 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-89 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  white-space: nowrap;
-  width: 913px;
-}
-
-.element-overview .text-wrapper-208 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-90 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  white-space: nowrap;
-  width: 913px;
-}
-
-.element-overview .text-wrapper-209 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-91 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  white-space: nowrap;
-  width: 913px;
-}
-
-.element-overview .text-wrapper-210 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-92 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  white-space: nowrap;
-  width: 913px;
-}
-
-.element-overview .text-wrapper-211 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-93 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: relative;
-  white-space: nowrap;
-  width: 913px;
-}
-
-.element-overview .text-wrapper-212 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-94 {
+.element-overview .text-44 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -772,16 +588,7 @@
   width: 913px;
 }
 
-.element-overview .text-wrapper-213 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .group-77 {
+.element-overview .group-151 {
   height: 303px;
   left: 0;
   position: absolute;
@@ -789,22 +596,12 @@
   width: 35px;
 }
 
-.element-overview .overlap-group-17 {
+.element-overview .overlap-group-18 {
   height: 303px;
   position: relative;
 }
 
-.element-overview .ellipse-13 {
-  background-color: #e6a585;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .line-20 {
+.element-overview .line-22 {
   height: 269px;
   left: 18px;
   object-fit: cover;
@@ -813,7 +610,7 @@
   width: 1px;
 }
 
-.element-overview .image-13 {
+.element-overview .image-26 {
   height: 629px;
   left: 192px;
   object-fit: cover;
@@ -822,26 +619,13 @@
   width: 682px;
 }
 
-.element-overview .group-78 {
+.element-overview .group-152 {
   height: 763px;
-  min-width: 1063px;
+  min-width: 1039px;
   position: relative;
 }
 
-.element-overview .text-wrapper-214 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 700;
-  left: 130px;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: absolute;
-  top: 3px;
-  white-space: nowrap;
-}
-
-.element-overview .group-79 {
+.element-overview .group-153 {
   height: 677px;
   left: 0;
   position: absolute;
@@ -849,22 +633,12 @@
   width: 35px;
 }
 
-.element-overview .overlap-group-18 {
+.element-overview .overlap-group-19 {
   height: 677px;
   position: relative;
 }
 
-.element-overview .ellipse-14 {
-  background-color: #e6a585;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .line-21 {
+.element-overview .line-23 {
   height: 643px;
   left: 18px;
   object-fit: cover;
@@ -873,7 +647,7 @@
   width: 1px;
 }
 
-.element-overview .screen-shot-17 {
+.element-overview .screen-shot-20 {
   height: 653px;
   left: 77px;
   object-fit: cover;
@@ -882,13 +656,34 @@
   width: 312px;
 }
 
-.element-overview .group-80 {
+.element-overview .frame-100 {
+  left: 536px !important;
+  position: absolute !important;
+  top: 158px !important;
+}
+
+.element-overview .frame-101 {
+  margin-top: -1px !important;
+}
+
+.element-overview .frame-102 {
+  font-size: 20px !important;
+}
+
+.element-overview .button-47 {
+  left: 677px !important;
+  position: absolute !important;
+  top: 522px !important;
+  width: 218px !important;
+}
+
+.element-overview .group-154 {
   height: 1607px;
   min-width: 1121px;
   position: relative;
 }
 
-.element-overview .group-81 {
+.element-overview .group-155 {
   height: 264px;
   left: 0;
   position: absolute;
@@ -896,7 +691,7 @@
   width: 35px;
 }
 
-.element-overview .ellipse-15 {
+.element-overview .ellipse-11 {
   background-color: #c0d6ed;
   border-radius: 17.5px;
   height: 35px;
@@ -906,7 +701,7 @@
   width: 35px;
 }
 
-.element-overview .line-22 {
+.element-overview .line-24 {
   height: 229px;
   left: 18px;
   object-fit: cover;
@@ -915,7 +710,7 @@
   width: 1px;
 }
 
-.element-overview .group-82 {
+.element-overview .group-156 {
   height: 213px;
   left: 122px;
   position: absolute;
@@ -923,7 +718,7 @@
   width: 922px;
 }
 
-.element-overview .text-wrapper-215 {
+.element-overview .text-wrapper-136 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -936,7 +731,7 @@
   white-space: nowrap;
 }
 
-.element-overview .text-wrapper-216 {
+.element-overview .text-wrapper-137 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -949,7 +744,7 @@
   width: 900px;
 }
 
-.element-overview .image-14 {
+.element-overview .image-27 {
   height: 1304px;
   left: 17px;
   object-fit: cover;
@@ -958,13 +753,13 @@
   width: 1104px;
 }
 
-.element-overview .group-83 {
+.element-overview .group-157 {
   height: 1355.76px;
   min-width: 1044px;
   position: relative;
 }
 
-.element-overview .text-wrapper-217 {
+.element-overview .text-wrapper-138 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -990,29 +785,11 @@
   width: 900px;
 }
 
-.element-overview .text-wrapper-218 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .text-wrapper-219 {
+.element-overview .text-wrapper-139 {
   font-weight: 300;
 }
 
-.element-overview .text-wrapper-220 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 26px;
-}
-
-.element-overview .group-84 {
+.element-overview .group-158 {
   height: 568px;
   left: 0;
   position: absolute;
@@ -1020,22 +797,12 @@
   width: 35px;
 }
 
-.element-overview .overlap-group-19 {
+.element-overview .overlap-group-20 {
   height: 568px;
   position: relative;
 }
 
-.element-overview .ellipse-16 {
-  background-color: #c0d6ed;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .line-23 {
+.element-overview .line-25 {
   height: 534px;
   left: 18px;
   object-fit: cover;
@@ -1044,7 +811,7 @@
   width: 1px;
 }
 
-.element-overview .overlap-18 {
+.element-overview .overlap-11 {
   height: 964px;
   left: 58px;
   position: absolute;
@@ -1062,7 +829,7 @@
   width: 711px;
 }
 
-.element-overview .rectangle-15 {
+.element-overview .rectangle-23 {
   background-color: #fffcf1;
   height: 15px;
   left: 18px;
@@ -1071,7 +838,7 @@
   width: 9px;
 }
 
-.element-overview .group-85 {
+.element-overview .group-159 {
   background-image: url(../../../static/img/image-10-2.png);
   background-size: 100% 100%;
   height: 474px;
@@ -1081,7 +848,7 @@
   width: 675px;
 }
 
-.element-overview .rectangle-16 {
+.element-overview .rectangle-24 {
   background-color: #f5fbff;
   height: 17px;
   left: 9px;
@@ -1090,13 +857,13 @@
   width: 9px;
 }
 
-.element-overview .group-86 {
+.element-overview .group-160 {
   height: 925px;
   min-width: 1081px;
   position: relative;
 }
 
-.element-overview .text-wrapper-221 {
+.element-overview .text-wrapper-140 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -1109,7 +876,7 @@
   white-space: nowrap;
 }
 
-.element-overview .text-wrapper-222 {
+.element-overview .text-wrapper-141 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -1122,7 +889,7 @@
   width: 900px;
 }
 
-.element-overview .group-87 {
+.element-overview .group-161 {
   height: 432px;
   left: 0;
   position: absolute;
@@ -1130,22 +897,12 @@
   width: 35px;
 }
 
-.element-overview .overlap-group-20 {
+.element-overview .overlap-group-21 {
   height: 432px;
   position: relative;
 }
 
-.element-overview .ellipse-17 {
-  background-color: #c0d6ed;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .line-24 {
+.element-overview .line-26 {
   height: 398px;
   left: 18px;
   object-fit: cover;
@@ -1154,7 +911,7 @@
   width: 1px;
 }
 
-.element-overview .group-88 {
+.element-overview .group-162 {
   height: 709px;
   left: 82px;
   position: absolute;
@@ -1162,13 +919,13 @@
   width: 995px;
 }
 
-.element-overview .overlap-19 {
+.element-overview .overlap-12 {
   height: 709px;
   position: relative;
   width: 997px;
 }
 
-.element-overview .group-89 {
+.element-overview .group-163 {
   height: 323px;
   left: 1px;
   position: absolute;
@@ -1196,7 +953,7 @@
   top: 23px;
 }
 
-.element-overview .image-15 {
+.element-overview .image-28 {
   height: 393px;
   left: 0;
   position: absolute;
@@ -1204,26 +961,13 @@
   width: 995px;
 }
 
-.element-overview .group-90 {
-  height: 370px;
+.element-overview .group-164 {
+  height: 382.24px;
   min-width: 1052px;
   position: relative;
 }
 
-.element-overview .text-wrapper-223 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 700;
-  left: 130px;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: absolute;
-  top: 3px;
-  white-space: nowrap;
-}
-
-.element-overview .text-wrapper-224 {
+.element-overview .text-wrapper-142 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -1236,72 +980,8 @@
   width: 900px;
 }
 
-.element-overview .group-91 {
+.element-overview .group-165 {
   height: 362px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .overlap-group-21 {
-  height: 362px;
-  position: relative;
-}
-
-.element-overview .ellipse-18 {
-  background-color: #ede2a8;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .line-25 {
-  height: 328px;
-  left: 18px;
-  object-fit: cover;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.element-overview .group-92 {
-  height: 1029px;
-  min-width: 1111px;
-  position: relative;
-}
-
-.element-overview .presenting-modifying {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 700;
-  left: 130px;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: absolute;
-  top: 3px;
-  white-space: nowrap;
-}
-
-.element-overview .text-wrapper-225 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  left: 148px;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: absolute;
-  top: 58px;
-  width: 900px;
-}
-
-.element-overview .group-93 {
-  height: 328px;
   left: 0;
   position: absolute;
   top: 0;
@@ -1309,92 +989,11 @@
 }
 
 .element-overview .overlap-group-22 {
-  height: 328px;
+  height: 362px;
   position: relative;
 }
 
-.element-overview .ellipse-19 {
-  background-color: #ede2a8;
-  border-radius: 17.5px;
-  height: 35px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .line-26 {
-  height: 294px;
-  left: 18px;
-  object-fit: cover;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.element-overview .screen-shot-18 {
-  height: 723px;
-  left: 109px;
-  object-fit: cover;
-  position: absolute;
-  top: 306px;
-  width: 283px;
-}
-
-.element-overview .screen-shot-19 {
-  height: 627px;
-  left: 533px;
-  position: absolute;
-  top: 306px;
-  width: 574px;
-}
-
-.element-overview .group-94 {
-  height: 328px;
-  min-width: 1052px;
-  position: relative;
-}
-
-.element-overview .text-wrapper-226 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 700;
-  left: 130px;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: absolute;
-  top: 5px;
-  white-space: nowrap;
-}
-
-.element-overview .i-volunteered-at {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 20px;
-  font-weight: 400;
-  left: 148px;
-  letter-spacing: 0;
-  line-height: 26px;
-  position: absolute;
-  top: 60px;
-  width: 900px;
-}
-
-.element-overview .group-95 {
-  height: 328px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 35px;
-}
-
-.element-overview .overlap-group-23 {
-  height: 328px;
-  position: relative;
-}
-
-.element-overview .ellipse-20 {
+.element-overview .ellipse-12 {
   background-color: #ede2a8;
   border-radius: 17.5px;
   height: 35px;
@@ -1405,10 +1004,77 @@
 }
 
 .element-overview .line-27 {
-  height: 294px;
+  height: 328px;
   left: 18px;
   object-fit: cover;
   position: absolute;
   top: 34px;
   width: 1px;
+}
+
+.element-overview .button-48 {
+  left: 458px !important;
+  position: absolute !important;
+  top: 342px !important;
+  width: 298px !important;
+}
+
+.element-overview .button-49 {
+  margin-left: -2px !important;
+  text-decoration: underline !important;
+}
+
+.element-overview .button-50 {
+  margin-right: -2px !important;
+}
+
+.element-overview .group-166 {
+  height: 1029px;
+  min-width: 1111px;
+  position: relative;
+}
+
+.element-overview .screen-shot-21 {
+  height: 723px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 306px;
+  width: 283px;
+}
+
+.element-overview .screen-shot-22 {
+  height: 627px;
+  left: 533px;
+  position: absolute;
+  top: 306px;
+  width: 574px;
+}
+
+.element-overview .group-167 {
+  height: 328px;
+  min-width: 1052px;
+  position: relative;
+}
+
+.element-overview .component-9-instance {
+  left: 108px !important;
+  position: absolute !important;
+  top: 13400px !important;
+}
+
+.element-overview .component-31 {
+  height: 28px !important;
+  min-width: 24px !important;
+}
+
+.element-overview .group-168 {
+  line-height: 26px !important;
+  white-space: nowrap !important;
+}
+
+.element-overview .group-169 {
+  left: 1244px !important;
+  position: fixed !important;
+  top: 704px !important;
 }

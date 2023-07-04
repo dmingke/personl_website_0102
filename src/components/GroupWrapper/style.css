@@ -21,7 +21,7 @@
 }
 
 .group-wrapper .c-wrapper {
-  background-color: #c9dcf0;
+  background-color: #c0d6ed;
   height: 50px;
   position: relative;
   width: 112px;
@@ -41,8 +41,8 @@
   top: 12px;
 }
 
-.group-wrapper .rectangle-3 {
-  background-color: #0073c2;
+.group-wrapper .rectangle-2 {
+  background-color: #2a64ac;
   border-radius: 7px;
   height: 50px;
   left: 112px;

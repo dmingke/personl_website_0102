@@ -8,29 +8,20 @@ import React from "react";
 import "./style.css";
 
 export const Frame = ({
-  style,
-  text = "Poster Design",
-  toolsAdobeStyle,
+  className,
+  text = "Courses Poster Design",
   text1 = "Tools: Adobe Photoshop, Adobe Color",
-  text2 = "Project information: used for UMICH Spring/Summer courses and <br/>UMICH biological station website construction",
-  posterDesignStyle,
-  hasPosterDesign = true,
-  projectInformationStyle,
+  text2 = "Project information: used for UMICH Spring/Summer courses and UMICH biological station website construction",
+  toolsAdobeClassName,
+  projectInformationClassName,
+  hasCoursesPoster = true,
 }) => {
   return (
-    <div className="frame" style={style}>
-      {hasPosterDesign && (
-        <div className="poster-design" style={posterDesignStyle}>
-          {text}
-        </div>
-      )}
+    <div className={`frame ${className}`}>
+      {hasCoursesPoster && <div className="courses-poster">{text}</div>}
 
-      <p className="tools-adobe" style={toolsAdobeStyle}>
-        {text1}
-      </p>
-      <p className="project-information" style={projectInformationStyle}>
-        {text2}
-      </p>
+      <p className={`tools-adobe ${toolsAdobeClassName}`}>{text1}</p>
+      <p className={`project-information ${projectInformationClassName}`}>{text2}</p>
     </div>
   );
 };
@@ -39,5 +30,5 @@ Frame.propTypes = {
   text: PropTypes.string,
   text1: PropTypes.string,
   text2: PropTypes.string,
-  hasPosterDesign: PropTypes.bool,
+  hasCoursesPoster: PropTypes.bool,
 };

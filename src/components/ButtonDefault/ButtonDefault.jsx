@@ -1,12 +1,17 @@
+/*
+We're constantly improving the code you see. 
+Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
+*/
+
 import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-export const ButtonDefault = ({ style }) => {
+export const ButtonDefault = ({ className }) => {
   return (
-    <Link className="button-default" style={style} to="/resume">
+    <Link className={`button-default ${className}`} to="/resume">
       <div className="overlap-group-2">
-        <div className="rectangle-2" />
+        <div className="rectangle-3" />
         <div className="frame-3">
           <div className="element-2">中文</div>
           <div className="english-2">English</div>

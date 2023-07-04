@@ -6,6 +6,6 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 import React from "react";
 import "./style.css";
 
-export const Ellipse = ({ style }) => {
-  return <div className="ellipse" style={style} />;
+export const Ellipse = ({ className }) => {
+  return <div className={`ellipse ${className}`} />;
 };

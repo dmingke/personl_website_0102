@@ -1,0 +1,474 @@
+.web-development {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.web-development .div-8 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 7684px;
+  position: relative;
+  width: 1400px;
+}
+
+.web-development .frame-83 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 150px;
+  left: 38px;
+  position: absolute;
+  top: 1125px;
+  width: fit-content;
+}
+
+.web-development .group-116 {
+  height: 129px;
+  min-width: 1204px;
+  position: relative;
+}
+
+.web-development .text-wrapper-103 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 51px;
+  width: 1200px;
+}
+
+.web-development .text-wrapper-104 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.web-development .step-browsing {
+  height: 128px;
+  min-width: 1200px;
+  position: relative;
+}
+
+.web-development .flex-container-27 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 128px;
+  position: relative;
+  top: -1px;
+  width: 1200px;
+}
+
+.web-development .text-32 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  white-space: nowrap;
+  width: 1200px;
+}
+
+.web-development .text-wrapper-105 {
+  font-weight: 700;
+}
+
+.web-development .text-33 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 1200px;
+}
+
+.web-development .span-3 {
+  font-size: 24px;
+}
+
+.web-development .frame-84 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+  width: fit-content;
+}
+
+.web-development .flex-container-28 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 128px;
+  width: 1200px;
+}
+
+.web-development .image-17 {
+  height: 650px;
+  min-width: 871px;
+  position: relative;
+}
+
+.web-development .button-29 {
+  align-items: flex-end !important;
+  left: unset !important;
+  top: unset !important;
+  width: 276px !important;
+}
+
+.web-development .button-30 {
+  margin-bottom: unset !important;
+  margin-top: -5px !important;
+  text-decoration: underline !important;
+}
+
+.web-development .button-31 {
+  margin-bottom: unset !important;
+  margin-top: -4px !important;
+}
+
+.web-development .frame-85 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: fit-content;
+}
+
+.web-development .image-18 {
+  height: 538px;
+  min-width: 1076px;
+  object-fit: cover;
+  position: relative;
+}
+
+.web-development .image-19 {
+  height: 526px;
+  min-width: 625px;
+  object-fit: cover;
+  position: relative;
+}
+
+.web-development .button-32 {
+  left: unset !important;
+  top: unset !important;
+  width: 332px !important;
+}
+
+.web-development .button-33 {
+  margin-left: -0.5px !important;
+  text-decoration: underline !important;
+}
+
+.web-development .button-34 {
+  margin-right: -0.5px !important;
+}
+
+.web-development .flex-container-29 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 594px;
+  width: 1200px;
+}
+
+.web-development .image-20 {
+  height: 514px;
+  min-width: 964px;
+  position: relative;
+}
+
+.web-development .button-35 {
+  left: unset !important;
+  top: unset !important;
+  width: 265px !important;
+}
+
+.web-development .button-36 {
+  text-decoration: underline !important;
+}
+
+.web-development .frame-86 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: fit-content;
+}
+
+.web-development .flex-container-30 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 154px;
+  width: 1200px;
+}
+
+.web-development .group-117 {
+  height: 514px;
+  min-width: 1325px;
+  position: relative;
+}
+
+.web-development .image-21 {
+  height: 514px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.web-development .image-22 {
+  height: 482px;
+  left: 620px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 705px;
+}
+
+.web-development .button-37 {
+  left: unset !important;
+  top: unset !important;
+  width: 342px !important;
+}
+
+.web-development .button-38 {
+  font-size: 24px !important;
+  margin-bottom: -3.5px !important;
+  margin-top: -5.5px !important;
+  text-decoration: underline !important;
+  white-space: unset !important;
+}
+
+.web-development .overlap-group-13 {
+  background-image: url(../../../static/img/image-22.png);
+  background-size: 100% 100%;
+  height: 954px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 1400px;
+}
+
+.web-development .rectangle-21 {
+  background-color: #ffffff;
+  height: 780px;
+  left: 0;
+  opacity: 0.93;
+  position: absolute;
+  top: 0;
+  width: 1400px;
+}
+
+.web-development .frame-87 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  left: 425px;
+  position: absolute;
+  top: 32px;
+  width: 550px;
+}
+
+.web-development .flex-container-31 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  width: 303px;
+}
+
+.web-development .text-34 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 303px;
+}
+
+.web-development .text-wrapper-106 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.web-development .a-description-of-the {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  width: 453px;
+}
+
+.web-development .group-118 {
+  height: 438px;
+  left: 248px;
+  position: absolute;
+  top: 219px;
+  width: 953px;
+}
+
+.web-development .component-11 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 470px !important;
+}
+
+.web-development .component-12 {
+  font-size: 20px !important;
+  line-height: 24px !important;
+}
+
+.web-development .component-13 {
+  left: 554px !important;
+  position: absolute !important;
+  top: 198px !important;
+  width: 360px !important;
+}
+
+.web-development .component-14 {
+  width: 360px !important;
+}
+
+.web-development .component-15 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 177px !important;
+  width: 470px !important;
+}
+
+.web-development .component-16 {
+  line-height: 24px !important;
+  width: 470px !important;
+}
+
+.web-development .component-17 {
+  left: 554px !important;
+  position: absolute !important;
+  top: 343px !important;
+}
+
+.web-development .component-18 {
+  white-space: nowrap !important;
+  width: unset !important;
+}
+
+.web-development .component-19 {
+  left: 554px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 355px !important;
+}
+
+.web-development .component-20 {
+  font-size: 20px !important;
+  line-height: 24px !important;
+  width: 355px !important;
+}
+
+.web-development .your-feedback-is {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 400;
+  left: 324px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 731px;
+}
+
+.web-development .component-21 {
+  height: 54px;
+  left: 107px;
+  position: absolute;
+  top: 7557px;
+  width: 1185px;
+}
+
+.web-development .frame-88 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: absolute;
+  width: fit-content;
+}
+
+.web-development .polygon-8 {
+  height: 24.25px;
+  min-width: 18px;
+  position: relative;
+}
+
+.web-development .main-page-4 {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.web-development .text-wrapper-107 {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.web-development .text-wrapper-108 {
+  font-size: 16px;
+}
+
+.web-development .frame-89 {
+  bottom: unset !important;
+  left: 908px !important;
+  right: unset !important;
+  top: 0 !important;
+}

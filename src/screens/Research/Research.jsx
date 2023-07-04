@@ -1,5 +1,7 @@
 import React from "react";
 import { ButtonWrapper } from "../../components/ButtonWrapper";
+import { Link } from "react-router-dom";
+import { FrameWrapper } from "../../components/FrameWrapper";
 import { NavigationBar } from "../../components/NavigationBar";
 import { Timeline } from "../../components/Timeline";
 import "./style.css";
@@ -126,6 +128,20 @@ export const Research = () => {
             </p>
             <img className="poster-draft" alt="Poster draft" src="/img/poster-draft-1.png" />
           </div>
+        </div>
+        <div className="component-13">
+          <FrameWrapper
+            className="frame-48"
+            mainPageClassName="frame-50"
+            polygon="/img/polygon-1.png"
+            polygonClassName="frame-49"
+            text="Design"
+            to="/design"
+          />
+          <Link className="frame-51" to="/1cademy-overview">
+            <div className="next-project-UX-4">View My Projects</div>
+            <img className="polygon-6" alt="Polygon" src="/img/polygon-1-1.png" />
+          </Link>
         </div>
       </div>
       <Timeline data={data} />

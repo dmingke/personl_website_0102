@@ -1,8 +1,10 @@
 import React from "react";
-import { ButtonWrapper } from "../../components/ButtonWrapper";
+import { Link } from "react-router-dom";
 import { Frame } from "../../components/Frame";
+import { FrameWrapper } from "../../components/FrameWrapper";
 import { Group } from "../../components/Group";
 import { NavigationBar } from "../../components/NavigationBar";
+import { PropertyDefaultWrapper } from "../../components/PropertyDefaultWrapper";
 import { Timeline } from "../../components/Timeline";
 import "./style.css";
 
@@ -15,184 +17,134 @@ const data = [
 export const Design = () => {
   return (
     <div className="design">
-      <div className="div-6">
-        <img className="lab" alt="Lab" src="/img/lab-8.png" />
-        <Frame
-          style={{
-            left: "367px",
-            position: "absolute",
-            top: "5500px",
-          }}
-          text="Animal Vector Icons"
-          text1="Tools: Adobe illustrator"
-          text2="Project information: Course project of SI 320 Graphic Design, used for a children’s book"
-          toolsAdobeStyle={{
-            width: "fit-content",
-          }}
-        />
-        <img className="line" alt="Line" src="/img/line-6.png" />
-        <div id="3" className="group-22">
-          <img className="page" alt="Page" src="/img/hw5-part2-page-6-1.png" />
-          <Frame
-            style={{
-              left: "0",
-              position: "relative",
-              top: "0",
-              width: "579px",
-            }}
-            text="Logo Design"
-            text1="Tools: Adobe illustrator"
-            text2="Project information: participating in the logo campaign of Just Futures (A public benefit corporation) and MTCIR (Michigan Transport Center for Immigrants and Refugees). Completing two complete identity guides for these two institutions."
-            toolsAdobeStyle={{
-              width: "fit-content",
-            }}
-          />
-          <img className="screen-shot-3" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-31-1.png" />
-        </div>
-        <img className="line-2" alt="Line" src="/img/line-6.png" />
-        <div id="2" className="overlap-9">
-          <p className="link-to-view-entire">
-            <span className="text-wrapper-74">Link to view entire project with description</span>
-            <span className="text-wrapper-75">:&nbsp;&nbsp;</span>
-            <a
-              href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:0646415f-cb2b-34b7-b7d3-c2d695c83afd"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              <span className="text-wrapper-76">
-                https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:0646415f-cb2b-34b7-b7d3-c2d695c83afd
-              </span>
-            </a>
-          </p>
-          <img className="image-5" alt="Image" src="/img/image-3.png" />
-          <Frame
-            style={{
-              left: "287px",
-              position: "absolute",
-              top: "0",
-            }}
-            text="Alphabet Poster Design"
-            text1="Tools: Adobe illustrator, Adobe Photoshop"
-            text2="Project information: SI 320 Graphic Design course project; Coming with a detailed description of the design idea. then reused the poster as an Alphabet Poster for an Asian international institution."
-          />
-        </div>
-        <img className="screen-shot-4" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-3.png" />
-        <Frame 
-          style={{
-            left: "365px",
-            position: "absolute",
-          }}
-          text="Courses Poster Design"
-          text1="Tools: Adobe Photoshop, Adobe Color"
-          text2="
-              Project information: used for UMICH Spring/Summer courses and
-              UMICH biological station website construction"
-        />
-        <img className="line-4" alt="Line" src="/img/line-6.png" />
-        <div id="1">
-          <div className="group-23">
-            <div className="click-to-view-the-wrapper">
-              <a
-                href="https://www.figma.com/proto/TKdTHW51QnehqUsFH9jCnA/SI482-hi-fi-Wireframe?type=design&amp;node-id=126-245&amp;scaling=scale-down&amp;page-id=126%3A244&amp;starting-point-node-id=126%3A245"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                <p className="click-to-view-the">Click To View The Prototype</p>
-              </a>
+      <div className="div-3">
+        <div className="frame-5">
+          <div id="1" className="group-5">
+            <div className="group-6">
+              <img className="screen-shot" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-8-57.png" />
+              <img className="screen-shot-2" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-8-56.png" />
             </div>
-            <Frame
-              posterDesignStyle={{
-                marginLeft: "-23.50px",
-                marginRight: "-23.50px",
-              }}
-              style={{
-                left: "424px",
-                position: "absolute",
-                top: "164px",
-              }}
-              text="UI/UX DESIGN: Communieat"
-              text1="Tools: Figma"
-              text2="
-                  Project information: Communieat is an instant food ordering service mobile application that connects the cook and the user. 
-                  Chefs can post their individualized recipes, while users can order healthier homemade food reasonably priced. "
-            />
-            <img className="screen-shot-5" alt="Screen shot" src="/img/screen-shot-2023-06-08-at-2-43-2.png" />
-            <ButtonWrapper
-              style={{
-                left: "610px",
-                position: "absolute",
-                top: "450px",
-                width: "190px",
-              }}
-              text="View More Details"
-              to="/communieat"
-              viewMoreStyle={{
-              }}
-            />
-          </div>
-          <div className="group-24">
-            <Frame
-              style={{
-                left: "402px",
-                position: "absolute",
-                top: "173px",
-                width: "601px",
-              }}
-              text="UI/UX DESIGN: FREEZE"
-              text1="Tools: Figma"
-              text2="FREEZE is an app that enables people to not waste any food they brought and not impulsively buy extra groceries 
-              that they won’t eat or have no idea about how to cook."
-            />
-            <img className="screen-shot-6" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-9-16-1.png" />
-            <ButtonWrapper
-              style={{
-                left: "610px",
-                position: "absolute",
-                top: "440px",
-                width: "190px",
-              }}
-              text="View More Details"
-              to="/freeze"
-              viewMoreStyle={{
-                marginLeft: "-4.00px",
-                marginRight: "-4.00px",
-              }}
-            />
-            <div className="button-2">
-              <a
-                href="https://www.figma.com/proto/an7v39AGHrnDaRIfRkfwmh/FREEZE?type=design&amp;node-id=8-2&amp;scaling=scale-down&amp;page-id=0%3A1&amp;starting-point-node-id=8%3A2"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                <p className="click-to-view-the-2">Click To View The Prototype</p>
-              </a>
+            <div className="frame-6">
+              <h1 className="courses-poster-2">UI/UX DESIGN: 1Cademy Website Prototype</h1>
+              <div className="tools-adobe-2">Tools: Figma</div>
+              <div className="flex-container-6">
+                <div className="text-9">
+                  <span className="text-wrapper-12">
+                    Project information: prototyping 1Cademy web pages from low-fidelity wireframe to high-fidelity
+                    prototype. Analyzed and proved by the UX research group and supervisors iteration by iteration.
+                    <br />
+                  </span>
+                </div>
+                <div className="text-9">
+                  <span className="text-wrapper-12">
+                    (the link to the actual projects cannot be shared without my supervisor’s permission)
+                  </span>
+                </div>
+              </div>
             </div>
           </div>
-          <img className="screen-shot-7" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-8-57.png" />
-          <img className="screen-shot-8" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-8-56.png" />
-          <section id="1"></section>
-          <Frame
-            posterDesignStyle={{
-              marginLeft: "-6.50px",
-              marginRight: "-6.50px",
-            }}
-            style={{
-              left: "348px",
-              position: "absolute",
-              top: "150px",
-              width: "584px",
-            }}
-            text="UI/UX DESIGN: 1Cademy Website Prototype"
-            text1="Tools: Figma"
-            text2={
-              <>
-                Project information: prototyping 1Cademy web pages from low-fidelity wireframe to high-fidelity prototype.
-                Analyzed and proved by the UX research group and supervisors iteration by iteration.
-                <br />
-                (the link to the actual projects cannot be shared without my supervisor’s permission)
-              </>
-            }
-          />
+          <div className="group-7">
+            <div className="group-8">
+              <Frame
+                className="frame-13"
+                text="UI/UX DESIGN: Communieat"
+                text1="Tools: Figma"
+                text2="Communieat is an instant food ordering service mobile application that connects the cook and the user. Chefs can post their individualized recipes, while users can order healthier homemade food reasonably priced."
+              />
+              <img className="screen-shot-3" alt="Screen shot" src="/img/screen-shot-2023-06-08-at-2-43-2.png" />
+              <PropertyDefaultWrapper
+                className="button-instance"
+                property1="default"
+                text="View More Details"
+                to="/communieat"
+                viewMoreClassName="design-component-instance-node"
+              />
+            </div>
+            <div className="group-9">
+              <Frame
+                className="frame-13-instance"
+                text="UI/UX DESIGN: Freeze"
+                text1="Tools: Figma"
+                text2="FREEZE is an app that enables people to not waste any food they brought and not impulsively buy extra groceries that they won’t eat or have no idea about how to cook."
+              />
+              <img className="screen-shot-4" alt="Screen shot" src="/img/screen-shot-2023-06-07-at-9-16-1.png" />
+              <PropertyDefaultWrapper
+                className="button-2"
+                property1="default"
+                text="View More Details"
+                viewMoreClassName="design-component-instance-node"
+              />
+            </div>
+          </div>
+          <div id="2" className="group-10">
+            <img className="screen-shot-5" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-3.png" />
+            <Frame
+              className="frame-7"
+              text="Courses Poster Design"
+              text1="Tools: Adobe Photoshop, Adobe Color"
+              text2="Project information: used for UMICH Spring/Summer courses and UMICH biological station website construction"
+            />
+          </div>
+          <div className="group-11">
+            <div className="frame-8">
+              <Frame
+                className="frame-9"
+                text="Alphabet Poster Design"
+                text1="Tools: Adobe illustrator, Adobe Photoshop"
+                text2="Project information: SI 320 Graphic Design course project; Coming with a detailed description of the design idea, then reused the poster as an Alphabet Poster for an Asian international institution."
+              />
+              <img className="image" alt="Image" src="/img/image-3.png" />
+              <p className="link-to-view-entire">
+                <span className="text-wrapper-13">Link to view entire project with description</span>
+                <span className="text-wrapper-14">:&nbsp;&nbsp;</span>
+                <a
+                  href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:0646415f-cb2b-34b7-b7d3-c2d695c83afd"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <span className="text-wrapper-15">
+                    https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:0646415f-cb2b-34b7-b7d3-c2d695c83afd
+                  </span>
+                </a>
+              </p>
+            </div>
+          </div>
+          <div id="3" className="group-12">
+            <img className="page" alt="Page" src="/img/hw5-part2-page-6-1.png" />
+            <Frame
+              className="design-component-instance-node-2"
+              projectInformationClassName="frame-11"
+              text="Logo Design"
+              text1="Tools: Adobe illustrator"
+              text2="Project information: participating in the logo campaign of Just Futures (A public benefit corporation) and MTCIR (Michigan Transport Center for Immigrants and Refugees). Completing two complete identity guides for these two institutions."
+              toolsAdobeClassName="frame-10"
+            />
+            <img className="screen-shot-6" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-31-1.png" />
+          </div>
+          <div className="group-13">
+            <img className="lab" alt="Lab" src="/img/lab-8.png" />
+            <Frame
+              className="frame-12"
+              text="Animal Vector Icons"
+              text1="Tools: Adobe illustrator"
+              text2="Project information: Course project of SI 320 Graphic Design, used for a children’s book"
+              toolsAdobeClassName="frame-10"
+            />
+          </div>
+          <div className="component-2">
+            <FrameWrapper
+              className="frame-258-instance"
+              mainPageClassName="frame-15"
+              polygon="/img/polygon-1.png"
+              polygonClassName="frame-14"
+              text="Programming"
+              to="/programming-original"
+            />
+            <Link className="frame-16" to="/research">
+              <div className="next-project-UX-2">Research</div>
+              <img className="polygon-2" alt="Polygon" src="/img/polygon-1-1.png" />
+            </Link>
+          </div>
         </div>
       </div>
       <Timeline data={data} />

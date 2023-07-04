@@ -1,33 +1,25 @@
 .component {
-  height: 100px;
-  left: 193px;
+  height: 54px;
+  left: 5588px;
   position: relative;
-  top: 530px;
-  width: 399px;
+  top: -4955px;
+  width: 1185px;
 }
 
-.component .project-type {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 700;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: -1px;
-  width: 206px;
+.component .frame-258 {
+  align-items: center !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 13px !important;
 }
 
-.component .usability-needs-and {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 41px;
-  width: 399px;
+.component .frame-instance {
+  text-align: unset !important;
+}
+
+.component .frame-262 {
+  bottom: unset !important;
+  left: 882px !important;
+  right: unset !important;
+  top: 0 !important;
 }

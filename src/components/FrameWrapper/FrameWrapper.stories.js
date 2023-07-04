@@ -7,10 +7,10 @@ export default {
 
 export const Default = {
   args: {
-    style: {},
-    polygonStyle: {},
+    className: {},
+    polygonClassName: {},
     polygon: "/img/polygon-1-5.png",
-    mainPageStyle: {},
+    mainPageClassName: {},
     text: "Main Page",
   },
 };

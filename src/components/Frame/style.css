@@ -4,11 +4,11 @@
   flex-direction: column;
   gap: 25px;
   position: relative;
-  top: 2688px;
-  width: 550px;
+  top: 2844px;
+  width: fit-content;
 }
 
-.frame .poster-design {
+.frame .courses-poster {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
@@ -42,5 +42,5 @@
   line-height: normal;
   position: relative;
   text-align: center;
-  width: 550px;
+  width: 501px;
 }

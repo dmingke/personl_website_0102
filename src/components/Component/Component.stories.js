@@ -7,9 +7,11 @@ export default {
 
 export const Default = {
   args: {
-    style: {},
-    text: "Project Type",
-    usabilityNeedsAndStyle: {},
-    text1: "Usability Needs And Evaluation Course Project",
+    className: {},
+    frameWrapperPolygonClassName: {},
+    frameWrapperPolygon: "/img/polygon-1-2.png",
+    frameWrapperText: "Main Page",
+    divWrapperPolygon: "/img/polygon-1-3.png",
+    divWrapperPolygonClassName: {},
   },
 };

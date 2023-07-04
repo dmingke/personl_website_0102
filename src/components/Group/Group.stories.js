@@ -7,6 +7,7 @@ export default {
 
 export const Default = {
   args: {
-    style: {},
+    className: {},
+    topClassName: {},
   },
 };

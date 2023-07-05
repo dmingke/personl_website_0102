@@ -255,7 +255,7 @@ export const Communieat = () => {
             <div className="frame-100">
               <div className="overlap-group-22">
                 <div className="group-160">
-                  <img className="airbnb-logo-PNG" alt="Airbnb logo PNG" src="/img/image-41.png" />
+                  <img className="airbnb-logo-PNG" alt="Airbnb logo PNG" src="/img/airbnb-logo-png-6-1.png" />
                   <p className="pros-more-cost">
                     <span className="text-wrapper-128">Pros</span>
                     <span className="span-4">
@@ -283,7 +283,7 @@ export const Communieat = () => {
           <div className="flex-container-41">
             <div className="text-45">
               <span className="text-wrapper-137">
-                Before creating personas, we conducted user interviews with three individuals from diverse backgrounds
+                Before creating personas, we conducted user interviews with three individuals each person from diverse backgrounds
                 to understand their preferences and concerns regarding food consumption and preparation. The
                 interviews were carefully structured with non-direct and descriptive questions.
                 <br />

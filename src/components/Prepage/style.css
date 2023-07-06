@@ -1,0 +1,28 @@
+.frame {
+  align-items: flex-end;
+  display: flex;
+  gap: 10px;
+  left: 6838px;
+  position: relative;
+  top: -5590px;
+  width: fit-content;
+}
+
+.frame .polygon {
+  height: 24.25px;
+  min-width: 18px;
+  position: relative;
+}
+
+.frame .main-page {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

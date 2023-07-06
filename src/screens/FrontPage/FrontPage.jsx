@@ -44,7 +44,7 @@ export const FrontPage = () => {
               <PropertyDefaultWrapper
                 className="button-25"
                 property1="default"
-                text="See My Ux/ui Projects"
+                text="See My UX/UI Projects"
                 to="/1cademy-overview"
                 viewMoreClassName="button-24"
               />

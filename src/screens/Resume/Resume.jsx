@@ -144,7 +144,8 @@ export const Resume = () => {
               <div className="text-6">
                 <span className="text-wrapper-10">Organizational and Industrial Lab, University of Michigan</span>
                 <span className="text-wrapper-6">
-                  {"                                      "}&nbsp;&nbsp; |Ann Arbor, MI
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Ann
+                    Arbor, MI
                   <br />
                 </span>
               </div>

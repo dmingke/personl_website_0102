@@ -9,9 +9,9 @@
 .resume .div-2 {
   background-color: #ffffff;
   border: 1px none;
-  height: 2069px;
+  height: 2369px;
   position: relative;
-  width: 1400px;
+  width: 100%;
 }
 
 
@@ -20,17 +20,16 @@
 }
 
 .resume .frame-4 {
-  align-items: flex-end;
+  align-items: center;
   display: flex;
   flex-direction: column;
   gap: 50px;
   height: 1841px;
   justify-content: center;
-  left: 118px;
   padding: 20px;
   position: absolute;
   top: 150px;
-  width: 1164px;
+  width: 100%;
 }
 
 .resume .flex-container {
@@ -145,8 +144,7 @@
 }
 
 .resume .group-3 {
-  height: 1057px;
-  margin-right: -2px;
+  height: 1197px;
   min-width: 1109px;
   position: relative;
 }
@@ -229,7 +227,7 @@
   height: 443px;
   left: 5px;
   position: absolute;
-  top: 614px;
+  top: 690px;
   width: 1102px;
 }
 

@@ -6,13 +6,6 @@
   width: 100%;
 }
 
-.communieat .div-9 {
-  background-color: #ffffff;
-  border: 1px none;
-  height: 16403px;
-  position: relative;
-  width: 1400px;
-}
 
 .communieat .component-31 {
   height: 54px;
@@ -70,16 +63,14 @@
   display: flex;
   flex-direction: column;
   gap: 150px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: fit-content;
+  position: relative;
+  width: 100%;
 }
 
 .communieat .frame-94 {
   background-color: #c0d6ed;
   height: 910px;
-  min-width: 1400px;
+  width: 100%;
   position: relative;
 }
 
@@ -274,7 +265,7 @@
 .communieat .frame-96 {
   background-color: var(--light-blue);
   height: 538px;
-  min-width: 1400px;
+  width: 100%;
   position: relative;
 }
 
@@ -736,7 +727,7 @@
 .communieat .frame-103 {
   background-color: var(--light-blue);
   height: 1350px;
-  min-width: 1400px;
+  width: 100%;
   overflow: hidden;
   position: relative;
 }
@@ -1304,7 +1295,7 @@
 .communieat .frame-112 {
   background-color: var(--light-blue);
   height: 893px;
-  min-width: 1400px;
+  width: 100%;
   position: relative;
 }
 
@@ -1430,7 +1421,7 @@
 .communieat .frame-115 {
   background-color: var(--light-blue);
   height: 548px;
-  min-width: 1400px;
+  width: 100%;
   position: relative;
 }
 
@@ -1583,7 +1574,7 @@
 .communieat .frame-119 {
   background-color: var(--light-blue);
   height: 2386px;
-  min-width: 1400px;
+  width: 100%;
   position: relative;
 }
 
@@ -1942,7 +1933,7 @@
 .communieat .frame-123 {
   background-color: var(--light-blue);
   height: 518px;
-  min-width: 1400px;
+  width: 100%;
   position: relative;
 }
 

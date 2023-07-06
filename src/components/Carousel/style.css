@@ -1,0 +1,23 @@
+.carousel-container {
+    display: flex;
+    align-items: center;
+    overflow: hidden; /* Add this line */
+    position: relative; /* Add this if you want absolute positioning for arrows */
+}
+
+.arrow-left,
+.arrow-right {
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-size: 2em;
+    position: absolute; /* Add this if you want the arrows to overlay the content */
+}
+
+.arrow-left {
+    left: 10px; /* Adjust this value */
+}
+
+.arrow-right {
+    right: 10px; /* Adjust this value */
+}

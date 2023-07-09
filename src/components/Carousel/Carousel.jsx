@@ -1,31 +1,37 @@
-import React, { useState } from 'react';
+import React, { useRef } from 'react';
+import './style.css';
 
-const Carousel = ({ contents }) => {
-    const [currentIndex, setCurrentIndex] = useState(0);
+export const Carousel = ({ contents }) => {
+  const scrollAmount = 400; // You might need to adjust this value according to the width of your cards
+  const carouselRef = useRef();
 
-    const goLeft = () => {
-        if (currentIndex > 0) {
-            setCurrentIndex(currentIndex - 1);
-        }
-    };
+  const scrollLeft = () => {
+    carouselRef.current.scrollLeft -= scrollAmount;
+  };
 
-    const goRight = () => {
-        if (currentIndex < contents.length - 1) {
-            setCurrentIndex(currentIndex + 1);
-        }
-    };
+  const scrollRight = () => {
+    carouselRef.current.scrollLeft += scrollAmount;
+  };
 
-    return (
-        <div className="carousel-container">
-            <button className="arrow-left" onClick={goLeft}>
-                {"<"}
-            </button>
-            {contents[currentIndex]}
-            <button className="arrow-right" onClick={goRight}>
-                {">"}
-            </button>
+  return (
+    <div className='carousel-container'>
+      <button className='arrow-left' onClick={scrollLeft}>
+        <div className='vector-wrapper'>
+          <img className='vector-1' alt='Vector' src='/img/vector-4-1.png' />
         </div>
-    );
+      </button>
+      <div className='carousel-contents' ref={carouselRef}>
+        {contents.map((content, index) => (
+          <div key={index} className='carousel-item'>
+            {content}
+          </div>
+        ))}
+      </div>
+      <button className='arrow-right' onClick={scrollRight}>
+        <div className='vector-wrapper'>
+          <img className='vector-2' alt='Vector' src='/img/vector-4-1.png' />
+        </div>
+      </button>
+    </div>
+  );
 };
-
-export default Carousel;

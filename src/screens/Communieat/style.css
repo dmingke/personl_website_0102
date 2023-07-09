@@ -305,7 +305,7 @@
 
 .communieat .group-154 {
   height: 518px;
-  min-width: 1347px;
+  width: 1400px;
   position: relative;
 }
 
@@ -323,27 +323,28 @@
 }
 
 .communieat .component-32 {
-  height: 428px;
+  height: 434px;
   left: 0;
   position: absolute;
   top: 90px;
-  width: 1345px;
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  width: 1400px;
 }
 
 .communieat .overlap-10 {
-  height: 428px;
+  height: 434px;
   left: 33px;
+  overflow: hidden;
   position: relative;
-  width: 1312px;
+  width: 1800px;
 }
 
 .communieat .variant {
-  height: 428px;
-  left: 0;
-  overflow: hidden;
+  height: 434px;
   position: absolute;
   top: 0;
-  width: 1280px;
+  width: 1800px;
 }
 
 .communieat .frame-97 {
@@ -353,7 +354,7 @@
   border-radius: 20px;
   box-shadow: 0px 4px 4px #00000040;
   height: 428px;
-  left: 0;
+  left: 4px;
   overflow: hidden;
   position: absolute;
   top: 0;
@@ -380,7 +381,7 @@
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 400;
-  left: 6px;
+  left: 16px;
   letter-spacing: 0;
   line-height: 40px;
   position: absolute;
@@ -394,7 +395,7 @@
   font-family: "Lato", Helvetica;
   font-size: 24px;
   font-weight: 700;
-  left: 0;
+  left: 25px;
   letter-spacing: 0;
   line-height: 40px;
   position: absolute;
@@ -564,10 +565,10 @@
 
 .communieat .best-price {
   height: 120px;
-  left: -1210px;
+  left: 160px;
   object-fit: cover;
   position: absolute;
-  top: -7526px;
+  top: 9px;
   width: 120px;
 }
 
@@ -796,7 +797,7 @@
   background-color: #ffffff;
   border-radius: 30px;
   box-shadow: 0px 4px 4px #00000040;
-  height: 607px;
+  height: 610px;
   min-width: 630px;
   overflow: hidden;
   position: relative;

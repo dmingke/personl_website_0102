@@ -1,23 +1,32 @@
 .carousel-container {
     display: flex;
     align-items: center;
-    overflow: hidden; /* Add this line */
-    position: relative; /* Add this if you want absolute positioning for arrows */
+    position: relative;
+    height: 428px;
+    position: absolute;
+    width: 1310px;
+    overflow: hidden;
 }
 
-.arrow-left,
-.arrow-right {
-    cursor: pointer;
-    background: none;
-    border: none;
-    font-size: 2em;
-    position: absolute; /* Add this if you want the arrows to overlay the content */
+.carousel-contents {
+    display: flex;
+    
 }
 
-.arrow-left {
-    left: 10px; /* Adjust this value */
+.carousel-item {
+    flex-shrink: 0;
+    width: 33.33%;
 }
 
-.arrow-right {
-    right: 10px; /* Adjust this value */
+
+.vector-1, .vector-2 {
+    height: 67px;
+    left: 1245px;
+    position: absolute;
+    top: 181px;
+    width: 67px;
+}
+
+.vector-1 {
+    transform: translate(-50%, -50%) rotate(180deg);
 }

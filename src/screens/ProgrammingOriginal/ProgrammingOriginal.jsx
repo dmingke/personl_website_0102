@@ -140,7 +140,7 @@ export const ProgrammingOriginal = () => {
                 href="https://github.com/dmingke/cplus-projects-demo.git"
                 property1="g-it"
                 socialIcons="/img/social-icons.png"
-                text="Git: All Eecs 281 Projects"
+                text="Git: All C++ Projects"
                 viewMoreClassNameOverride="button-18"
               />
             </div>

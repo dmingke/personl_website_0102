@@ -1,11 +1,5 @@
-/*
-We're constantly improving the code you see. 
-Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
-*/
-
 import PropTypes from "prop-types";
 import React from "react";
-import { Link } from "react-router-dom";
 import "./style.css";
 
 export const PropertyDefaultWrapper = ({
@@ -17,12 +11,11 @@ export const PropertyDefaultWrapper = ({
   iconsClassName,
   icons = "/img/icons.png",
   socialIcons = "/img/social-icons.png",
-  to,
   href,
   href1,
 }) => {
   return (
-    <Link className={`property-default-wrapper ${property1} ${className}`} to={to}>
+    <div className={`property-default-wrapper ${property1} ${className}`}>
       {property1 === "default" && (
         <a className={`view-more ${viewMoreClassName}`} href={href1} rel="noopener noreferrer" target="_blank">
           {text}
@@ -42,7 +35,7 @@ export const PropertyDefaultWrapper = ({
           <img className={`icons ${iconsClassName}`} alt="Icons" src={property1 === "g-it" ? socialIcons : icons} />
         </>
       )}
-    </Link>
+    </div>
   );
 };
 
@@ -51,7 +44,6 @@ PropertyDefaultWrapper.propTypes = {
   text: PropTypes.string,
   icons: PropTypes.string,
   socialIcons: PropTypes.string,
-  to: PropTypes.string,
   href: PropTypes.string,
   href1: PropTypes.string,
 };

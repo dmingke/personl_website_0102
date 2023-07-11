@@ -229,36 +229,25 @@ export const ElementOverview = () => {
               <p className="text-wrapper-135">UI Design: Redesign the sidebar</p>
               <div className="flex-container-40">
                 <div className="text-43">
-                  <span className="text-wrapper-128">
                     I identified issues with the old design of the sidebar in
-                    <br />
-                  </span>
                 </div>
-                <div className="text-43">
-                  <span className="text-wrapper-128">
-                    aesthetics, <br />
-                  </span>
-                </div>
-                <div className="text-43">
-                  <span className="text-wrapper-128">
-                    space redundancy, <br />
-                  </span>
-                </div>
-                <div className="text-43">
-                  <span className="text-wrapper-128">
-                    non-intuitive layout: the link icon occupies one line itself, <br />
-                  </span>
-                </div>
-                <div className="text-43">
-                  <span className="text-wrapper-128">
-                    usability: mainly users need to click item by item to mark all read, <br />
-                  </span>
-                </div>
-                <div className="text-43">
-                  <span className="text-wrapper-128">
-                    word visibility: white font on orange background; gray font on white background,&nbsp;&nbsp; <br />
-                  </span>
-                </div>
+                <ul>
+                  <li className="text-43">
+                      aesthetics, 
+                  </li>
+                  <li className="text-43">
+                      space redundancy, 
+                  </li>
+                  <li className="text-43">
+                      non-intuitive layout: the link icon occupies one line itself, 
+                  </li>
+                  <li className="text-43">
+                      usability: mainly users need to click item by item to mark all read, 
+                  </li>
+                  <li className="text-43">
+                      word visibility: white font on orange background; gray font on white background,&nbsp;&nbsp; 
+                  </li>
+                </ul>
                 <div className="text-44">
                   <span className="text-wrapper-128">
                     and confirmed with project supervisor Ima and UX team leader Catherine the need for a new design. I

@@ -1,4 +1,4 @@
-.frame {
+.framenew {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -8,7 +8,7 @@
   width: fit-content;
 }
 
-.frame .courses-poster {
+.framenew .courses-poster {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 32px;
@@ -17,11 +17,12 @@
   line-height: normal;
   margin-top: -1px;
   position: relative;
+  align-items: center;
   white-space: nowrap;
   width: fit-content;
 }
 
-.frame .tools-adobe {
+.framenew .tools-adobe {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;
@@ -33,7 +34,7 @@
   width: 453px;
 }
 
-.frame .project-information {
+.framenew .project-information {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;

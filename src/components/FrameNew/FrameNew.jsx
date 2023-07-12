@@ -1,13 +1,8 @@
-/*
-We're constantly improving the code you see. 
-Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
-*/
-
 import PropTypes from "prop-types";
 import React from "react";
 import "./style.css";
 
-export const Frame = ({
+export const FrameNew = ({
   className,
   text = "Courses Poster Design",
   text1 = "Tools: Adobe Photoshop, Adobe Color",
@@ -17,7 +12,7 @@ export const Frame = ({
   hasCoursesPoster = true,
 }) => {
   return (
-    <div className={`frame ${className}`}>
+    <div className={`framenew ${className}`}>
       {hasCoursesPoster && <div className="courses-poster">{text}</div>}
 
       <p className={`tools-adobe ${toolsAdobeClassName}`}>{text1}</p>
@@ -26,7 +21,7 @@ export const Frame = ({
   );
 };
 
-Frame.propTypes = {
+FrameNew.propTypes = {
   text: PropTypes.string,
   text1: PropTypes.string,
   text2: PropTypes.string,

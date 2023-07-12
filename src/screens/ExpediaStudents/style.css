@@ -456,7 +456,7 @@
   flex-direction: column;
   gap: 20px;
   left: 142px;
-  position: absolute;
+  position: relative;
   top: 0;
   width: fit-content;
 }
@@ -465,7 +465,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  gap: 150px;
+  gap: 200px;
   left: 153px;
   position: absolute;
   top: 2453px;
@@ -796,11 +796,12 @@
   align-items: center;
   display: flex;
   flex-direction: column;
+  gap: 30px;
   left: 58px;
-  position: absolute;
-  top: 0;
+  position: relative;
   width: fit-content;
 }
+
 
 .expedia-students .image-15 {
   height: 354px;
@@ -912,7 +913,7 @@
   height: 54px;
   left: 108px;
   position: absolute;
-  top: 9261px;
+  top: 9661px;
   width: 1185px;
 }
 

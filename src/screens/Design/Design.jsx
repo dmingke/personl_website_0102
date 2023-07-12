@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Frame } from "../../components/Frame";
+import { FrameNew } from "../../components/FrameNew";
 import { FrameWrapper } from "../../components/FrameWrapper";
 import { Group } from "../../components/Group";
 import { NavigationBar } from "../../components/NavigationBar";
@@ -45,7 +45,7 @@ export const Design = () => {
           </div>
           <div className="group-7">
             <div className="group-8">
-              <Frame
+              <FrameNew
                 className="frame-13"
                 text="UI/UX DESIGN: Communieat"
                 text1="Tools: Figma"
@@ -61,7 +61,7 @@ export const Design = () => {
               />
             </div>
             <div className="group-9">
-              <Frame
+              <FrameNew
                 className="frame-13-instance"
                 text="UI/UX DESIGN: Freeze"
                 text1="Tools: Figma"
@@ -72,13 +72,14 @@ export const Design = () => {
                 className="button-2"
                 property1="default"
                 text="View More Details"
+                to="/freeze"
                 viewMoreClassName="design-component-instance-node"
               />
             </div>
           </div>
           <div id="2" className="group-10">
             <img className="screen-shot-5" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-3.png" />
-            <Frame
+            <FrameNew
               className="frame-7"
               text="Courses Poster Design"
               text1="Tools: Adobe Photoshop, Adobe Color"
@@ -87,7 +88,7 @@ export const Design = () => {
           </div>
           <div className="group-11">
             <div className="frame-8">
-              <Frame
+              <FrameNew
                 className="frame-9"
                 text="Alphabet Poster Design"
                 text1="Tools: Adobe illustrator, Adobe Photoshop"
@@ -111,7 +112,7 @@ export const Design = () => {
           </div>
           <div id="3" className="group-12">
             <img className="page" alt="Page" src="/img/hw5-part2-page-6-1.png" />
-            <Frame
+            <FrameNew
               className="design-component-instance-node-2"
               projectInformationClassName="frame-11"
               text="Logo Design"
@@ -123,7 +124,7 @@ export const Design = () => {
           </div>
           <div className="group-13">
             <img className="lab" alt="Lab" src="/img/lab-8.png" />
-            <Frame
+            <FrameNew
               className="frame-12"
               text="Animal Vector Icons"
               text1="Tools: Adobe illustrator"

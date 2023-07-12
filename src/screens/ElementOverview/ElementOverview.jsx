@@ -1,7 +1,7 @@
 import React from "react";
 import { Component } from "../../components/Component";
 import { ComponentWrapper } from "../../components/ComponentWrapper";
-import { Frame } from "../../components/Frame";
+import { FrameNew } from "../../components/FrameNew";
 import { Group } from "../../components/Group";
 import { NavigationBar } from "../../components/NavigationBar";
 import { Timeline } from "../../components/Timeline";
@@ -273,7 +273,7 @@ export const ElementOverview = () => {
                 </div>
               </div>
               <img className="screen-shot-20" alt="Screen shot" src="/img/screen-shot-2023-06-15-at-10-49-1.png" />
-              <Frame
+              <FrameNew
                 className="frame-100"
                 hasCoursesPoster={false}
                 projectInformationClassName="frame-102"

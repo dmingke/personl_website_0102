@@ -361,7 +361,7 @@ export const ExpediaStudents = () => {
                   traveling behaviors based on data from surveys and interviews.
                 </p>
               </div>
-              <img className="image-15" alt="Image" src="/img/image-10-1.png" />
+              <img className="image-15" alt="Image" src="/img/jounary-map.png" />
               <img className="image-16" alt="Image" src="/img/image-8.png" />
             </div>
           </div>

@@ -1,8 +1,8 @@
-import { Frame } from ".";
+import { FrameNew } from ".";
 
 export default {
-  title: "Components/Frame",
-  component: Frame,
+  title: "Components/FrameNew",
+  component: FrameNew,
 };
 
 export const Default = {

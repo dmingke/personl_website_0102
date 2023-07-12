@@ -1,5 +1,6 @@
 import PropTypes from "prop-types";
 import React from "react";
+import { Link } from "react-router-dom";
 import "./style.css";
 
 export const PropertyDefaultWrapper = ({
@@ -11,31 +12,31 @@ export const PropertyDefaultWrapper = ({
   iconsClassName,
   icons = "/img/icons.png",
   socialIcons = "/img/social-icons.png",
+  to,
   href,
   href1,
 }) => {
+  const Wrapper = href || href1 ? 'a' : Link;
+  const wrapperProps = href ? { href, target: '_blank', rel: 'noopener noreferrer' } : { to };
   return (
-    <div className={`property-default-wrapper ${property1} ${className}`}>
+    <Wrapper className={`property-default-wrapper ${property1} ${className}`} {...wrapperProps}>
       {property1 === "default" && (
-        <a className={`view-more ${viewMoreClassName}`} href={href1} rel="noopener noreferrer" target="_blank">
+        <span className={`view-more ${viewMoreClassName}`}>
           {text}
-        </a>
+        </span>
       )}
 
       {["g-it", "link-to-other-pages"].includes(property1) && (
         <>
-          <a
+          <span
             className={`view-more-2 ${viewMoreClassNameOverride}`}
-            href={href}
-            rel="noopener noreferrer"
-            target="_blank"
           >
             {text}
-          </a>
+          </span>
           <img className={`icons ${iconsClassName}`} alt="Icons" src={property1 === "g-it" ? socialIcons : icons} />
         </>
       )}
-    </div>
+    </Wrapper>
   );
 };
 
@@ -44,6 +45,7 @@ PropertyDefaultWrapper.propTypes = {
   text: PropTypes.string,
   icons: PropTypes.string,
   socialIcons: PropTypes.string,
+  to: PropTypes.string,
   href: PropTypes.string,
   href1: PropTypes.string,
 };

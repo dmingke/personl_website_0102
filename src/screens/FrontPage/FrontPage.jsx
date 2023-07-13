@@ -76,7 +76,7 @@ export const FrontPage = () => {
                         </span>
                       </div>
                       <div className="text-24">
-                        <span className="text-wrapper-80">React, SQL, Python, Shell Scripting, C++...</span>
+                        <span className="text-wrapper-90">React, SQL, Python, Shell Scripting, C++...</span>
                       </div>
                     </div>
                     <div className="text-wrapper-81">Programming</div>
@@ -97,10 +97,10 @@ export const FrontPage = () => {
                         </span>
                       </div>
                       <div className="text-24">
-                        <span className="text-wrapper-80">Adobe illustrator, Adobe Photoshop, Figma</span>
+                        <span className="text-wrapper-90">Adobe illustrator, Adobe Photoshop, Figma</span>
                       </div>
                     </div>
-                    <div className="text-wrapper-81">Design</div>
+                    <div className="text-wrapper-89">Design</div>
                   </div>
                 </div>
               </div>
@@ -118,10 +118,10 @@ export const FrontPage = () => {
                         </span>
                       </div>
                       <div className="text-24">
-                        <span className="text-wrapper-80">R, SPSS, Excel, SQL</span>
+                        <span className="text-wrapper-90">R, SPSS, Excel, SQL</span>
                       </div>
                     </div>
-                    <div className="text-wrapper-81">Research & Analysis</div>
+                    <div className="text-wrapper-88">Research & Analysis</div>
                   </div>
                 </div>
               </div>

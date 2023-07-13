@@ -311,11 +311,6 @@
 }
 
 .front-page .text-24 {
-  color: #000000;
-  font-family: "-apple-system, BlinkMacSystemFont, sans-serif";
-  font-size: 24px;
-  font-weight: 400;
-  letter-spacing: 0.96px;
   line-height: normal;
   position: relative;
   text-align: center;
@@ -323,6 +318,14 @@
 }
 
 .front-page .text-wrapper-80 {
+  color: #000000;
+  font-family: "-apple-system, BlinkMacSystemFont, sans-serif";
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0.96px;
+}
+
+.front-page .text-wrapper-90 {
   color: #000000;
   font-family: "-apple-system, BlinkMacSystemFont, sans-serif";
   font-size: 24px;
@@ -334,7 +337,7 @@
   color: #000000;
   font-family: "Lemon", Helvetica;
   font-size: 32px;
-  font-weight: 400;
+  font-weight: 300;
   left: 48px;
   letter-spacing: 0;
   line-height: normal;
@@ -348,11 +351,10 @@
   color: #000000;
   font-family: "Lemon", Helvetica;
   font-size: 32px;
-  font-weight: 400;
-  left: 53px;
+  font-weight: 300;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
+  position: relative;
   text-align: center;
   text-shadow: 0px 4px 4px #00000040;
   top: 19px;
@@ -362,15 +364,13 @@
 .front-page .text-wrapper-88 {
   color: #000000;
   font-family: "Lemon", Helvetica;
-  font-size: 32px;
-  font-weight: 400;
-  left: 36px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
+  font-size: 26px;
+  font-weight: 300;
+  position: relative;
   text-align: center;
   text-shadow: 0px 4px 4px #00000040;
   top: 19px;
+  white-space: nowrap;
 }
 
 

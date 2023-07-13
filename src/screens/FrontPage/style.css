@@ -67,7 +67,7 @@
 }
 
 .front-page .text-wrapper-75 {
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
 }
 
 .front-page .text-21 {
@@ -83,18 +83,18 @@
 }
 
 .front-page .text-wrapper-76 {
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-weight: 700;
 }
 
 .front-page .text-wrapper-77 {
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 20px;
 }
 
 .front-page .a-senior-student-at {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 400;
   left: 478px;
@@ -231,7 +231,7 @@
 
 .front-page .text-22 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 500;
   letter-spacing: 0.96px;
@@ -243,7 +243,7 @@
 
 .front-page .text-wrapper-79 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 500;
   letter-spacing: 0.96px;
@@ -252,7 +252,7 @@
 
 .front-page .text-23 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 500;
   letter-spacing: 0.96px;
@@ -312,7 +312,7 @@
 
 .front-page .text-24 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 400;
   letter-spacing: 0.96px;
@@ -324,7 +324,7 @@
 
 .front-page .text-wrapper-80 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 400;
   letter-spacing: 0.96px;
@@ -432,7 +432,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  gap: 23px;
+  gap: 50px;
   left: 0;
   position: absolute;
   top: 93px;
@@ -448,7 +448,7 @@
 
 .front-page .text-wrapper-82 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 700;
   left: 0;
@@ -461,7 +461,7 @@
 
 .front-page .text-wrapper-83 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 400;
   left: 34px;
@@ -493,7 +493,7 @@
 
 .front-page .text-25 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 400;
   letter-spacing: 0;
@@ -504,7 +504,7 @@
 
 .front-page .text-wrapper-84 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 400;
   letter-spacing: 0;
@@ -529,7 +529,7 @@
 
 .front-page .text-26 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Arial";
   font-size: 24px;
   font-weight: 400;
   letter-spacing: 0;

@@ -326,7 +326,7 @@
   color: #000000;
   font-family: "-apple-system, BlinkMacSystemFont, sans-serif";
   font-size: 24px;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 0.96px;
 }
 
@@ -343,6 +343,36 @@
   text-shadow: 0px 4px 4px #00000040;
   top: 19px;
 }
+
+.front-page .text-wrapper-89 {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 19px;
+}
+
+
+.front-page .text-wrapper-88 {
+  color: #000000;
+  font-family: "Lemon", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 19px;
+}
+
 
 .front-page .button-28 {
   left: 120px !important;

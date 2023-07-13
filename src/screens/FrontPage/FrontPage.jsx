@@ -39,7 +39,8 @@ export const FrontPage = () => {
               <div className="group-81">
                 <HoverEffect className="screen-shot-13" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-13-1-1.png" 
                 to="/communieat" />
-                <HoverEffect className="screen-shot-14" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-07-1-1.png" />
+                <HoverEffect className="screen-shot-14" alt="Screen shot" src="/img/screen-shot-2023-06-15-at-10-49-1.png" 
+                to="/1cademy-overview"/>
               </div>
               <h1 className="text-wrapper-78">My Work</h1>
               <div className="flex-container-19">

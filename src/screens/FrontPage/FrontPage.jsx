@@ -76,7 +76,7 @@ export const FrontPage = () => {
                         </span>
                       </div>
                       <div className="text-24">
-                        <span className="text-wrapper-90">React, SQL, Python, Shell Scripting, C++...</span>
+                        <span className="text-wrapper-90">React, MySql, Python, Shell Scripting, C++...</span>
                       </div>
                     </div>
                     <div className="text-wrapper-81">Programming</div>
@@ -93,7 +93,7 @@ export const FrontPage = () => {
                     <div className="flex-container-20">
                       <div className="text-24">
                         <span className="text-wrapper-80">
-                          Poster Design, Identify Guide, Logo Design, App Design, Ux Design etc. <br />
+                          Poster Design, Identify Guide, Logo Design, App Design, UX Design etc. <br />
                         </span>
                       </div>
                       <div className="text-24">

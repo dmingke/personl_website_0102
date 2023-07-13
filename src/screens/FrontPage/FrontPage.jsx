@@ -3,6 +3,7 @@ import { NavigationBar } from "../../components/NavigationBar";
 import { Group } from "../../components/Group";
 import { PropertyDefaultWrapper } from "../../components/PropertyDefaultWrapper";
 import "./style.css";
+import HoverEffect from "../../components/HoverEffect/HoverEffect";
 
 export const FrontPage = () => {
   return (
@@ -32,33 +33,13 @@ export const FrontPage = () => {
             </p>
             <img className="ellipse-3" alt="Ellipse" src="/img/ellipse-1.png" />
           </div>
-          <PropertyDefaultWrapper
-            className="button-23"
-            property1="default"
-            text="See My Resume"
-            to="/resumezhong"
-            viewMoreClassName="button-24"
-          />
           <div className="frame-59">
             <div className="group-80">
-              <PropertyDefaultWrapper
-                className="button-25"
-                property1="default"
-                text="See My UX/UI Projects"
-                to="/1cademy-overview"
-                viewMoreClassName="button-24"
-              />
-              <PropertyDefaultWrapper
-                className="button-26"
-                property1="default"
-                text="See My Development Projects"
-                to="/programming-original"
-                viewMoreClassName="button-27"
-              />
-              <img className="rectangle-15" alt="Rectangle" src="/img/rectangle-50.png" />
+              <HoverEffect className="rectangle-15" alt="Rectangle" src="/img/rectangle-50.png" to="/programming-original"/>
               <div className="group-81">
-                <img className="screen-shot-13" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-13-1-1.png" />
-                <img className="screen-shot-14" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-07-1-1.png" />
+                <HoverEffect className="screen-shot-13" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-13-1-1.png" 
+                to="/communieat" />
+                <HoverEffect className="screen-shot-14" alt="Screen shot" src="/img/screen-shot-2023-06-10-at-12-07-1-1.png" />
               </div>
               <h1 className="text-wrapper-78">My Work</h1>
               <div className="flex-container-19">

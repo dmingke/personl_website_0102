@@ -1,7 +1,6 @@
 import React from "react";
 import { NavigationBar } from "../../components/NavigationBar";
 import { Group } from "../../components/Group";
-import { PropertyDefaultWrapper } from "../../components/PropertyDefaultWrapper";
 import "./style.css";
 import HoverEffect from "../../components/HoverEffect/HoverEffect";
 
@@ -67,7 +66,7 @@ export const FrontPage = () => {
             </div>
             <div className="group-82">
               <div className="overlap-6">
-                <img className="rectangle-16" alt="Rectangle" src="/img/rectangle-2.png" />
+                <HoverEffect className="rectangle-16" alt="Rectangle" src="/img/rectangle-2.png" to="/programming-original"/>
                 <div className="group-83">
                   <div className="overlap-group-9">
                     <div className="flex-container-20">
@@ -81,23 +80,50 @@ export const FrontPage = () => {
                       </div>
                     </div>
                     <div className="text-wrapper-81">Programming</div>
-                    <PropertyDefaultWrapper className="button-28" property1="default" text="View More" />
                   </div>
                 </div>
               </div>
             </div>
             <div className="group-84">
               <div className="overlap-7">
-                <img className="screen-shot-15" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-1.png" />
-                <img className="screen-shot-16" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-2.png" />
-                <img className="group-85" alt="Group" src="/img/group-3.png" />
+                <HoverEffect className="screen-shot-15" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-1.png" to="/design"/>
+                <HoverEffect className="screen-shot-16" alt="Screen shot" src="/img/screen-shot-2023-05-27-at-7-27-2.png" to="/design"/>
+                <div className="group-85" >
+                  <div className="overlap-group-9">
+                    <div className="flex-container-20">
+                      <div className="text-24">
+                        <span className="text-wrapper-80">
+                          Poster Design, Identify Guide, Logo Design, App Design, Ux Design etc. <br />
+                        </span>
+                      </div>
+                      <div className="text-24">
+                        <span className="text-wrapper-80">Adobe illustrator, Adobe Photoshop, Figma</span>
+                      </div>
+                    </div>
+                    <div className="text-wrapper-81">Design</div>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="group-86">
               <div className="overlap-8">
-                <img className="rectangle-17" alt="Rectangle" src="/img/rectangle-6.png" />
-                <img className="rectangle-18" alt="Rectangle" src="/img/rectangle-7.png" />
-                <img className="group-87" alt="Group" src="/img/group-6.png" />
+                <HoverEffect className="rectangle-17" alt="Rectangle" src="/img/rectangle-6.png" to="/research"/>
+                <HoverEffect className="rectangle-18" alt="Rectangle" src="/img/rectangle-7.png" to="/research"/>
+                <div className="group-87">
+                <div className="overlap-group-9">
+                    <div className="flex-container-20">
+                      <div className="text-24">
+                        <span className="text-wrapper-80">
+                          Research Assistant in I/O lab and Cognitive Psychology of learning Lab, 2 Needs Assessment and Usability Evaluation Projects<br />
+                        </span>
+                      </div>
+                      <div className="text-24">
+                        <span className="text-wrapper-80">R, SPSS, Excel, SQL</span>
+                      </div>
+                    </div>
+                    <div className="text-wrapper-81">Research & Analysis</div>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="group-88">

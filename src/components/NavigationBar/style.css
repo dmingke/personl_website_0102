@@ -56,9 +56,23 @@
   line-height: normal;
   margin-top: -1px;
   position: relative;
-  text-decoration: underline;
   width: fit-content;
 }
+
+.navigation-bar .text-wrapper:hover,
+.navigation-bar .programming:hover,
+.navigation-bar .design-2:hover,
+.navigation-bar .research-2:hover {
+  text-decoration: underline;
+}
+
+
+.navigation-bar .active-tab {
+  background-color: #f0f0f0;
+  text-decoration: underline;
+}
+
+
 
 .navigation-bar .dropdown-wrapper {
   position: relative;
@@ -69,7 +83,6 @@
   border: none;
   color: #000000;
   cursor: pointer;
-  text-decoration: underline;
   font-family: "Lato", Helvetica;
   font-size: 20px;
   font-weight: 600;

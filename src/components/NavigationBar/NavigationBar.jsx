@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import  NavLink from './NavLink';
 import "./style.css";
 
 export const NavigationBar = ({ style, to, to1, to2, to3, to4 }) => {
@@ -17,12 +17,12 @@ export const NavigationBar = ({ style, to, to1, to2, to3, to4 }) => {
   return (
     <div className="navigation-bar" style={style}>
       <div className="div">
-        <Link className="mingke-dai" to={to}>
+        <NavLink className="mingke-dai" activeClassName="active-tab" to={to}>
           MINGKE DAI
-        </Link>
-        <Link className="text-wrapper" to={to1}>
+        </NavLink>
+        <NavLink className="text-wrapper" activeClassName="active-tab" to={to1}>
           RESUME
-        </Link>
+        </NavLink>
         <div
           className="dropdown-wrapper"
           onMouseEnter={handleDropdownOpen}
@@ -34,23 +34,23 @@ export const NavigationBar = ({ style, to, to1, to2, to3, to4 }) => {
           </button>
           {isDropdownOpen && (
             <div className="dropdown-menu">
-              <Link to="/1cademy-overview">1Cademy</Link>
-              <Link to="/expedia-students-travel">UX Research: Student travel</Link>
-              <Link to="/communieat">UI/UX Design: Communieat</Link>
-              <Link to="/web-development">Web Development</Link>
-              <Link to="/freeze">UI/UX Design: FREEZE</Link>
+              <NavLink activeClassName="active-tab" to="/1cademy-overview">1Cademy</NavLink>
+              <NavLink activeClassName="active-tab" to="/expedia-students-travel">UX Research: Student travel</NavLink>
+              <NavLink activeClassName="active-tab" to="/communieat">UI/UX Design: Communieat</NavLink>
+              <NavLink activeClassName="active-tab" to="/web-development">Web Development</NavLink>
+              <NavLink activeClassName="active-tab" to="/freeze">UI/UX Design: FREEZE</NavLink>
             </div>
           )}
         </div>
-        <Link className="programming" to={to2}>
+        <NavLink className="programming" activeClassName="active-tab" to={to2}>
           PROGRAMMING
-        </Link>
-        <Link className="design-2" to={to3}>
+        </NavLink>
+        <NavLink className="design-2" activeClassName="active-tab" to={to3}>
           DESIGN
-        </Link>
-        <Link className="research-2" to={to4}>
+        </NavLink>
+        <NavLink className="research-2" activeClassName="active-tab" to={to4}>
           RESEARCH
-        </Link>
+        </NavLink>
       </div>
     </div>
   );

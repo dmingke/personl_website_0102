@@ -20,8 +20,6 @@ export const FrontPage = () => {
               </div>
               <div className="text-21">
                 <span className="text-wrapper-74">I’m Mingke Dai</span>
-                <span className="text-wrapper-76">&nbsp;</span>
-                <span className="text-wrapper-77">*Cynthia Lee is my preferred name</span>
               </div>
             </div>
             <p className="a-senior-student-at">

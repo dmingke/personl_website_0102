@@ -149,13 +149,13 @@ export const ResumeScreen = () => {
             </div>
             <div className="text-18">
               <span className="span-2">
-                Python, CSS3, HTML5, SPSS, R, React, Swift, Shell Scripting，熟练
+                C++, Python, CSS3, HTML5, SPSS, R, React, Swift, Shell Scripting，熟练
                 <br />
               </span>
             </div>
             <div className="text-18">
               <span className="span-2">
-                C++, Office软件，photoshop，illustrator，Figma， 熟练
+                Office软件，photoshop，illustrator，Figma， 熟练
                 <br />
               </span>
             </div>

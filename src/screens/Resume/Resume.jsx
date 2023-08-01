@@ -37,14 +37,14 @@ export const Resume = () => {
               </div>
               <ul>
                 <li className="span-wrapper">
-                    Bachelor of Science in Psychology &amp; Cognitive
+                    Bachelor of Science in Psychology &amp; Computer
                     Science                                                                               
                 </li>
                 <li className="text-3">
-                    Minor in Computer Science and UX Design
+                    Minor in Cognitive Science and UX Design
                 </li>
                 <li className="text-3">
-                  Major GPA: 3.87/4.0; Cumulative GPA: 3.6/4.0
+                  GPA: 3.87/4.0;
                 </li>
               </ul>
             </div>
